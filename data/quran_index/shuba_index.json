@@ -1,0 +1,6918 @@
+{
+  "riwayah": "shuba",
+  "riwayah_name": "شعبة عن عاصم",
+  "total_surahs": 114,
+  "total_ayat": 6236,
+  "total_juzs": 30,
+  "total_pages": 604,
+  "surahs": [
+    {
+      "number": 1,
+      "name_ar": "الفَاتِحة",
+      "name_en": "Al-Fātiḥah",
+      "start_page": 1,
+      "end_page": 1,
+      "ayat_count": 7,
+      "juz_start": 1,
+      "juz_end": 1
+    },
+    {
+      "number": 2,
+      "name_ar": "البَقَرَة",
+      "name_en": "Al-Baqarah",
+      "start_page": 2,
+      "end_page": 49,
+      "ayat_count": 286,
+      "juz_start": 1,
+      "juz_end": 3
+    },
+    {
+      "number": 3,
+      "name_ar": "آل عِمران",
+      "name_en": "Āl-‘Imrān",
+      "start_page": 50,
+      "end_page": 76,
+      "ayat_count": 200,
+      "juz_start": 3,
+      "juz_end": 4
+    },
+    {
+      "number": 4,
+      "name_ar": "النِّسَاء",
+      "name_en": "An-Nisā’",
+      "start_page": 77,
+      "end_page": 106,
+      "ayat_count": 176,
+      "juz_start": 4,
+      "juz_end": 6
+    },
+    {
+      "number": 5,
+      "name_ar": "المَائدة",
+      "name_en": "Al-Mā’idah",
+      "start_page": 106,
+      "end_page": 127,
+      "ayat_count": 120,
+      "juz_start": 6,
+      "juz_end": 7
+    },
+    {
+      "number": 6,
+      "name_ar": "الأنعَام",
+      "name_en": "Al-An‘ām",
+      "start_page": 128,
+      "end_page": 150,
+      "ayat_count": 165,
+      "juz_start": 7,
+      "juz_end": 8
+    },
+    {
+      "number": 7,
+      "name_ar": "الأعرَاف",
+      "name_en": "Al-A‘rāf",
+      "start_page": 151,
+      "end_page": 176,
+      "ayat_count": 206,
+      "juz_start": 8,
+      "juz_end": 9
+    },
+    {
+      "number": 8,
+      "name_ar": "الأنفَال",
+      "name_en": "Al-Anfāl",
+      "start_page": 177,
+      "end_page": 186,
+      "ayat_count": 75,
+      "juz_start": 9,
+      "juz_end": 10
+    },
+    {
+      "number": 9,
+      "name_ar": "التوبَة",
+      "name_en": "At-Taubah",
+      "start_page": 187,
+      "end_page": 207,
+      "ayat_count": 129,
+      "juz_start": 10,
+      "juz_end": 11
+    },
+    {
+      "number": 10,
+      "name_ar": "يُونس",
+      "name_en": "Yūnus",
+      "start_page": 208,
+      "end_page": 221,
+      "ayat_count": 109,
+      "juz_start": 11,
+      "juz_end": 11
+    },
+    {
+      "number": 11,
+      "name_ar": "هُود",
+      "name_en": "Hūd",
+      "start_page": 221,
+      "end_page": 235,
+      "ayat_count": 123,
+      "juz_start": 11,
+      "juz_end": 12
+    },
+    {
+      "number": 12,
+      "name_ar": "يُوسُف",
+      "name_en": "Yūsuf",
+      "start_page": 235,
+      "end_page": 248,
+      "ayat_count": 111,
+      "juz_start": 12,
+      "juz_end": 13
+    },
+    {
+      "number": 13,
+      "name_ar": "الرَّعد",
+      "name_en": "Ar-Ra‘d",
+      "start_page": 249,
+      "end_page": 255,
+      "ayat_count": 43,
+      "juz_start": 13,
+      "juz_end": 13
+    },
+    {
+      "number": 14,
+      "name_ar": "إبراهِيم",
+      "name_en": "Ibrāhīm",
+      "start_page": 255,
+      "end_page": 261,
+      "ayat_count": 52,
+      "juz_start": 13,
+      "juz_end": 13
+    },
+    {
+      "number": 15,
+      "name_ar": "الحِجر",
+      "name_en": "Al-Ḥijr",
+      "start_page": 262,
+      "end_page": 267,
+      "ayat_count": 99,
+      "juz_start": 14,
+      "juz_end": 14
+    },
+    {
+      "number": 16,
+      "name_ar": "النَّحل",
+      "name_en": "An-Naḥl",
+      "start_page": 267,
+      "end_page": 281,
+      "ayat_count": 128,
+      "juz_start": 14,
+      "juz_end": 14
+    },
+    {
+      "number": 17,
+      "name_ar": "الإسرَاء",
+      "name_en": "Al-Isrā’",
+      "start_page": 282,
+      "end_page": 293,
+      "ayat_count": 111,
+      "juz_start": 15,
+      "juz_end": 15
+    },
+    {
+      "number": 18,
+      "name_ar": "الكَهف",
+      "name_en": "Al-Kahf",
+      "start_page": 293,
+      "end_page": 304,
+      "ayat_count": 110,
+      "juz_start": 15,
+      "juz_end": 16
+    },
+    {
+      "number": 19,
+      "name_ar": "مَريَم",
+      "name_en": "Maryam",
+      "start_page": 305,
+      "end_page": 312,
+      "ayat_count": 98,
+      "juz_start": 16,
+      "juz_end": 16
+    },
+    {
+      "number": 20,
+      "name_ar": "طه",
+      "name_en": "Ṭā-Hā",
+      "start_page": 312,
+      "end_page": 321,
+      "ayat_count": 135,
+      "juz_start": 16,
+      "juz_end": 16
+    },
+    {
+      "number": 21,
+      "name_ar": "الأنبيَاء",
+      "name_en": "Al-Anbiyā’",
+      "start_page": 322,
+      "end_page": 331,
+      "ayat_count": 112,
+      "juz_start": 17,
+      "juz_end": 17
+    },
+    {
+      "number": 22,
+      "name_ar": "الحج",
+      "name_en": "Al-Ḥajj",
+      "start_page": 332,
+      "end_page": 341,
+      "ayat_count": 78,
+      "juz_start": 17,
+      "juz_end": 17
+    },
+    {
+      "number": 23,
+      "name_ar": "المؤمنُون",
+      "name_en": "Al-Mu’minūn",
+      "start_page": 342,
+      "end_page": 349,
+      "ayat_count": 118,
+      "juz_start": 18,
+      "juz_end": 18
+    },
+    {
+      "number": 24,
+      "name_ar": "النور",
+      "name_en": "An-Nūr",
+      "start_page": 350,
+      "end_page": 359,
+      "ayat_count": 64,
+      "juz_start": 18,
+      "juz_end": 18
+    },
+    {
+      "number": 25,
+      "name_ar": "الفُرقَان",
+      "name_en": "Al-Furqān",
+      "start_page": 359,
+      "end_page": 366,
+      "ayat_count": 77,
+      "juz_start": 18,
+      "juz_end": 19
+    },
+    {
+      "number": 26,
+      "name_ar": "الشعراء",
+      "name_en": "Ash-Shu‘arā’",
+      "start_page": 367,
+      "end_page": 376,
+      "ayat_count": 227,
+      "juz_start": 19,
+      "juz_end": 19
+    },
+    {
+      "number": 27,
+      "name_ar": "النَّمل",
+      "name_en": "An-Naml",
+      "start_page": 377,
+      "end_page": 385,
+      "ayat_count": 93,
+      "juz_start": 19,
+      "juz_end": 20
+    },
+    {
+      "number": 28,
+      "name_ar": "القَصَص",
+      "name_en": "Al-Qaṣaṣ",
+      "start_page": 385,
+      "end_page": 396,
+      "ayat_count": 88,
+      "juz_start": 20,
+      "juz_end": 20
+    },
+    {
+      "number": 29,
+      "name_ar": "العَنكبُوت",
+      "name_en": "Al-‘Ankabūt",
+      "start_page": 396,
+      "end_page": 404,
+      "ayat_count": 69,
+      "juz_start": 20,
+      "juz_end": 21
+    },
+    {
+      "number": 30,
+      "name_ar": "الرُّوم",
+      "name_en": "Ar-Rūm",
+      "start_page": 404,
+      "end_page": 410,
+      "ayat_count": 60,
+      "juz_start": 21,
+      "juz_end": 21
+    },
+    {
+      "number": 31,
+      "name_ar": "لُقمَان",
+      "name_en": "Luqmān",
+      "start_page": 411,
+      "end_page": 414,
+      "ayat_count": 34,
+      "juz_start": 21,
+      "juz_end": 21
+    },
+    {
+      "number": 32,
+      "name_ar": "السَّجدة",
+      "name_en": "As-Sajdah",
+      "start_page": 415,
+      "end_page": 417,
+      "ayat_count": 30,
+      "juz_start": 21,
+      "juz_end": 21
+    },
+    {
+      "number": 33,
+      "name_ar": "الأحزَاب",
+      "name_en": "Al-Aḥzāb",
+      "start_page": 418,
+      "end_page": 427,
+      "ayat_count": 73,
+      "juz_start": 21,
+      "juz_end": 22
+    },
+    {
+      "number": 34,
+      "name_ar": "سَبإ",
+      "name_en": "Saba’",
+      "start_page": 428,
+      "end_page": 434,
+      "ayat_count": 54,
+      "juz_start": 22,
+      "juz_end": 22
+    },
+    {
+      "number": 35,
+      "name_ar": "فَاطِر",
+      "name_en": "Fāṭir",
+      "start_page": 434,
+      "end_page": 440,
+      "ayat_count": 45,
+      "juz_start": 22,
+      "juz_end": 22
+    },
+    {
+      "number": 36,
+      "name_ar": "يسٓ",
+      "name_en": "Yā-Sīn",
+      "start_page": 440,
+      "end_page": 445,
+      "ayat_count": 83,
+      "juz_start": 22,
+      "juz_end": 23
+    },
+    {
+      "number": 37,
+      "name_ar": "الصَّافَات",
+      "name_en": "Aṣ-Ṣāffāt",
+      "start_page": 446,
+      "end_page": 452,
+      "ayat_count": 182,
+      "juz_start": 23,
+      "juz_end": 23
+    },
+    {
+      "number": 38,
+      "name_ar": "صٓ",
+      "name_en": "Ṣād",
+      "start_page": 453,
+      "end_page": 458,
+      "ayat_count": 88,
+      "juz_start": 23,
+      "juz_end": 23
+    },
+    {
+      "number": 39,
+      "name_ar": "الزُّمَر",
+      "name_en": "Az-Zumar",
+      "start_page": 458,
+      "end_page": 467,
+      "ayat_count": 75,
+      "juz_start": 23,
+      "juz_end": 24
+    },
+    {
+      "number": 40,
+      "name_ar": "غَافِر",
+      "name_en": "Ghāfir",
+      "start_page": 467,
+      "end_page": 476,
+      "ayat_count": 85,
+      "juz_start": 24,
+      "juz_end": 24
+    },
+    {
+      "number": 41,
+      "name_ar": "فُصِّلَت",
+      "name_en": "Fuṣṣilat",
+      "start_page": 477,
+      "end_page": 482,
+      "ayat_count": 54,
+      "juz_start": 24,
+      "juz_end": 25
+    },
+    {
+      "number": 42,
+      "name_ar": "الشُّوري",
+      "name_en": "Ash-Shūra",
+      "start_page": 483,
+      "end_page": 489,
+      "ayat_count": 53,
+      "juz_start": 25,
+      "juz_end": 25
+    },
+    {
+      "number": 43,
+      "name_ar": "الزُّخرُف",
+      "name_en": "Az-Zukhruf",
+      "start_page": 489,
+      "end_page": 495,
+      "ayat_count": 89,
+      "juz_start": 25,
+      "juz_end": 25
+    },
+    {
+      "number": 44,
+      "name_ar": "الدُّخان",
+      "name_en": "Ad-Dukhān",
+      "start_page": 496,
+      "end_page": 498,
+      "ayat_count": 59,
+      "juz_start": 25,
+      "juz_end": 25
+    },
+    {
+      "number": 45,
+      "name_ar": "الجاثِية",
+      "name_en": "Al-Jāthiyah",
+      "start_page": 499,
+      "end_page": 502,
+      "ayat_count": 37,
+      "juz_start": 25,
+      "juz_end": 25
+    },
+    {
+      "number": 46,
+      "name_ar": "الأحقَاف",
+      "name_en": "Al-Aḥqāf",
+      "start_page": 502,
+      "end_page": 506,
+      "ayat_count": 35,
+      "juz_start": 26,
+      "juz_end": 26
+    },
+    {
+      "number": 47,
+      "name_ar": "مُحمد",
+      "name_en": "Muḥammad",
+      "start_page": 507,
+      "end_page": 510,
+      "ayat_count": 38,
+      "juz_start": 26,
+      "juz_end": 26
+    },
+    {
+      "number": 48,
+      "name_ar": "الفَتح",
+      "name_en": "Al-Fatḥ",
+      "start_page": 511,
+      "end_page": 515,
+      "ayat_count": 29,
+      "juz_start": 26,
+      "juz_end": 26
+    },
+    {
+      "number": 49,
+      "name_ar": "الحُجُرَات",
+      "name_en": "Al-Ḥujurāt",
+      "start_page": 515,
+      "end_page": 517,
+      "ayat_count": 18,
+      "juz_start": 26,
+      "juz_end": 26
+    },
+    {
+      "number": 50,
+      "name_ar": "قٓ",
+      "name_en": "Qāf",
+      "start_page": 518,
+      "end_page": 520,
+      "ayat_count": 45,
+      "juz_start": 26,
+      "juz_end": 26
+    },
+    {
+      "number": 51,
+      "name_ar": "الذَّاريَات",
+      "name_en": "Adh-Dhāriyāt",
+      "start_page": 520,
+      "end_page": 523,
+      "ayat_count": 60,
+      "juz_start": 26,
+      "juz_end": 27
+    },
+    {
+      "number": 52,
+      "name_ar": "الطُّور",
+      "name_en": "Aṭ-Ṭūr",
+      "start_page": 523,
+      "end_page": 525,
+      "ayat_count": 49,
+      "juz_start": 27,
+      "juz_end": 27
+    },
+    {
+      "number": 53,
+      "name_ar": "النَّجم",
+      "name_en": "An-Najm",
+      "start_page": 526,
+      "end_page": 528,
+      "ayat_count": 62,
+      "juz_start": 27,
+      "juz_end": 27
+    },
+    {
+      "number": 54,
+      "name_ar": "القَمَر",
+      "name_en": "Al-Qamar",
+      "start_page": 528,
+      "end_page": 531,
+      "ayat_count": 55,
+      "juz_start": 27,
+      "juz_end": 27
+    },
+    {
+      "number": 55,
+      "name_ar": "الرَّحمٰن",
+      "name_en": "Ar-Raḥmān",
+      "start_page": 531,
+      "end_page": 534,
+      "ayat_count": 78,
+      "juz_start": 27,
+      "juz_end": 27
+    },
+    {
+      "number": 56,
+      "name_ar": "الوَاقِعة",
+      "name_en": "Al-Wāqi‘ah",
+      "start_page": 534,
+      "end_page": 537,
+      "ayat_count": 96,
+      "juz_start": 27,
+      "juz_end": 27
+    },
+    {
+      "number": 57,
+      "name_ar": "الحدِيد",
+      "name_en": "Al-Ḥadīd",
+      "start_page": 537,
+      "end_page": 541,
+      "ayat_count": 29,
+      "juz_start": 27,
+      "juz_end": 27
+    },
+    {
+      "number": 58,
+      "name_ar": "المُجَادلة",
+      "name_en": "Al-Mujādilah",
+      "start_page": 542,
+      "end_page": 545,
+      "ayat_count": 22,
+      "juz_start": 28,
+      "juz_end": 28
+    },
+    {
+      "number": 59,
+      "name_ar": "الحَشر",
+      "name_en": "Al-Ḥashr",
+      "start_page": 545,
+      "end_page": 548,
+      "ayat_count": 24,
+      "juz_start": 28,
+      "juz_end": 28
+    },
+    {
+      "number": 60,
+      "name_ar": "المُمتَحنَة",
+      "name_en": "Al-Mumtaḥanah",
+      "start_page": 549,
+      "end_page": 551,
+      "ayat_count": 13,
+      "juz_start": 28,
+      "juz_end": 28
+    },
+    {
+      "number": 61,
+      "name_ar": "الصَّف",
+      "name_en": "Aṣ-Ṣaff",
+      "start_page": 551,
+      "end_page": 552,
+      "ayat_count": 14,
+      "juz_start": 28,
+      "juz_end": 28
+    },
+    {
+      "number": 62,
+      "name_ar": "الجُمعَة",
+      "name_en": "Al-Jumu‘ah",
+      "start_page": 553,
+      "end_page": 554,
+      "ayat_count": 11,
+      "juz_start": 28,
+      "juz_end": 28
+    },
+    {
+      "number": 63,
+      "name_ar": "المُنَافِقُونَ",
+      "name_en": "Al-Munāfiqūn",
+      "start_page": 554,
+      "end_page": 555,
+      "ayat_count": 11,
+      "juz_start": 28,
+      "juz_end": 28
+    },
+    {
+      "number": 64,
+      "name_ar": "التغَابُن",
+      "name_en": "At-Taghābun",
+      "start_page": 556,
+      "end_page": 557,
+      "ayat_count": 18,
+      "juz_start": 28,
+      "juz_end": 28
+    },
+    {
+      "number": 65,
+      "name_ar": "الطَّلَاق",
+      "name_en": "Aṭ-Ṭalāq",
+      "start_page": 558,
+      "end_page": 559,
+      "ayat_count": 12,
+      "juz_start": 28,
+      "juz_end": 28
+    },
+    {
+      "number": 66,
+      "name_ar": "التَّحرِيم",
+      "name_en": "At-Taḥrīm",
+      "start_page": 560,
+      "end_page": 561,
+      "ayat_count": 12,
+      "juz_start": 28,
+      "juz_end": 28
+    },
+    {
+      "number": 67,
+      "name_ar": "المُلك",
+      "name_en": "Al-Mulk",
+      "start_page": 562,
+      "end_page": 564,
+      "ayat_count": 30,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 68,
+      "name_ar": "القَلَم",
+      "name_en": "Al-Qalam",
+      "start_page": 564,
+      "end_page": 566,
+      "ayat_count": 52,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 69,
+      "name_ar": "الحَاقة",
+      "name_en": "Al-Ḥāqqah",
+      "start_page": 566,
+      "end_page": 568,
+      "ayat_count": 52,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 70,
+      "name_ar": "المَعَارج",
+      "name_en": "Al-Ma‘ārij",
+      "start_page": 568,
+      "end_page": 570,
+      "ayat_count": 44,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 71,
+      "name_ar": "نُوح",
+      "name_en": "Nūḥ",
+      "start_page": 570,
+      "end_page": 571,
+      "ayat_count": 28,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 72,
+      "name_ar": "الجِن",
+      "name_en": "Al-Jinn",
+      "start_page": 572,
+      "end_page": 573,
+      "ayat_count": 28,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 73,
+      "name_ar": "المُزمل",
+      "name_en": "Al-Muzzammil",
+      "start_page": 574,
+      "end_page": 575,
+      "ayat_count": 20,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 74,
+      "name_ar": "المُدثر",
+      "name_en": "Al-Muddaththir",
+      "start_page": 575,
+      "end_page": 577,
+      "ayat_count": 56,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 75,
+      "name_ar": "القِيَامة",
+      "name_en": "Al-Qiyāmah",
+      "start_page": 577,
+      "end_page": 578,
+      "ayat_count": 40,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 76,
+      "name_ar": "الإنسَان",
+      "name_en": "Al-Insān",
+      "start_page": 578,
+      "end_page": 580,
+      "ayat_count": 31,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 77,
+      "name_ar": "المُرسَلات",
+      "name_en": "Al-Mursalāt",
+      "start_page": 580,
+      "end_page": 581,
+      "ayat_count": 50,
+      "juz_start": 29,
+      "juz_end": 29
+    },
+    {
+      "number": 78,
+      "name_ar": "النَّبَإ",
+      "name_en": "An-Naba’",
+      "start_page": 582,
+      "end_page": 583,
+      "ayat_count": 40,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 79,
+      "name_ar": "النَّازعَات",
+      "name_en": "An-Nāzi‘āt",
+      "start_page": 583,
+      "end_page": 584,
+      "ayat_count": 46,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 80,
+      "name_ar": "عَبَسَ",
+      "name_en": "‘Abasa",
+      "start_page": 585,
+      "end_page": 586,
+      "ayat_count": 42,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 81,
+      "name_ar": "التَّكوير",
+      "name_en": "At-Takwīr",
+      "start_page": 586,
+      "end_page": 586,
+      "ayat_count": 29,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 82,
+      "name_ar": "الانفِطَار",
+      "name_en": "Al-Infiṭār",
+      "start_page": 587,
+      "end_page": 587,
+      "ayat_count": 19,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 83,
+      "name_ar": "المُطَففين",
+      "name_en": "Al-Muṭaffifīn",
+      "start_page": 587,
+      "end_page": 589,
+      "ayat_count": 36,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 84,
+      "name_ar": "الانشِقَاق",
+      "name_en": "Al-Inshiqāq",
+      "start_page": 589,
+      "end_page": 590,
+      "ayat_count": 25,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 85,
+      "name_ar": "البُرُوج",
+      "name_en": "Al-Burūj",
+      "start_page": 590,
+      "end_page": 590,
+      "ayat_count": 22,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 86,
+      "name_ar": "الطَّارق",
+      "name_en": "Aṭ-Ṭāriq",
+      "start_page": 591,
+      "end_page": 591,
+      "ayat_count": 17,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 87,
+      "name_ar": "الأعلى",
+      "name_en": "Al-A‘lā",
+      "start_page": 591,
+      "end_page": 592,
+      "ayat_count": 19,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 88,
+      "name_ar": "الغَاشِية",
+      "name_en": "Al-Ghāshiyah",
+      "start_page": 592,
+      "end_page": 593,
+      "ayat_count": 26,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 89,
+      "name_ar": "الفَجر",
+      "name_en": "Al-Fajr",
+      "start_page": 593,
+      "end_page": 594,
+      "ayat_count": 30,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 90,
+      "name_ar": "البَلَد",
+      "name_en": "Al-Balad",
+      "start_page": 594,
+      "end_page": 595,
+      "ayat_count": 20,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 91,
+      "name_ar": "الشَّمس",
+      "name_en": "Ash-Shams",
+      "start_page": 595,
+      "end_page": 595,
+      "ayat_count": 15,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 92,
+      "name_ar": "اللَّيل",
+      "name_en": "Al-Lail",
+      "start_page": 595,
+      "end_page": 596,
+      "ayat_count": 21,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 93,
+      "name_ar": "الضُّحى",
+      "name_en": "Aḍ-Ḍuḥā",
+      "start_page": 596,
+      "end_page": 596,
+      "ayat_count": 11,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 94,
+      "name_ar": "الشَّرح",
+      "name_en": "Ash-Sharḥ",
+      "start_page": 596,
+      "end_page": 597,
+      "ayat_count": 8,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 95,
+      "name_ar": "التِّين",
+      "name_en": "At-Tīn",
+      "start_page": 597,
+      "end_page": 597,
+      "ayat_count": 8,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 96,
+      "name_ar": "العَلَق",
+      "name_en": "Al-‘Alaq",
+      "start_page": 597,
+      "end_page": 598,
+      "ayat_count": 19,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 97,
+      "name_ar": "القَدر",
+      "name_en": "Al-Qadr",
+      "start_page": 598,
+      "end_page": 598,
+      "ayat_count": 5,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 98,
+      "name_ar": "البَينَة",
+      "name_en": "Al-Bayyinah",
+      "start_page": 598,
+      "end_page": 599,
+      "ayat_count": 8,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 99,
+      "name_ar": "الزَّلزَلة",
+      "name_en": "Az-Zalzalah",
+      "start_page": 599,
+      "end_page": 599,
+      "ayat_count": 8,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 100,
+      "name_ar": "العَاديَات",
+      "name_en": "Al-‘Ādiyāt",
+      "start_page": 599,
+      "end_page": 600,
+      "ayat_count": 11,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 101,
+      "name_ar": "القَارعَة",
+      "name_en": "Al-Qāri‘ah",
+      "start_page": 600,
+      "end_page": 600,
+      "ayat_count": 11,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 102,
+      "name_ar": "التَّكاثُر",
+      "name_en": "At-Takāthur",
+      "start_page": 600,
+      "end_page": 600,
+      "ayat_count": 8,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 103,
+      "name_ar": "العَصر",
+      "name_en": "Al-‘Aṣr",
+      "start_page": 601,
+      "end_page": 601,
+      "ayat_count": 3,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 104,
+      "name_ar": "الهُمَزة",
+      "name_en": "Al-Humazah",
+      "start_page": 601,
+      "end_page": 601,
+      "ayat_count": 9,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 105,
+      "name_ar": "الفِيل",
+      "name_en": "Al-Fīl",
+      "start_page": 601,
+      "end_page": 601,
+      "ayat_count": 5,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 106,
+      "name_ar": "قُرَيش",
+      "name_en": "Quraish",
+      "start_page": 602,
+      "end_page": 602,
+      "ayat_count": 4,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 107,
+      "name_ar": "المَاعُون",
+      "name_en": "Al-Mā‘ūn",
+      "start_page": 602,
+      "end_page": 602,
+      "ayat_count": 7,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 108,
+      "name_ar": "الكَوثر",
+      "name_en": "Al-Kauthar",
+      "start_page": 602,
+      "end_page": 602,
+      "ayat_count": 3,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 109,
+      "name_ar": "الكافِرون",
+      "name_en": "Al-Kāfirūn",
+      "start_page": 603,
+      "end_page": 603,
+      "ayat_count": 6,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 110,
+      "name_ar": "النَّصر",
+      "name_en": "An-Naṣr",
+      "start_page": 603,
+      "end_page": 603,
+      "ayat_count": 3,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 111,
+      "name_ar": "المَسَد",
+      "name_en": "Al-Masad",
+      "start_page": 603,
+      "end_page": 603,
+      "ayat_count": 5,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 112,
+      "name_ar": "الإخلَاص",
+      "name_en": "Al-Ikhlāṣ",
+      "start_page": 604,
+      "end_page": 604,
+      "ayat_count": 4,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 113,
+      "name_ar": "الفَلَق",
+      "name_en": "Al-Falaq",
+      "start_page": 604,
+      "end_page": 604,
+      "ayat_count": 5,
+      "juz_start": 30,
+      "juz_end": 30
+    },
+    {
+      "number": 114,
+      "name_ar": "النَّاس",
+      "name_en": "An-Nās",
+      "start_page": 604,
+      "end_page": 604,
+      "ayat_count": 6,
+      "juz_start": 30,
+      "juz_end": 30
+    }
+  ],
+  "juzs": [
+    {
+      "start_surah": 1,
+      "start_ayah": 1,
+      "start_page": 1,
+      "end_surah": 2,
+      "end_ayah": 141,
+      "end_page": 21,
+      "ayat_count": 148,
+      "number": 1
+    },
+    {
+      "start_surah": 2,
+      "start_ayah": 142,
+      "start_page": 22,
+      "end_surah": 2,
+      "end_ayah": 252,
+      "end_page": 41,
+      "ayat_count": 111,
+      "number": 2
+    },
+    {
+      "start_surah": 2,
+      "start_ayah": 253,
+      "start_page": 42,
+      "end_surah": 3,
+      "end_ayah": 92,
+      "end_page": 62,
+      "ayat_count": 126,
+      "number": 3
+    },
+    {
+      "start_surah": 3,
+      "start_ayah": 93,
+      "start_page": 62,
+      "end_surah": 4,
+      "end_ayah": 23,
+      "end_page": 81,
+      "ayat_count": 131,
+      "number": 4
+    },
+    {
+      "start_surah": 4,
+      "start_ayah": 24,
+      "start_page": 82,
+      "end_surah": 4,
+      "end_ayah": 147,
+      "end_page": 101,
+      "ayat_count": 124,
+      "number": 5
+    },
+    {
+      "start_surah": 4,
+      "start_ayah": 148,
+      "start_page": 102,
+      "end_surah": 5,
+      "end_ayah": 81,
+      "end_page": 121,
+      "ayat_count": 110,
+      "number": 6
+    },
+    {
+      "start_surah": 5,
+      "start_ayah": 82,
+      "start_page": 121,
+      "end_surah": 6,
+      "end_ayah": 110,
+      "end_page": 141,
+      "ayat_count": 149,
+      "number": 7
+    },
+    {
+      "start_surah": 6,
+      "start_ayah": 111,
+      "start_page": 142,
+      "end_surah": 7,
+      "end_ayah": 87,
+      "end_page": 161,
+      "ayat_count": 142,
+      "number": 8
+    },
+    {
+      "start_surah": 7,
+      "start_ayah": 88,
+      "start_page": 162,
+      "end_surah": 8,
+      "end_ayah": 40,
+      "end_page": 181,
+      "ayat_count": 159,
+      "number": 9
+    },
+    {
+      "start_surah": 8,
+      "start_ayah": 41,
+      "start_page": 182,
+      "end_surah": 9,
+      "end_ayah": 92,
+      "end_page": 201,
+      "ayat_count": 127,
+      "number": 10
+    },
+    {
+      "start_surah": 9,
+      "start_ayah": 93,
+      "start_page": 201,
+      "end_surah": 11,
+      "end_ayah": 5,
+      "end_page": 221,
+      "ayat_count": 151,
+      "number": 11
+    },
+    {
+      "start_surah": 11,
+      "start_ayah": 6,
+      "start_page": 222,
+      "end_surah": 12,
+      "end_ayah": 52,
+      "end_page": 241,
+      "ayat_count": 170,
+      "number": 12
+    },
+    {
+      "start_surah": 12,
+      "start_ayah": 53,
+      "start_page": 242,
+      "end_surah": 14,
+      "end_ayah": 52,
+      "end_page": 261,
+      "ayat_count": 154,
+      "number": 13
+    },
+    {
+      "start_surah": 15,
+      "start_ayah": 1,
+      "start_page": 262,
+      "end_surah": 16,
+      "end_ayah": 128,
+      "end_page": 281,
+      "ayat_count": 227,
+      "number": 14
+    },
+    {
+      "start_surah": 17,
+      "start_ayah": 1,
+      "start_page": 282,
+      "end_surah": 18,
+      "end_ayah": 74,
+      "end_page": 301,
+      "ayat_count": 185,
+      "number": 15
+    },
+    {
+      "start_surah": 18,
+      "start_ayah": 75,
+      "start_page": 302,
+      "end_surah": 20,
+      "end_ayah": 135,
+      "end_page": 321,
+      "ayat_count": 269,
+      "number": 16
+    },
+    {
+      "start_surah": 21,
+      "start_ayah": 1,
+      "start_page": 322,
+      "end_surah": 22,
+      "end_ayah": 78,
+      "end_page": 341,
+      "ayat_count": 190,
+      "number": 17
+    },
+    {
+      "start_surah": 23,
+      "start_ayah": 1,
+      "start_page": 342,
+      "end_surah": 25,
+      "end_ayah": 20,
+      "end_page": 361,
+      "ayat_count": 202,
+      "number": 18
+    },
+    {
+      "start_surah": 25,
+      "start_ayah": 21,
+      "start_page": 362,
+      "end_surah": 27,
+      "end_ayah": 55,
+      "end_page": 381,
+      "ayat_count": 339,
+      "number": 19
+    },
+    {
+      "start_surah": 27,
+      "start_ayah": 56,
+      "start_page": 382,
+      "end_surah": 29,
+      "end_ayah": 45,
+      "end_page": 401,
+      "ayat_count": 171,
+      "number": 20
+    },
+    {
+      "start_surah": 29,
+      "start_ayah": 46,
+      "start_page": 402,
+      "end_surah": 33,
+      "end_ayah": 30,
+      "end_page": 421,
+      "ayat_count": 178,
+      "number": 21
+    },
+    {
+      "start_surah": 33,
+      "start_ayah": 31,
+      "start_page": 422,
+      "end_surah": 36,
+      "end_ayah": 27,
+      "end_page": 441,
+      "ayat_count": 169,
+      "number": 22
+    },
+    {
+      "start_surah": 36,
+      "start_ayah": 28,
+      "start_page": 442,
+      "end_surah": 39,
+      "end_ayah": 31,
+      "end_page": 461,
+      "ayat_count": 357,
+      "number": 23
+    },
+    {
+      "start_surah": 39,
+      "start_ayah": 32,
+      "start_page": 462,
+      "end_surah": 41,
+      "end_ayah": 46,
+      "end_page": 481,
+      "ayat_count": 175,
+      "number": 24
+    },
+    {
+      "start_surah": 41,
+      "start_ayah": 47,
+      "start_page": 482,
+      "end_surah": 45,
+      "end_ayah": 37,
+      "end_page": 502,
+      "ayat_count": 246,
+      "number": 25
+    },
+    {
+      "start_surah": 46,
+      "start_ayah": 1,
+      "start_page": 502,
+      "end_surah": 51,
+      "end_ayah": 30,
+      "end_page": 521,
+      "ayat_count": 195,
+      "number": 26
+    },
+    {
+      "start_surah": 51,
+      "start_ayah": 31,
+      "start_page": 522,
+      "end_surah": 57,
+      "end_ayah": 29,
+      "end_page": 541,
+      "ayat_count": 399,
+      "number": 27
+    },
+    {
+      "start_surah": 58,
+      "start_ayah": 1,
+      "start_page": 542,
+      "end_surah": 66,
+      "end_ayah": 12,
+      "end_page": 561,
+      "ayat_count": 137,
+      "number": 28
+    },
+    {
+      "start_surah": 67,
+      "start_ayah": 1,
+      "start_page": 562,
+      "end_surah": 77,
+      "end_ayah": 50,
+      "end_page": 581,
+      "ayat_count": 431,
+      "number": 29
+    },
+    {
+      "start_surah": 78,
+      "start_ayah": 1,
+      "start_page": 582,
+      "end_surah": 114,
+      "end_ayah": 6,
+      "end_page": 604,
+      "ayat_count": 564,
+      "number": 30
+    }
+  ],
+  "ahzab": [
+    {
+      "hizb_num": 1,
+      "juz": 1,
+      "hizb_in_juz": 1,
+      "start_sura": 1,
+      "start_sura_name": "الفَاتِحة",
+      "start_aya": 1,
+      "start_page": 1,
+      "quarters": [
+        {
+          "quarter_num": 1,
+          "juz": 1,
+          "hizb": 1,
+          "quarter_in_hizb": 1,
+          "sura_no": 1,
+          "sura_name": "الفَاتِحة",
+          "aya_no": 1,
+          "page": 1
+        },
+        {
+          "quarter_num": 2,
+          "juz": 1,
+          "hizb": 1,
+          "quarter_in_hizb": 2,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 26,
+          "page": 5
+        },
+        {
+          "quarter_num": 3,
+          "juz": 1,
+          "hizb": 1,
+          "quarter_in_hizb": 3,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 44,
+          "page": 7
+        },
+        {
+          "quarter_num": 4,
+          "juz": 1,
+          "hizb": 1,
+          "quarter_in_hizb": 4,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 60,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "hizb_num": 2,
+      "juz": 1,
+      "hizb_in_juz": 2,
+      "start_sura": 2,
+      "start_sura_name": "البَقَرَة",
+      "start_aya": 75,
+      "start_page": 11,
+      "quarters": [
+        {
+          "quarter_num": 5,
+          "juz": 1,
+          "hizb": 2,
+          "quarter_in_hizb": 1,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 75,
+          "page": 11
+        },
+        {
+          "quarter_num": 6,
+          "juz": 1,
+          "hizb": 2,
+          "quarter_in_hizb": 2,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 92,
+          "page": 14
+        },
+        {
+          "quarter_num": 7,
+          "juz": 1,
+          "hizb": 2,
+          "quarter_in_hizb": 3,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 106,
+          "page": 17
+        },
+        {
+          "quarter_num": 8,
+          "juz": 1,
+          "hizb": 2,
+          "quarter_in_hizb": 4,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 124,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "hizb_num": 3,
+      "juz": 2,
+      "hizb_in_juz": 1,
+      "start_sura": 2,
+      "start_sura_name": "البَقَرَة",
+      "start_aya": 142,
+      "start_page": 22,
+      "quarters": [
+        {
+          "quarter_num": 9,
+          "juz": 2,
+          "hizb": 3,
+          "quarter_in_hizb": 1,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 142,
+          "page": 22
+        },
+        {
+          "quarter_num": 10,
+          "juz": 2,
+          "hizb": 3,
+          "quarter_in_hizb": 2,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 158,
+          "page": 24
+        },
+        {
+          "quarter_num": 11,
+          "juz": 2,
+          "hizb": 3,
+          "quarter_in_hizb": 3,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 177,
+          "page": 27
+        },
+        {
+          "quarter_num": 12,
+          "juz": 2,
+          "hizb": 3,
+          "quarter_in_hizb": 4,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 189,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "hizb_num": 4,
+      "juz": 2,
+      "hizb_in_juz": 2,
+      "start_sura": 2,
+      "start_sura_name": "البَقَرَة",
+      "start_aya": 203,
+      "start_page": 32,
+      "quarters": [
+        {
+          "quarter_num": 13,
+          "juz": 2,
+          "hizb": 4,
+          "quarter_in_hizb": 1,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 203,
+          "page": 32
+        },
+        {
+          "quarter_num": 14,
+          "juz": 2,
+          "hizb": 4,
+          "quarter_in_hizb": 2,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 219,
+          "page": 34
+        },
+        {
+          "quarter_num": 15,
+          "juz": 2,
+          "hizb": 4,
+          "quarter_in_hizb": 3,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 233,
+          "page": 37
+        },
+        {
+          "quarter_num": 16,
+          "juz": 2,
+          "hizb": 4,
+          "quarter_in_hizb": 4,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 243,
+          "page": 39
+        }
+      ]
+    },
+    {
+      "hizb_num": 5,
+      "juz": 3,
+      "hizb_in_juz": 1,
+      "start_sura": 2,
+      "start_sura_name": "البَقَرَة",
+      "start_aya": 253,
+      "start_page": 42,
+      "quarters": [
+        {
+          "quarter_num": 17,
+          "juz": 3,
+          "hizb": 5,
+          "quarter_in_hizb": 1,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 253,
+          "page": 42
+        },
+        {
+          "quarter_num": 18,
+          "juz": 3,
+          "hizb": 5,
+          "quarter_in_hizb": 2,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 263,
+          "page": 44
+        },
+        {
+          "quarter_num": 19,
+          "juz": 3,
+          "hizb": 5,
+          "quarter_in_hizb": 3,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 272,
+          "page": 46
+        },
+        {
+          "quarter_num": 20,
+          "juz": 3,
+          "hizb": 5,
+          "quarter_in_hizb": 4,
+          "sura_no": 2,
+          "sura_name": "البَقَرَة",
+          "aya_no": 283,
+          "page": 49
+        }
+      ]
+    },
+    {
+      "hizb_num": 6,
+      "juz": 3,
+      "hizb_in_juz": 2,
+      "start_sura": 3,
+      "start_sura_name": "آل عِمران",
+      "start_aya": 15,
+      "start_page": 51,
+      "quarters": [
+        {
+          "quarter_num": 21,
+          "juz": 3,
+          "hizb": 6,
+          "quarter_in_hizb": 1,
+          "sura_no": 3,
+          "sura_name": "آل عِمران",
+          "aya_no": 15,
+          "page": 51
+        },
+        {
+          "quarter_num": 22,
+          "juz": 3,
+          "hizb": 6,
+          "quarter_in_hizb": 2,
+          "sura_no": 3,
+          "sura_name": "آل عِمران",
+          "aya_no": 33,
+          "page": 54
+        },
+        {
+          "quarter_num": 23,
+          "juz": 3,
+          "hizb": 6,
+          "quarter_in_hizb": 3,
+          "sura_no": 3,
+          "sura_name": "آل عِمران",
+          "aya_no": 52,
+          "page": 56
+        },
+        {
+          "quarter_num": 24,
+          "juz": 3,
+          "hizb": 6,
+          "quarter_in_hizb": 4,
+          "sura_no": 3,
+          "sura_name": "آل عِمران",
+          "aya_no": 75,
+          "page": 59
+        }
+      ]
+    },
+    {
+      "hizb_num": 7,
+      "juz": 4,
+      "hizb_in_juz": 1,
+      "start_sura": 3,
+      "start_sura_name": "آل عِمران",
+      "start_aya": 93,
+      "start_page": 62,
+      "quarters": [
+        {
+          "quarter_num": 25,
+          "juz": 4,
+          "hizb": 7,
+          "quarter_in_hizb": 1,
+          "sura_no": 3,
+          "sura_name": "آل عِمران",
+          "aya_no": 93,
+          "page": 62
+        },
+        {
+          "quarter_num": 26,
+          "juz": 4,
+          "hizb": 7,
+          "quarter_in_hizb": 2,
+          "sura_no": 3,
+          "sura_name": "آل عِمران",
+          "aya_no": 113,
+          "page": 64
+        },
+        {
+          "quarter_num": 27,
+          "juz": 4,
+          "hizb": 7,
+          "quarter_in_hizb": 3,
+          "sura_no": 3,
+          "sura_name": "آل عِمران",
+          "aya_no": 133,
+          "page": 67
+        },
+        {
+          "quarter_num": 28,
+          "juz": 4,
+          "hizb": 7,
+          "quarter_in_hizb": 4,
+          "sura_no": 3,
+          "sura_name": "آل عِمران",
+          "aya_no": 153,
+          "page": 69
+        }
+      ]
+    },
+    {
+      "hizb_num": 8,
+      "juz": 4,
+      "hizb_in_juz": 2,
+      "start_sura": 3,
+      "start_sura_name": "آل عِمران",
+      "start_aya": 171,
+      "start_page": 72,
+      "quarters": [
+        {
+          "quarter_num": 29,
+          "juz": 4,
+          "hizb": 8,
+          "quarter_in_hizb": 1,
+          "sura_no": 3,
+          "sura_name": "آل عِمران",
+          "aya_no": 171,
+          "page": 72
+        },
+        {
+          "quarter_num": 30,
+          "juz": 4,
+          "hizb": 8,
+          "quarter_in_hizb": 2,
+          "sura_no": 3,
+          "sura_name": "آل عِمران",
+          "aya_no": 186,
+          "page": 74
+        },
+        {
+          "quarter_num": 31,
+          "juz": 4,
+          "hizb": 8,
+          "quarter_in_hizb": 3,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 1,
+          "page": 77
+        },
+        {
+          "quarter_num": 32,
+          "juz": 4,
+          "hizb": 8,
+          "quarter_in_hizb": 4,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 12,
+          "page": 79
+        }
+      ]
+    },
+    {
+      "hizb_num": 9,
+      "juz": 5,
+      "hizb_in_juz": 1,
+      "start_sura": 4,
+      "start_sura_name": "النِّسَاء",
+      "start_aya": 24,
+      "start_page": 82,
+      "quarters": [
+        {
+          "quarter_num": 33,
+          "juz": 5,
+          "hizb": 9,
+          "quarter_in_hizb": 1,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 24,
+          "page": 82
+        },
+        {
+          "quarter_num": 34,
+          "juz": 5,
+          "hizb": 9,
+          "quarter_in_hizb": 2,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 36,
+          "page": 84
+        },
+        {
+          "quarter_num": 35,
+          "juz": 5,
+          "hizb": 9,
+          "quarter_in_hizb": 3,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 58,
+          "page": 87
+        },
+        {
+          "quarter_num": 36,
+          "juz": 5,
+          "hizb": 9,
+          "quarter_in_hizb": 4,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 74,
+          "page": 89
+        }
+      ]
+    },
+    {
+      "hizb_num": 10,
+      "juz": 5,
+      "hizb_in_juz": 2,
+      "start_sura": 4,
+      "start_sura_name": "النِّسَاء",
+      "start_aya": 88,
+      "start_page": 92,
+      "quarters": [
+        {
+          "quarter_num": 37,
+          "juz": 5,
+          "hizb": 10,
+          "quarter_in_hizb": 1,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 88,
+          "page": 92
+        },
+        {
+          "quarter_num": 38,
+          "juz": 5,
+          "hizb": 10,
+          "quarter_in_hizb": 2,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 100,
+          "page": 94
+        },
+        {
+          "quarter_num": 39,
+          "juz": 5,
+          "hizb": 10,
+          "quarter_in_hizb": 3,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 114,
+          "page": 97
+        },
+        {
+          "quarter_num": 40,
+          "juz": 5,
+          "hizb": 10,
+          "quarter_in_hizb": 4,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 135,
+          "page": 100
+        }
+      ]
+    },
+    {
+      "hizb_num": 11,
+      "juz": 6,
+      "hizb_in_juz": 1,
+      "start_sura": 4,
+      "start_sura_name": "النِّسَاء",
+      "start_aya": 148,
+      "start_page": 102,
+      "quarters": [
+        {
+          "quarter_num": 41,
+          "juz": 6,
+          "hizb": 11,
+          "quarter_in_hizb": 1,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 148,
+          "page": 102
+        },
+        {
+          "quarter_num": 42,
+          "juz": 6,
+          "hizb": 11,
+          "quarter_in_hizb": 2,
+          "sura_no": 4,
+          "sura_name": "النِّسَاء",
+          "aya_no": 163,
+          "page": 104
+        },
+        {
+          "quarter_num": 43,
+          "juz": 6,
+          "hizb": 11,
+          "quarter_in_hizb": 3,
+          "sura_no": 5,
+          "sura_name": "المَائدة",
+          "aya_no": 1,
+          "page": 106
+        },
+        {
+          "quarter_num": 44,
+          "juz": 6,
+          "hizb": 11,
+          "quarter_in_hizb": 4,
+          "sura_no": 5,
+          "sura_name": "المَائدة",
+          "aya_no": 12,
+          "page": 109
+        }
+      ]
+    },
+    {
+      "hizb_num": 12,
+      "juz": 6,
+      "hizb_in_juz": 2,
+      "start_sura": 5,
+      "start_sura_name": "المَائدة",
+      "start_aya": 27,
+      "start_page": 112,
+      "quarters": [
+        {
+          "quarter_num": 45,
+          "juz": 6,
+          "hizb": 12,
+          "quarter_in_hizb": 1,
+          "sura_no": 5,
+          "sura_name": "المَائدة",
+          "aya_no": 27,
+          "page": 112
+        },
+        {
+          "quarter_num": 46,
+          "juz": 6,
+          "hizb": 12,
+          "quarter_in_hizb": 2,
+          "sura_no": 5,
+          "sura_name": "المَائدة",
+          "aya_no": 41,
+          "page": 114
+        },
+        {
+          "quarter_num": 47,
+          "juz": 6,
+          "hizb": 12,
+          "quarter_in_hizb": 3,
+          "sura_no": 5,
+          "sura_name": "المَائدة",
+          "aya_no": 51,
+          "page": 117
+        },
+        {
+          "quarter_num": 48,
+          "juz": 6,
+          "hizb": 12,
+          "quarter_in_hizb": 4,
+          "sura_no": 5,
+          "sura_name": "المَائدة",
+          "aya_no": 67,
+          "page": 119
+        }
+      ]
+    },
+    {
+      "hizb_num": 13,
+      "juz": 7,
+      "hizb_in_juz": 1,
+      "start_sura": 5,
+      "start_sura_name": "المَائدة",
+      "start_aya": 82,
+      "start_page": 121,
+      "quarters": [
+        {
+          "quarter_num": 49,
+          "juz": 7,
+          "hizb": 13,
+          "quarter_in_hizb": 1,
+          "sura_no": 5,
+          "sura_name": "المَائدة",
+          "aya_no": 82,
+          "page": 121
+        },
+        {
+          "quarter_num": 50,
+          "juz": 7,
+          "hizb": 13,
+          "quarter_in_hizb": 2,
+          "sura_no": 5,
+          "sura_name": "المَائدة",
+          "aya_no": 97,
+          "page": 124
+        },
+        {
+          "quarter_num": 51,
+          "juz": 7,
+          "hizb": 13,
+          "quarter_in_hizb": 3,
+          "sura_no": 5,
+          "sura_name": "المَائدة",
+          "aya_no": 109,
+          "page": 126
+        },
+        {
+          "quarter_num": 52,
+          "juz": 7,
+          "hizb": 13,
+          "quarter_in_hizb": 4,
+          "sura_no": 6,
+          "sura_name": "الأنعَام",
+          "aya_no": 13,
+          "page": 129
+        }
+      ]
+    },
+    {
+      "hizb_num": 14,
+      "juz": 7,
+      "hizb_in_juz": 2,
+      "start_sura": 6,
+      "start_sura_name": "الأنعَام",
+      "start_aya": 36,
+      "start_page": 132,
+      "quarters": [
+        {
+          "quarter_num": 53,
+          "juz": 7,
+          "hizb": 14,
+          "quarter_in_hizb": 1,
+          "sura_no": 6,
+          "sura_name": "الأنعَام",
+          "aya_no": 36,
+          "page": 132
+        },
+        {
+          "quarter_num": 54,
+          "juz": 7,
+          "hizb": 14,
+          "quarter_in_hizb": 2,
+          "sura_no": 6,
+          "sura_name": "الأنعَام",
+          "aya_no": 59,
+          "page": 134
+        },
+        {
+          "quarter_num": 55,
+          "juz": 7,
+          "hizb": 14,
+          "quarter_in_hizb": 3,
+          "sura_no": 6,
+          "sura_name": "الأنعَام",
+          "aya_no": 74,
+          "page": 137
+        },
+        {
+          "quarter_num": 56,
+          "juz": 7,
+          "hizb": 14,
+          "quarter_in_hizb": 4,
+          "sura_no": 6,
+          "sura_name": "الأنعَام",
+          "aya_no": 95,
+          "page": 140
+        }
+      ]
+    },
+    {
+      "hizb_num": 15,
+      "juz": 8,
+      "hizb_in_juz": 1,
+      "start_sura": 6,
+      "start_sura_name": "الأنعَام",
+      "start_aya": 111,
+      "start_page": 142,
+      "quarters": [
+        {
+          "quarter_num": 57,
+          "juz": 8,
+          "hizb": 15,
+          "quarter_in_hizb": 1,
+          "sura_no": 6,
+          "sura_name": "الأنعَام",
+          "aya_no": 111,
+          "page": 142
+        },
+        {
+          "quarter_num": 58,
+          "juz": 8,
+          "hizb": 15,
+          "quarter_in_hizb": 2,
+          "sura_no": 6,
+          "sura_name": "الأنعَام",
+          "aya_no": 127,
+          "page": 144
+        },
+        {
+          "quarter_num": 59,
+          "juz": 8,
+          "hizb": 15,
+          "quarter_in_hizb": 3,
+          "sura_no": 6,
+          "sura_name": "الأنعَام",
+          "aya_no": 141,
+          "page": 146
+        },
+        {
+          "quarter_num": 60,
+          "juz": 8,
+          "hizb": 15,
+          "quarter_in_hizb": 4,
+          "sura_no": 6,
+          "sura_name": "الأنعَام",
+          "aya_no": 151,
+          "page": 148
+        }
+      ]
+    },
+    {
+      "hizb_num": 16,
+      "juz": 8,
+      "hizb_in_juz": 2,
+      "start_sura": 7,
+      "start_sura_name": "الأعرَاف",
+      "start_aya": 1,
+      "start_page": 151,
+      "quarters": [
+        {
+          "quarter_num": 61,
+          "juz": 8,
+          "hizb": 16,
+          "quarter_in_hizb": 1,
+          "sura_no": 7,
+          "sura_name": "الأعرَاف",
+          "aya_no": 1,
+          "page": 151
+        },
+        {
+          "quarter_num": 62,
+          "juz": 8,
+          "hizb": 16,
+          "quarter_in_hizb": 2,
+          "sura_no": 7,
+          "sura_name": "الأعرَاف",
+          "aya_no": 31,
+          "page": 154
+        },
+        {
+          "quarter_num": 63,
+          "juz": 8,
+          "hizb": 16,
+          "quarter_in_hizb": 3,
+          "sura_no": 7,
+          "sura_name": "الأعرَاف",
+          "aya_no": 47,
+          "page": 156
+        },
+        {
+          "quarter_num": 64,
+          "juz": 8,
+          "hizb": 16,
+          "quarter_in_hizb": 4,
+          "sura_no": 7,
+          "sura_name": "الأعرَاف",
+          "aya_no": 65,
+          "page": 158
+        }
+      ]
+    },
+    {
+      "hizb_num": 17,
+      "juz": 9,
+      "hizb_in_juz": 1,
+      "start_sura": 7,
+      "start_sura_name": "الأعرَاف",
+      "start_aya": 88,
+      "start_page": 162,
+      "quarters": [
+        {
+          "quarter_num": 65,
+          "juz": 9,
+          "hizb": 17,
+          "quarter_in_hizb": 1,
+          "sura_no": 7,
+          "sura_name": "الأعرَاف",
+          "aya_no": 88,
+          "page": 162
+        },
+        {
+          "quarter_num": 66,
+          "juz": 9,
+          "hizb": 17,
+          "quarter_in_hizb": 2,
+          "sura_no": 7,
+          "sura_name": "الأعرَاف",
+          "aya_no": 117,
+          "page": 164
+        },
+        {
+          "quarter_num": 67,
+          "juz": 9,
+          "hizb": 17,
+          "quarter_in_hizb": 3,
+          "sura_no": 7,
+          "sura_name": "الأعرَاف",
+          "aya_no": 142,
+          "page": 167
+        },
+        {
+          "quarter_num": 68,
+          "juz": 9,
+          "hizb": 17,
+          "quarter_in_hizb": 4,
+          "sura_no": 7,
+          "sura_name": "الأعرَاف",
+          "aya_no": 156,
+          "page": 170
+        }
+      ]
+    },
+    {
+      "hizb_num": 18,
+      "juz": 9,
+      "hizb_in_juz": 2,
+      "start_sura": 7,
+      "start_sura_name": "الأعرَاف",
+      "start_aya": 171,
+      "start_page": 173,
+      "quarters": [
+        {
+          "quarter_num": 69,
+          "juz": 9,
+          "hizb": 18,
+          "quarter_in_hizb": 1,
+          "sura_no": 7,
+          "sura_name": "الأعرَاف",
+          "aya_no": 171,
+          "page": 173
+        },
+        {
+          "quarter_num": 70,
+          "juz": 9,
+          "hizb": 18,
+          "quarter_in_hizb": 2,
+          "sura_no": 7,
+          "sura_name": "الأعرَاف",
+          "aya_no": 189,
+          "page": 175
+        },
+        {
+          "quarter_num": 71,
+          "juz": 9,
+          "hizb": 18,
+          "quarter_in_hizb": 3,
+          "sura_no": 8,
+          "sura_name": "الأنفَال",
+          "aya_no": 1,
+          "page": 177
+        },
+        {
+          "quarter_num": 72,
+          "juz": 9,
+          "hizb": 18,
+          "quarter_in_hizb": 4,
+          "sura_no": 8,
+          "sura_name": "الأنفَال",
+          "aya_no": 22,
+          "page": 179
+        }
+      ]
+    },
+    {
+      "hizb_num": 19,
+      "juz": 10,
+      "hizb_in_juz": 1,
+      "start_sura": 8,
+      "start_sura_name": "الأنفَال",
+      "start_aya": 41,
+      "start_page": 182,
+      "quarters": [
+        {
+          "quarter_num": 73,
+          "juz": 10,
+          "hizb": 19,
+          "quarter_in_hizb": 1,
+          "sura_no": 8,
+          "sura_name": "الأنفَال",
+          "aya_no": 41,
+          "page": 182
+        },
+        {
+          "quarter_num": 74,
+          "juz": 10,
+          "hizb": 19,
+          "quarter_in_hizb": 2,
+          "sura_no": 8,
+          "sura_name": "الأنفَال",
+          "aya_no": 61,
+          "page": 184
+        },
+        {
+          "quarter_num": 75,
+          "juz": 10,
+          "hizb": 19,
+          "quarter_in_hizb": 3,
+          "sura_no": 9,
+          "sura_name": "التوبَة",
+          "aya_no": 1,
+          "page": 187
+        },
+        {
+          "quarter_num": 76,
+          "juz": 10,
+          "hizb": 19,
+          "quarter_in_hizb": 4,
+          "sura_no": 9,
+          "sura_name": "التوبَة",
+          "aya_no": 19,
+          "page": 189
+        }
+      ]
+    },
+    {
+      "hizb_num": 20,
+      "juz": 10,
+      "hizb_in_juz": 2,
+      "start_sura": 9,
+      "start_sura_name": "التوبَة",
+      "start_aya": 34,
+      "start_page": 192,
+      "quarters": [
+        {
+          "quarter_num": 77,
+          "juz": 10,
+          "hizb": 20,
+          "quarter_in_hizb": 1,
+          "sura_no": 9,
+          "sura_name": "التوبَة",
+          "aya_no": 34,
+          "page": 192
+        },
+        {
+          "quarter_num": 78,
+          "juz": 10,
+          "hizb": 20,
+          "quarter_in_hizb": 2,
+          "sura_no": 9,
+          "sura_name": "التوبَة",
+          "aya_no": 46,
+          "page": 194
+        },
+        {
+          "quarter_num": 79,
+          "juz": 10,
+          "hizb": 20,
+          "quarter_in_hizb": 3,
+          "sura_no": 9,
+          "sura_name": "التوبَة",
+          "aya_no": 60,
+          "page": 196
+        },
+        {
+          "quarter_num": 80,
+          "juz": 10,
+          "hizb": 20,
+          "quarter_in_hizb": 4,
+          "sura_no": 9,
+          "sura_name": "التوبَة",
+          "aya_no": 75,
+          "page": 199
+        }
+      ]
+    },
+    {
+      "hizb_num": 21,
+      "juz": 11,
+      "hizb_in_juz": 1,
+      "start_sura": 9,
+      "start_sura_name": "التوبَة",
+      "start_aya": 94,
+      "start_page": 202,
+      "quarters": [
+        {
+          "quarter_num": 81,
+          "juz": 11,
+          "hizb": 21,
+          "quarter_in_hizb": 1,
+          "sura_no": 9,
+          "sura_name": "التوبَة",
+          "aya_no": 94,
+          "page": 202
+        },
+        {
+          "quarter_num": 82,
+          "juz": 11,
+          "hizb": 21,
+          "quarter_in_hizb": 2,
+          "sura_no": 9,
+          "sura_name": "التوبَة",
+          "aya_no": 111,
+          "page": 204
+        },
+        {
+          "quarter_num": 83,
+          "juz": 11,
+          "hizb": 21,
+          "quarter_in_hizb": 3,
+          "sura_no": 9,
+          "sura_name": "التوبَة",
+          "aya_no": 122,
+          "page": 206
+        },
+        {
+          "quarter_num": 84,
+          "juz": 11,
+          "hizb": 21,
+          "quarter_in_hizb": 4,
+          "sura_no": 10,
+          "sura_name": "يُونس",
+          "aya_no": 11,
+          "page": 209
+        }
+      ]
+    },
+    {
+      "hizb_num": 22,
+      "juz": 11,
+      "hizb_in_juz": 2,
+      "start_sura": 10,
+      "start_sura_name": "يُونس",
+      "start_aya": 26,
+      "start_page": 212,
+      "quarters": [
+        {
+          "quarter_num": 85,
+          "juz": 11,
+          "hizb": 22,
+          "quarter_in_hizb": 1,
+          "sura_no": 10,
+          "sura_name": "يُونس",
+          "aya_no": 26,
+          "page": 212
+        },
+        {
+          "quarter_num": 86,
+          "juz": 11,
+          "hizb": 22,
+          "quarter_in_hizb": 2,
+          "sura_no": 10,
+          "sura_name": "يُونس",
+          "aya_no": 53,
+          "page": 214
+        },
+        {
+          "quarter_num": 87,
+          "juz": 11,
+          "hizb": 22,
+          "quarter_in_hizb": 3,
+          "sura_no": 10,
+          "sura_name": "يُونس",
+          "aya_no": 71,
+          "page": 217
+        },
+        {
+          "quarter_num": 88,
+          "juz": 11,
+          "hizb": 22,
+          "quarter_in_hizb": 4,
+          "sura_no": 10,
+          "sura_name": "يُونس",
+          "aya_no": 90,
+          "page": 219
+        }
+      ]
+    },
+    {
+      "hizb_num": 23,
+      "juz": 12,
+      "hizb_in_juz": 1,
+      "start_sura": 11,
+      "start_sura_name": "هُود",
+      "start_aya": 6,
+      "start_page": 222,
+      "quarters": [
+        {
+          "quarter_num": 89,
+          "juz": 12,
+          "hizb": 23,
+          "quarter_in_hizb": 1,
+          "sura_no": 11,
+          "sura_name": "هُود",
+          "aya_no": 6,
+          "page": 222
+        },
+        {
+          "quarter_num": 90,
+          "juz": 12,
+          "hizb": 23,
+          "quarter_in_hizb": 2,
+          "sura_no": 11,
+          "sura_name": "هُود",
+          "aya_no": 24,
+          "page": 224
+        },
+        {
+          "quarter_num": 91,
+          "juz": 12,
+          "hizb": 23,
+          "quarter_in_hizb": 3,
+          "sura_no": 11,
+          "sura_name": "هُود",
+          "aya_no": 41,
+          "page": 226
+        },
+        {
+          "quarter_num": 92,
+          "juz": 12,
+          "hizb": 23,
+          "quarter_in_hizb": 4,
+          "sura_no": 11,
+          "sura_name": "هُود",
+          "aya_no": 61,
+          "page": 228
+        }
+      ]
+    },
+    {
+      "hizb_num": 24,
+      "juz": 12,
+      "hizb_in_juz": 2,
+      "start_sura": 11,
+      "start_sura_name": "هُود",
+      "start_aya": 84,
+      "start_page": 231,
+      "quarters": [
+        {
+          "quarter_num": 93,
+          "juz": 12,
+          "hizb": 24,
+          "quarter_in_hizb": 1,
+          "sura_no": 11,
+          "sura_name": "هُود",
+          "aya_no": 84,
+          "page": 231
+        },
+        {
+          "quarter_num": 94,
+          "juz": 12,
+          "hizb": 24,
+          "quarter_in_hizb": 2,
+          "sura_no": 11,
+          "sura_name": "هُود",
+          "aya_no": 108,
+          "page": 233
+        },
+        {
+          "quarter_num": 95,
+          "juz": 12,
+          "hizb": 24,
+          "quarter_in_hizb": 3,
+          "sura_no": 12,
+          "sura_name": "يُوسُف",
+          "aya_no": 7,
+          "page": 236
+        },
+        {
+          "quarter_num": 96,
+          "juz": 12,
+          "hizb": 24,
+          "quarter_in_hizb": 4,
+          "sura_no": 12,
+          "sura_name": "يُوسُف",
+          "aya_no": 30,
+          "page": 238
+        }
+      ]
+    },
+    {
+      "hizb_num": 25,
+      "juz": 13,
+      "hizb_in_juz": 1,
+      "start_sura": 12,
+      "start_sura_name": "يُوسُف",
+      "start_aya": 53,
+      "start_page": 242,
+      "quarters": [
+        {
+          "quarter_num": 97,
+          "juz": 13,
+          "hizb": 25,
+          "quarter_in_hizb": 1,
+          "sura_no": 12,
+          "sura_name": "يُوسُف",
+          "aya_no": 53,
+          "page": 242
+        },
+        {
+          "quarter_num": 98,
+          "juz": 13,
+          "hizb": 25,
+          "quarter_in_hizb": 2,
+          "sura_no": 12,
+          "sura_name": "يُوسُف",
+          "aya_no": 77,
+          "page": 244
+        },
+        {
+          "quarter_num": 99,
+          "juz": 13,
+          "hizb": 25,
+          "quarter_in_hizb": 3,
+          "sura_no": 12,
+          "sura_name": "يُوسُف",
+          "aya_no": 101,
+          "page": 247
+        },
+        {
+          "quarter_num": 100,
+          "juz": 13,
+          "hizb": 25,
+          "quarter_in_hizb": 4,
+          "sura_no": 13,
+          "sura_name": "الرَّعد",
+          "aya_no": 5,
+          "page": 249
+        }
+      ]
+    },
+    {
+      "hizb_num": 26,
+      "juz": 13,
+      "hizb_in_juz": 2,
+      "start_sura": 13,
+      "start_sura_name": "الرَّعد",
+      "start_aya": 19,
+      "start_page": 252,
+      "quarters": [
+        {
+          "quarter_num": 101,
+          "juz": 13,
+          "hizb": 26,
+          "quarter_in_hizb": 1,
+          "sura_no": 13,
+          "sura_name": "الرَّعد",
+          "aya_no": 19,
+          "page": 252
+        },
+        {
+          "quarter_num": 102,
+          "juz": 13,
+          "hizb": 26,
+          "quarter_in_hizb": 2,
+          "sura_no": 13,
+          "sura_name": "الرَّعد",
+          "aya_no": 35,
+          "page": 254
+        },
+        {
+          "quarter_num": 103,
+          "juz": 13,
+          "hizb": 26,
+          "quarter_in_hizb": 3,
+          "sura_no": 14,
+          "sura_name": "إبراهِيم",
+          "aya_no": 10,
+          "page": 256
+        },
+        {
+          "quarter_num": 104,
+          "juz": 13,
+          "hizb": 26,
+          "quarter_in_hizb": 4,
+          "sura_no": 14,
+          "sura_name": "إبراهِيم",
+          "aya_no": 28,
+          "page": 259
+        }
+      ]
+    },
+    {
+      "hizb_num": 27,
+      "juz": 14,
+      "hizb_in_juz": 1,
+      "start_sura": 15,
+      "start_sura_name": "الحِجر",
+      "start_aya": 1,
+      "start_page": 262,
+      "quarters": [
+        {
+          "quarter_num": 105,
+          "juz": 14,
+          "hizb": 27,
+          "quarter_in_hizb": 1,
+          "sura_no": 15,
+          "sura_name": "الحِجر",
+          "aya_no": 1,
+          "page": 262
+        },
+        {
+          "quarter_num": 106,
+          "juz": 14,
+          "hizb": 27,
+          "quarter_in_hizb": 2,
+          "sura_no": 15,
+          "sura_name": "الحِجر",
+          "aya_no": 50,
+          "page": 264
+        },
+        {
+          "quarter_num": 107,
+          "juz": 14,
+          "hizb": 27,
+          "quarter_in_hizb": 3,
+          "sura_no": 16,
+          "sura_name": "النَّحل",
+          "aya_no": 1,
+          "page": 267
+        },
+        {
+          "quarter_num": 108,
+          "juz": 14,
+          "hizb": 27,
+          "quarter_in_hizb": 4,
+          "sura_no": 16,
+          "sura_name": "النَّحل",
+          "aya_no": 30,
+          "page": 270
+        }
+      ]
+    },
+    {
+      "hizb_num": 28,
+      "juz": 14,
+      "hizb_in_juz": 2,
+      "start_sura": 16,
+      "start_sura_name": "النَّحل",
+      "start_aya": 51,
+      "start_page": 272,
+      "quarters": [
+        {
+          "quarter_num": 109,
+          "juz": 14,
+          "hizb": 28,
+          "quarter_in_hizb": 1,
+          "sura_no": 16,
+          "sura_name": "النَّحل",
+          "aya_no": 51,
+          "page": 272
+        },
+        {
+          "quarter_num": 110,
+          "juz": 14,
+          "hizb": 28,
+          "quarter_in_hizb": 2,
+          "sura_no": 16,
+          "sura_name": "النَّحل",
+          "aya_no": 75,
+          "page": 275
+        },
+        {
+          "quarter_num": 111,
+          "juz": 14,
+          "hizb": 28,
+          "quarter_in_hizb": 3,
+          "sura_no": 16,
+          "sura_name": "النَّحل",
+          "aya_no": 90,
+          "page": 277
+        },
+        {
+          "quarter_num": 112,
+          "juz": 14,
+          "hizb": 28,
+          "quarter_in_hizb": 4,
+          "sura_no": 16,
+          "sura_name": "النَّحل",
+          "aya_no": 111,
+          "page": 280
+        }
+      ]
+    },
+    {
+      "hizb_num": 29,
+      "juz": 15,
+      "hizb_in_juz": 1,
+      "start_sura": 17,
+      "start_sura_name": "الإسرَاء",
+      "start_aya": 1,
+      "start_page": 282,
+      "quarters": [
+        {
+          "quarter_num": 113,
+          "juz": 15,
+          "hizb": 29,
+          "quarter_in_hizb": 1,
+          "sura_no": 17,
+          "sura_name": "الإسرَاء",
+          "aya_no": 1,
+          "page": 282
+        },
+        {
+          "quarter_num": 114,
+          "juz": 15,
+          "hizb": 29,
+          "quarter_in_hizb": 2,
+          "sura_no": 17,
+          "sura_name": "الإسرَاء",
+          "aya_no": 23,
+          "page": 284
+        },
+        {
+          "quarter_num": 115,
+          "juz": 15,
+          "hizb": 29,
+          "quarter_in_hizb": 3,
+          "sura_no": 17,
+          "sura_name": "الإسرَاء",
+          "aya_no": 50,
+          "page": 287
+        },
+        {
+          "quarter_num": 116,
+          "juz": 15,
+          "hizb": 29,
+          "quarter_in_hizb": 4,
+          "sura_no": 17,
+          "sura_name": "الإسرَاء",
+          "aya_no": 70,
+          "page": 289
+        }
+      ]
+    },
+    {
+      "hizb_num": 30,
+      "juz": 15,
+      "hizb_in_juz": 2,
+      "start_sura": 17,
+      "start_sura_name": "الإسرَاء",
+      "start_aya": 99,
+      "start_page": 292,
+      "quarters": [
+        {
+          "quarter_num": 117,
+          "juz": 15,
+          "hizb": 30,
+          "quarter_in_hizb": 1,
+          "sura_no": 17,
+          "sura_name": "الإسرَاء",
+          "aya_no": 99,
+          "page": 292
+        },
+        {
+          "quarter_num": 118,
+          "juz": 15,
+          "hizb": 30,
+          "quarter_in_hizb": 2,
+          "sura_no": 18,
+          "sura_name": "الكَهف",
+          "aya_no": 17,
+          "page": 295
+        },
+        {
+          "quarter_num": 119,
+          "juz": 15,
+          "hizb": 30,
+          "quarter_in_hizb": 3,
+          "sura_no": 18,
+          "sura_name": "الكَهف",
+          "aya_no": 32,
+          "page": 297
+        },
+        {
+          "quarter_num": 120,
+          "juz": 15,
+          "hizb": 30,
+          "quarter_in_hizb": 4,
+          "sura_no": 18,
+          "sura_name": "الكَهف",
+          "aya_no": 51,
+          "page": 299
+        }
+      ]
+    },
+    {
+      "hizb_num": 31,
+      "juz": 16,
+      "hizb_in_juz": 1,
+      "start_sura": 18,
+      "start_sura_name": "الكَهف",
+      "start_aya": 75,
+      "start_page": 302,
+      "quarters": [
+        {
+          "quarter_num": 121,
+          "juz": 16,
+          "hizb": 31,
+          "quarter_in_hizb": 1,
+          "sura_no": 18,
+          "sura_name": "الكَهف",
+          "aya_no": 75,
+          "page": 302
+        },
+        {
+          "quarter_num": 122,
+          "juz": 16,
+          "hizb": 31,
+          "quarter_in_hizb": 2,
+          "sura_no": 18,
+          "sura_name": "الكَهف",
+          "aya_no": 99,
+          "page": 304
+        },
+        {
+          "quarter_num": 123,
+          "juz": 16,
+          "hizb": 31,
+          "quarter_in_hizb": 3,
+          "sura_no": 19,
+          "sura_name": "مَريَم",
+          "aya_no": 22,
+          "page": 306
+        },
+        {
+          "quarter_num": 124,
+          "juz": 16,
+          "hizb": 31,
+          "quarter_in_hizb": 4,
+          "sura_no": 19,
+          "sura_name": "مَريَم",
+          "aya_no": 59,
+          "page": 309
+        }
+      ]
+    },
+    {
+      "hizb_num": 32,
+      "juz": 16,
+      "hizb_in_juz": 2,
+      "start_sura": 20,
+      "start_sura_name": "طه",
+      "start_aya": 1,
+      "start_page": 312,
+      "quarters": [
+        {
+          "quarter_num": 125,
+          "juz": 16,
+          "hizb": 32,
+          "quarter_in_hizb": 1,
+          "sura_no": 20,
+          "sura_name": "طه",
+          "aya_no": 1,
+          "page": 312
+        },
+        {
+          "quarter_num": 126,
+          "juz": 16,
+          "hizb": 32,
+          "quarter_in_hizb": 2,
+          "sura_no": 20,
+          "sura_name": "طه",
+          "aya_no": 55,
+          "page": 315
+        },
+        {
+          "quarter_num": 127,
+          "juz": 16,
+          "hizb": 32,
+          "quarter_in_hizb": 3,
+          "sura_no": 20,
+          "sura_name": "طه",
+          "aya_no": 83,
+          "page": 317
+        },
+        {
+          "quarter_num": 128,
+          "juz": 16,
+          "hizb": 32,
+          "quarter_in_hizb": 4,
+          "sura_no": 20,
+          "sura_name": "طه",
+          "aya_no": 111,
+          "page": 319
+        }
+      ]
+    },
+    {
+      "hizb_num": 33,
+      "juz": 17,
+      "hizb_in_juz": 1,
+      "start_sura": 21,
+      "start_sura_name": "الأنبيَاء",
+      "start_aya": 1,
+      "start_page": 322,
+      "quarters": [
+        {
+          "quarter_num": 129,
+          "juz": 17,
+          "hizb": 33,
+          "quarter_in_hizb": 1,
+          "sura_no": 21,
+          "sura_name": "الأنبيَاء",
+          "aya_no": 1,
+          "page": 322
+        },
+        {
+          "quarter_num": 130,
+          "juz": 17,
+          "hizb": 33,
+          "quarter_in_hizb": 2,
+          "sura_no": 21,
+          "sura_name": "الأنبيَاء",
+          "aya_no": 29,
+          "page": 324
+        },
+        {
+          "quarter_num": 131,
+          "juz": 17,
+          "hizb": 33,
+          "quarter_in_hizb": 3,
+          "sura_no": 21,
+          "sura_name": "الأنبيَاء",
+          "aya_no": 51,
+          "page": 326
+        },
+        {
+          "quarter_num": 132,
+          "juz": 17,
+          "hizb": 33,
+          "quarter_in_hizb": 4,
+          "sura_no": 21,
+          "sura_name": "الأنبيَاء",
+          "aya_no": 83,
+          "page": 329
+        }
+      ]
+    },
+    {
+      "hizb_num": 34,
+      "juz": 17,
+      "hizb_in_juz": 2,
+      "start_sura": 22,
+      "start_sura_name": "الحج",
+      "start_aya": 1,
+      "start_page": 332,
+      "quarters": [
+        {
+          "quarter_num": 133,
+          "juz": 17,
+          "hizb": 34,
+          "quarter_in_hizb": 1,
+          "sura_no": 22,
+          "sura_name": "الحج",
+          "aya_no": 1,
+          "page": 332
+        },
+        {
+          "quarter_num": 134,
+          "juz": 17,
+          "hizb": 34,
+          "quarter_in_hizb": 2,
+          "sura_no": 22,
+          "sura_name": "الحج",
+          "aya_no": 19,
+          "page": 334
+        },
+        {
+          "quarter_num": 135,
+          "juz": 17,
+          "hizb": 34,
+          "quarter_in_hizb": 3,
+          "sura_no": 22,
+          "sura_name": "الحج",
+          "aya_no": 38,
+          "page": 336
+        },
+        {
+          "quarter_num": 136,
+          "juz": 17,
+          "hizb": 34,
+          "quarter_in_hizb": 4,
+          "sura_no": 22,
+          "sura_name": "الحج",
+          "aya_no": 60,
+          "page": 339
+        }
+      ]
+    },
+    {
+      "hizb_num": 35,
+      "juz": 18,
+      "hizb_in_juz": 1,
+      "start_sura": 23,
+      "start_sura_name": "المؤمنُون",
+      "start_aya": 1,
+      "start_page": 342,
+      "quarters": [
+        {
+          "quarter_num": 137,
+          "juz": 18,
+          "hizb": 35,
+          "quarter_in_hizb": 1,
+          "sura_no": 23,
+          "sura_name": "المؤمنُون",
+          "aya_no": 1,
+          "page": 342
+        },
+        {
+          "quarter_num": 138,
+          "juz": 18,
+          "hizb": 35,
+          "quarter_in_hizb": 2,
+          "sura_no": 23,
+          "sura_name": "المؤمنُون",
+          "aya_no": 36,
+          "page": 344
+        },
+        {
+          "quarter_num": 139,
+          "juz": 18,
+          "hizb": 35,
+          "quarter_in_hizb": 3,
+          "sura_no": 23,
+          "sura_name": "المؤمنُون",
+          "aya_no": 75,
+          "page": 347
+        },
+        {
+          "quarter_num": 140,
+          "juz": 18,
+          "hizb": 35,
+          "quarter_in_hizb": 4,
+          "sura_no": 24,
+          "sura_name": "النور",
+          "aya_no": 1,
+          "page": 350
+        }
+      ]
+    },
+    {
+      "hizb_num": 36,
+      "juz": 18,
+      "hizb_in_juz": 2,
+      "start_sura": 24,
+      "start_sura_name": "النور",
+      "start_aya": 21,
+      "start_page": 352,
+      "quarters": [
+        {
+          "quarter_num": 141,
+          "juz": 18,
+          "hizb": 36,
+          "quarter_in_hizb": 1,
+          "sura_no": 24,
+          "sura_name": "النور",
+          "aya_no": 21,
+          "page": 352
+        },
+        {
+          "quarter_num": 142,
+          "juz": 18,
+          "hizb": 36,
+          "quarter_in_hizb": 2,
+          "sura_no": 24,
+          "sura_name": "النور",
+          "aya_no": 35,
+          "page": 354
+        },
+        {
+          "quarter_num": 143,
+          "juz": 18,
+          "hizb": 36,
+          "quarter_in_hizb": 3,
+          "sura_no": 24,
+          "sura_name": "النور",
+          "aya_no": 53,
+          "page": 356
+        },
+        {
+          "quarter_num": 144,
+          "juz": 18,
+          "hizb": 36,
+          "quarter_in_hizb": 4,
+          "sura_no": 25,
+          "sura_name": "الفُرقَان",
+          "aya_no": 1,
+          "page": 359
+        }
+      ]
+    },
+    {
+      "hizb_num": 37,
+      "juz": 19,
+      "hizb_in_juz": 1,
+      "start_sura": 25,
+      "start_sura_name": "الفُرقَان",
+      "start_aya": 21,
+      "start_page": 362,
+      "quarters": [
+        {
+          "quarter_num": 145,
+          "juz": 19,
+          "hizb": 37,
+          "quarter_in_hizb": 1,
+          "sura_no": 25,
+          "sura_name": "الفُرقَان",
+          "aya_no": 21,
+          "page": 362
+        },
+        {
+          "quarter_num": 146,
+          "juz": 19,
+          "hizb": 37,
+          "quarter_in_hizb": 2,
+          "sura_no": 25,
+          "sura_name": "الفُرقَان",
+          "aya_no": 53,
+          "page": 364
+        },
+        {
+          "quarter_num": 147,
+          "juz": 19,
+          "hizb": 37,
+          "quarter_in_hizb": 3,
+          "sura_no": 26,
+          "sura_name": "الشعراء",
+          "aya_no": 20,
+          "page": 368
+        },
+        {
+          "quarter_num": 148,
+          "juz": 19,
+          "hizb": 37,
+          "quarter_in_hizb": 4,
+          "sura_no": 26,
+          "sura_name": "الشعراء",
+          "aya_no": 111,
+          "page": 371
+        }
+      ]
+    },
+    {
+      "hizb_num": 38,
+      "juz": 19,
+      "hizb_in_juz": 2,
+      "start_sura": 26,
+      "start_sura_name": "الشعراء",
+      "start_aya": 181,
+      "start_page": 374,
+      "quarters": [
+        {
+          "quarter_num": 149,
+          "juz": 19,
+          "hizb": 38,
+          "quarter_in_hizb": 1,
+          "sura_no": 26,
+          "sura_name": "الشعراء",
+          "aya_no": 181,
+          "page": 374
+        },
+        {
+          "quarter_num": 150,
+          "juz": 19,
+          "hizb": 38,
+          "quarter_in_hizb": 2,
+          "sura_no": 27,
+          "sura_name": "النَّمل",
+          "aya_no": 15,
+          "page": 378
+        },
+        {
+          "quarter_num": 151,
+          "juz": 19,
+          "hizb": 38,
+          "quarter_in_hizb": 3,
+          "sura_no": 27,
+          "sura_name": "النَّمل",
+          "aya_no": 45,
+          "page": 381
+        },
+        {
+          "quarter_num": 152,
+          "juz": 19,
+          "hizb": 38,
+          "quarter_in_hizb": 4,
+          "sura_no": 27,
+          "sura_name": "النَّمل",
+          "aya_no": 60,
+          "page": 382
+        }
+      ]
+    },
+    {
+      "hizb_num": 39,
+      "juz": 20,
+      "hizb_in_juz": 1,
+      "start_sura": 27,
+      "start_sura_name": "النَّمل",
+      "start_aya": 82,
+      "start_page": 384,
+      "quarters": [
+        {
+          "quarter_num": 153,
+          "juz": 20,
+          "hizb": 39,
+          "quarter_in_hizb": 1,
+          "sura_no": 27,
+          "sura_name": "النَّمل",
+          "aya_no": 82,
+          "page": 384
+        },
+        {
+          "quarter_num": 154,
+          "juz": 20,
+          "hizb": 39,
+          "quarter_in_hizb": 2,
+          "sura_no": 28,
+          "sura_name": "القَصَص",
+          "aya_no": 14,
+          "page": 387
+        },
+        {
+          "quarter_num": 155,
+          "juz": 20,
+          "hizb": 39,
+          "quarter_in_hizb": 3,
+          "sura_no": 28,
+          "sura_name": "القَصَص",
+          "aya_no": 29,
+          "page": 389
+        },
+        {
+          "quarter_num": 156,
+          "juz": 20,
+          "hizb": 39,
+          "quarter_in_hizb": 4,
+          "sura_no": 28,
+          "sura_name": "القَصَص",
+          "aya_no": 51,
+          "page": 392
+        }
+      ]
+    },
+    {
+      "hizb_num": 40,
+      "juz": 20,
+      "hizb_in_juz": 2,
+      "start_sura": 28,
+      "start_sura_name": "القَصَص",
+      "start_aya": 76,
+      "start_page": 394,
+      "quarters": [
+        {
+          "quarter_num": 157,
+          "juz": 20,
+          "hizb": 40,
+          "quarter_in_hizb": 1,
+          "sura_no": 28,
+          "sura_name": "القَصَص",
+          "aya_no": 76,
+          "page": 394
+        },
+        {
+          "quarter_num": 158,
+          "juz": 20,
+          "hizb": 40,
+          "quarter_in_hizb": 2,
+          "sura_no": 29,
+          "sura_name": "العَنكبُوت",
+          "aya_no": 7,
+          "page": 397
+        },
+        {
+          "quarter_num": 159,
+          "juz": 20,
+          "hizb": 40,
+          "quarter_in_hizb": 3,
+          "sura_no": 29,
+          "sura_name": "العَنكبُوت",
+          "aya_no": 26,
+          "page": 399
+        },
+        {
+          "quarter_num": 160,
+          "juz": 20,
+          "hizb": 40,
+          "quarter_in_hizb": 4,
+          "sura_no": 29,
+          "sura_name": "العَنكبُوت",
+          "aya_no": 46,
+          "page": 402
+        }
+      ]
+    },
+    {
+      "hizb_num": 41,
+      "juz": 21,
+      "hizb_in_juz": 1,
+      "start_sura": 29,
+      "start_sura_name": "العَنكبُوت",
+      "start_aya": 64,
+      "start_page": 404,
+      "quarters": [
+        {
+          "quarter_num": 161,
+          "juz": 21,
+          "hizb": 41,
+          "quarter_in_hizb": 1,
+          "sura_no": 29,
+          "sura_name": "العَنكبُوت",
+          "aya_no": 64,
+          "page": 404
+        },
+        {
+          "quarter_num": 162,
+          "juz": 21,
+          "hizb": 41,
+          "quarter_in_hizb": 2,
+          "sura_no": 30,
+          "sura_name": "الرُّوم",
+          "aya_no": 31,
+          "page": 407
+        },
+        {
+          "quarter_num": 163,
+          "juz": 21,
+          "hizb": 41,
+          "quarter_in_hizb": 3,
+          "sura_no": 31,
+          "sura_name": "لُقمَان",
+          "aya_no": 1,
+          "page": 411
+        },
+        {
+          "quarter_num": 164,
+          "juz": 21,
+          "hizb": 41,
+          "quarter_in_hizb": 4,
+          "sura_no": 31,
+          "sura_name": "لُقمَان",
+          "aya_no": 22,
+          "page": 413
+        }
+      ]
+    },
+    {
+      "hizb_num": 42,
+      "juz": 21,
+      "hizb_in_juz": 2,
+      "start_sura": 32,
+      "start_sura_name": "السَّجدة",
+      "start_aya": 21,
+      "start_page": 417,
+      "quarters": [
+        {
+          "quarter_num": 165,
+          "juz": 21,
+          "hizb": 42,
+          "quarter_in_hizb": 1,
+          "sura_no": 32,
+          "sura_name": "السَّجدة",
+          "aya_no": 21,
+          "page": 417
+        },
+        {
+          "quarter_num": 166,
+          "juz": 21,
+          "hizb": 42,
+          "quarter_in_hizb": 2,
+          "sura_no": 33,
+          "sura_name": "الأحزَاب",
+          "aya_no": 18,
+          "page": 420
+        },
+        {
+          "quarter_num": 167,
+          "juz": 21,
+          "hizb": 42,
+          "quarter_in_hizb": 3,
+          "sura_no": 33,
+          "sura_name": "الأحزَاب",
+          "aya_no": 31,
+          "page": 422
+        },
+        {
+          "quarter_num": 168,
+          "juz": 21,
+          "hizb": 42,
+          "quarter_in_hizb": 4,
+          "sura_no": 33,
+          "sura_name": "الأحزَاب",
+          "aya_no": 51,
+          "page": 425
+        }
+      ]
+    },
+    {
+      "hizb_num": 43,
+      "juz": 22,
+      "hizb_in_juz": 1,
+      "start_sura": 33,
+      "start_sura_name": "الأحزَاب",
+      "start_aya": 60,
+      "start_page": 426,
+      "quarters": [
+        {
+          "quarter_num": 169,
+          "juz": 22,
+          "hizb": 43,
+          "quarter_in_hizb": 1,
+          "sura_no": 33,
+          "sura_name": "الأحزَاب",
+          "aya_no": 60,
+          "page": 426
+        },
+        {
+          "quarter_num": 170,
+          "juz": 22,
+          "hizb": 43,
+          "quarter_in_hizb": 2,
+          "sura_no": 34,
+          "sura_name": "سَبإ",
+          "aya_no": 10,
+          "page": 429
+        },
+        {
+          "quarter_num": 171,
+          "juz": 22,
+          "hizb": 43,
+          "quarter_in_hizb": 3,
+          "sura_no": 34,
+          "sura_name": "سَبإ",
+          "aya_no": 24,
+          "page": 431
+        },
+        {
+          "quarter_num": 172,
+          "juz": 22,
+          "hizb": 43,
+          "quarter_in_hizb": 4,
+          "sura_no": 34,
+          "sura_name": "سَبإ",
+          "aya_no": 46,
+          "page": 433
+        }
+      ]
+    },
+    {
+      "hizb_num": 44,
+      "juz": 22,
+      "hizb_in_juz": 2,
+      "start_sura": 35,
+      "start_sura_name": "فَاطِر",
+      "start_aya": 15,
+      "start_page": 436,
+      "quarters": [
+        {
+          "quarter_num": 173,
+          "juz": 22,
+          "hizb": 44,
+          "quarter_in_hizb": 1,
+          "sura_no": 35,
+          "sura_name": "فَاطِر",
+          "aya_no": 15,
+          "page": 436
+        },
+        {
+          "quarter_num": 174,
+          "juz": 22,
+          "hizb": 44,
+          "quarter_in_hizb": 2,
+          "sura_no": 35,
+          "sura_name": "فَاطِر",
+          "aya_no": 41,
+          "page": 439
+        },
+        {
+          "quarter_num": 175,
+          "juz": 22,
+          "hizb": 44,
+          "quarter_in_hizb": 3,
+          "sura_no": 36,
+          "sura_name": "يسٓ",
+          "aya_no": 28,
+          "page": 442
+        },
+        {
+          "quarter_num": 176,
+          "juz": 22,
+          "hizb": 44,
+          "quarter_in_hizb": 4,
+          "sura_no": 36,
+          "sura_name": "يسٓ",
+          "aya_no": 60,
+          "page": 444
+        }
+      ]
+    },
+    {
+      "hizb_num": 45,
+      "juz": 23,
+      "hizb_in_juz": 1,
+      "start_sura": 37,
+      "start_sura_name": "الصَّافَات",
+      "start_aya": 22,
+      "start_page": 446,
+      "quarters": [
+        {
+          "quarter_num": 177,
+          "juz": 23,
+          "hizb": 45,
+          "quarter_in_hizb": 1,
+          "sura_no": 37,
+          "sura_name": "الصَّافَات",
+          "aya_no": 22,
+          "page": 446
+        },
+        {
+          "quarter_num": 178,
+          "juz": 23,
+          "hizb": 45,
+          "quarter_in_hizb": 2,
+          "sura_no": 37,
+          "sura_name": "الصَّافَات",
+          "aya_no": 83,
+          "page": 449
+        },
+        {
+          "quarter_num": 179,
+          "juz": 23,
+          "hizb": 45,
+          "quarter_in_hizb": 3,
+          "sura_no": 37,
+          "sura_name": "الصَّافَات",
+          "aya_no": 145,
+          "page": 451
+        },
+        {
+          "quarter_num": 180,
+          "juz": 23,
+          "hizb": 45,
+          "quarter_in_hizb": 4,
+          "sura_no": 38,
+          "sura_name": "صٓ",
+          "aya_no": 21,
+          "page": 454
+        }
+      ]
+    },
+    {
+      "hizb_num": 46,
+      "juz": 23,
+      "hizb_in_juz": 2,
+      "start_sura": 38,
+      "start_sura_name": "صٓ",
+      "start_aya": 52,
+      "start_page": 456,
+      "quarters": [
+        {
+          "quarter_num": 181,
+          "juz": 23,
+          "hizb": 46,
+          "quarter_in_hizb": 1,
+          "sura_no": 38,
+          "sura_name": "صٓ",
+          "aya_no": 52,
+          "page": 456
+        },
+        {
+          "quarter_num": 182,
+          "juz": 23,
+          "hizb": 46,
+          "quarter_in_hizb": 2,
+          "sura_no": 39,
+          "sura_name": "الزُّمَر",
+          "aya_no": 8,
+          "page": 459
+        },
+        {
+          "quarter_num": 183,
+          "juz": 23,
+          "hizb": 46,
+          "quarter_in_hizb": 3,
+          "sura_no": 39,
+          "sura_name": "الزُّمَر",
+          "aya_no": 32,
+          "page": 462
+        },
+        {
+          "quarter_num": 184,
+          "juz": 23,
+          "hizb": 46,
+          "quarter_in_hizb": 4,
+          "sura_no": 39,
+          "sura_name": "الزُّمَر",
+          "aya_no": 53,
+          "page": 464
+        }
+      ]
+    },
+    {
+      "hizb_num": 47,
+      "juz": 24,
+      "hizb_in_juz": 1,
+      "start_sura": 39,
+      "start_sura_name": "الزُّمَر",
+      "start_aya": 71,
+      "start_page": 466,
+      "quarters": [
+        {
+          "quarter_num": 185,
+          "juz": 24,
+          "hizb": 47,
+          "quarter_in_hizb": 1,
+          "sura_no": 39,
+          "sura_name": "الزُّمَر",
+          "aya_no": 71,
+          "page": 466
+        },
+        {
+          "quarter_num": 186,
+          "juz": 24,
+          "hizb": 47,
+          "quarter_in_hizb": 2,
+          "sura_no": 40,
+          "sura_name": "غَافِر",
+          "aya_no": 21,
+          "page": 469
+        },
+        {
+          "quarter_num": 187,
+          "juz": 24,
+          "hizb": 47,
+          "quarter_in_hizb": 3,
+          "sura_no": 40,
+          "sura_name": "غَافِر",
+          "aya_no": 41,
+          "page": 472
+        },
+        {
+          "quarter_num": 188,
+          "juz": 24,
+          "hizb": 47,
+          "quarter_in_hizb": 4,
+          "sura_no": 40,
+          "sura_name": "غَافِر",
+          "aya_no": 66,
+          "page": 474
+        }
+      ]
+    },
+    {
+      "hizb_num": 48,
+      "juz": 24,
+      "hizb_in_juz": 2,
+      "start_sura": 41,
+      "start_sura_name": "فُصِّلَت",
+      "start_aya": 9,
+      "start_page": 477,
+      "quarters": [
+        {
+          "quarter_num": 189,
+          "juz": 24,
+          "hizb": 48,
+          "quarter_in_hizb": 1,
+          "sura_no": 41,
+          "sura_name": "فُصِّلَت",
+          "aya_no": 9,
+          "page": 477
+        },
+        {
+          "quarter_num": 190,
+          "juz": 24,
+          "hizb": 48,
+          "quarter_in_hizb": 2,
+          "sura_no": 41,
+          "sura_name": "فُصِّلَت",
+          "aya_no": 25,
+          "page": 479
+        },
+        {
+          "quarter_num": 191,
+          "juz": 24,
+          "hizb": 48,
+          "quarter_in_hizb": 3,
+          "sura_no": 41,
+          "sura_name": "فُصِّلَت",
+          "aya_no": 47,
+          "page": 482
+        },
+        {
+          "quarter_num": 192,
+          "juz": 24,
+          "hizb": 48,
+          "quarter_in_hizb": 4,
+          "sura_no": 42,
+          "sura_name": "الشُّوري",
+          "aya_no": 13,
+          "page": 484
+        }
+      ]
+    },
+    {
+      "hizb_num": 49,
+      "juz": 25,
+      "hizb_in_juz": 1,
+      "start_sura": 42,
+      "start_sura_name": "الشُّوري",
+      "start_aya": 27,
+      "start_page": 486,
+      "quarters": [
+        {
+          "quarter_num": 193,
+          "juz": 25,
+          "hizb": 49,
+          "quarter_in_hizb": 1,
+          "sura_no": 42,
+          "sura_name": "الشُّوري",
+          "aya_no": 27,
+          "page": 486
+        },
+        {
+          "quarter_num": 194,
+          "juz": 25,
+          "hizb": 49,
+          "quarter_in_hizb": 2,
+          "sura_no": 42,
+          "sura_name": "الشُّوري",
+          "aya_no": 51,
+          "page": 488
+        },
+        {
+          "quarter_num": 195,
+          "juz": 25,
+          "hizb": 49,
+          "quarter_in_hizb": 3,
+          "sura_no": 43,
+          "sura_name": "الزُّخرُف",
+          "aya_no": 24,
+          "page": 491
+        },
+        {
+          "quarter_num": 196,
+          "juz": 25,
+          "hizb": 49,
+          "quarter_in_hizb": 4,
+          "sura_no": 43,
+          "sura_name": "الزُّخرُف",
+          "aya_no": 57,
+          "page": 493
+        }
+      ]
+    },
+    {
+      "hizb_num": 50,
+      "juz": 25,
+      "hizb_in_juz": 2,
+      "start_sura": 44,
+      "start_sura_name": "الدُّخان",
+      "start_aya": 17,
+      "start_page": 496,
+      "quarters": [
+        {
+          "quarter_num": 197,
+          "juz": 25,
+          "hizb": 50,
+          "quarter_in_hizb": 1,
+          "sura_no": 44,
+          "sura_name": "الدُّخان",
+          "aya_no": 17,
+          "page": 496
+        },
+        {
+          "quarter_num": 198,
+          "juz": 25,
+          "hizb": 50,
+          "quarter_in_hizb": 2,
+          "sura_no": 45,
+          "sura_name": "الجاثِية",
+          "aya_no": 12,
+          "page": 499
+        },
+        {
+          "quarter_num": 199,
+          "juz": 25,
+          "hizb": 50,
+          "quarter_in_hizb": 3,
+          "sura_no": 46,
+          "sura_name": "الأحقَاف",
+          "aya_no": 1,
+          "page": 502
+        },
+        {
+          "quarter_num": 200,
+          "juz": 25,
+          "hizb": 50,
+          "quarter_in_hizb": 4,
+          "sura_no": 46,
+          "sura_name": "الأحقَاف",
+          "aya_no": 21,
+          "page": 505
+        }
+      ]
+    },
+    {
+      "hizb_num": 51,
+      "juz": 26,
+      "hizb_in_juz": 1,
+      "start_sura": 47,
+      "start_sura_name": "مُحمد",
+      "start_aya": 1,
+      "start_page": 507,
+      "quarters": [
+        {
+          "quarter_num": 201,
+          "juz": 26,
+          "hizb": 51,
+          "quarter_in_hizb": 1,
+          "sura_no": 47,
+          "sura_name": "مُحمد",
+          "aya_no": 1,
+          "page": 507
+        },
+        {
+          "quarter_num": 202,
+          "juz": 26,
+          "hizb": 51,
+          "quarter_in_hizb": 2,
+          "sura_no": 47,
+          "sura_name": "مُحمد",
+          "aya_no": 20,
+          "page": 509
+        },
+        {
+          "quarter_num": 203,
+          "juz": 26,
+          "hizb": 51,
+          "quarter_in_hizb": 3,
+          "sura_no": 48,
+          "sura_name": "الفَتح",
+          "aya_no": 10,
+          "page": 512
+        },
+        {
+          "quarter_num": 204,
+          "juz": 26,
+          "hizb": 51,
+          "quarter_in_hizb": 4,
+          "sura_no": 48,
+          "sura_name": "الفَتح",
+          "aya_no": 29,
+          "page": 515
+        }
+      ]
+    },
+    {
+      "hizb_num": 52,
+      "juz": 26,
+      "hizb_in_juz": 2,
+      "start_sura": 49,
+      "start_sura_name": "الحُجُرَات",
+      "start_aya": 14,
+      "start_page": 517,
+      "quarters": [
+        {
+          "quarter_num": 205,
+          "juz": 26,
+          "hizb": 52,
+          "quarter_in_hizb": 1,
+          "sura_no": 49,
+          "sura_name": "الحُجُرَات",
+          "aya_no": 14,
+          "page": 517
+        },
+        {
+          "quarter_num": 206,
+          "juz": 26,
+          "hizb": 52,
+          "quarter_in_hizb": 2,
+          "sura_no": 50,
+          "sura_name": "قٓ",
+          "aya_no": 27,
+          "page": 519
+        },
+        {
+          "quarter_num": 207,
+          "juz": 26,
+          "hizb": 52,
+          "quarter_in_hizb": 3,
+          "sura_no": 51,
+          "sura_name": "الذَّاريَات",
+          "aya_no": 31,
+          "page": 522
+        },
+        {
+          "quarter_num": 208,
+          "juz": 26,
+          "hizb": 52,
+          "quarter_in_hizb": 4,
+          "sura_no": 52,
+          "sura_name": "الطُّور",
+          "aya_no": 24,
+          "page": 524
+        }
+      ]
+    },
+    {
+      "hizb_num": 53,
+      "juz": 27,
+      "hizb_in_juz": 1,
+      "start_sura": 53,
+      "start_sura_name": "النَّجم",
+      "start_aya": 27,
+      "start_page": 527,
+      "quarters": [
+        {
+          "quarter_num": 209,
+          "juz": 27,
+          "hizb": 53,
+          "quarter_in_hizb": 1,
+          "sura_no": 53,
+          "sura_name": "النَّجم",
+          "aya_no": 27,
+          "page": 527
+        },
+        {
+          "quarter_num": 210,
+          "juz": 27,
+          "hizb": 53,
+          "quarter_in_hizb": 2,
+          "sura_no": 54,
+          "sura_name": "القَمَر",
+          "aya_no": 28,
+          "page": 530
+        },
+        {
+          "quarter_num": 211,
+          "juz": 27,
+          "hizb": 53,
+          "quarter_in_hizb": 3,
+          "sura_no": 55,
+          "sura_name": "الرَّحمٰن",
+          "aya_no": 26,
+          "page": 532
+        },
+        {
+          "quarter_num": 212,
+          "juz": 27,
+          "hizb": 53,
+          "quarter_in_hizb": 4,
+          "sura_no": 56,
+          "sura_name": "الوَاقِعة",
+          "aya_no": 17,
+          "page": 535
+        }
+      ]
+    },
+    {
+      "hizb_num": 54,
+      "juz": 27,
+      "hizb_in_juz": 2,
+      "start_sura": 56,
+      "start_sura_name": "الوَاقِعة",
+      "start_aya": 75,
+      "start_page": 536,
+      "quarters": [
+        {
+          "quarter_num": 213,
+          "juz": 27,
+          "hizb": 54,
+          "quarter_in_hizb": 1,
+          "sura_no": 56,
+          "sura_name": "الوَاقِعة",
+          "aya_no": 75,
+          "page": 536
+        },
+        {
+          "quarter_num": 214,
+          "juz": 27,
+          "hizb": 54,
+          "quarter_in_hizb": 2,
+          "sura_no": 57,
+          "sura_name": "الحدِيد",
+          "aya_no": 16,
+          "page": 539
+        },
+        {
+          "quarter_num": 215,
+          "juz": 27,
+          "hizb": 54,
+          "quarter_in_hizb": 3,
+          "sura_no": 58,
+          "sura_name": "المُجَادلة",
+          "aya_no": 1,
+          "page": 542
+        },
+        {
+          "quarter_num": 216,
+          "juz": 27,
+          "hizb": 54,
+          "quarter_in_hizb": 4,
+          "sura_no": 58,
+          "sura_name": "المُجَادلة",
+          "aya_no": 14,
+          "page": 544
+        }
+      ]
+    },
+    {
+      "hizb_num": 55,
+      "juz": 28,
+      "hizb_in_juz": 1,
+      "start_sura": 59,
+      "start_sura_name": "الحَشر",
+      "start_aya": 1,
+      "start_page": 545,
+      "quarters": [
+        {
+          "quarter_num": 217,
+          "juz": 28,
+          "hizb": 55,
+          "quarter_in_hizb": 1,
+          "sura_no": 59,
+          "sura_name": "الحَشر",
+          "aya_no": 1,
+          "page": 545
+        },
+        {
+          "quarter_num": 218,
+          "juz": 28,
+          "hizb": 55,
+          "quarter_in_hizb": 2,
+          "sura_no": 59,
+          "sura_name": "الحَشر",
+          "aya_no": 11,
+          "page": 547
+        },
+        {
+          "quarter_num": 219,
+          "juz": 28,
+          "hizb": 55,
+          "quarter_in_hizb": 3,
+          "sura_no": 60,
+          "sura_name": "المُمتَحنَة",
+          "aya_no": 7,
+          "page": 550
+        },
+        {
+          "quarter_num": 220,
+          "juz": 28,
+          "hizb": 55,
+          "quarter_in_hizb": 4,
+          "sura_no": 61,
+          "sura_name": "الصَّف",
+          "aya_no": 6,
+          "page": 552
+        }
+      ]
+    },
+    {
+      "hizb_num": 56,
+      "juz": 28,
+      "hizb_in_juz": 2,
+      "start_sura": 62,
+      "start_sura_name": "الجُمعَة",
+      "start_aya": 9,
+      "start_page": 554,
+      "quarters": [
+        {
+          "quarter_num": 221,
+          "juz": 28,
+          "hizb": 56,
+          "quarter_in_hizb": 1,
+          "sura_no": 62,
+          "sura_name": "الجُمعَة",
+          "aya_no": 9,
+          "page": 554
+        },
+        {
+          "quarter_num": 222,
+          "juz": 28,
+          "hizb": 56,
+          "quarter_in_hizb": 2,
+          "sura_no": 64,
+          "sura_name": "التغَابُن",
+          "aya_no": 1,
+          "page": 556
+        },
+        {
+          "quarter_num": 223,
+          "juz": 28,
+          "hizb": 56,
+          "quarter_in_hizb": 3,
+          "sura_no": 65,
+          "sura_name": "الطَّلَاق",
+          "aya_no": 6,
+          "page": 559
+        },
+        {
+          "quarter_num": 224,
+          "juz": 28,
+          "hizb": 56,
+          "quarter_in_hizb": 4,
+          "sura_no": 66,
+          "sura_name": "التَّحرِيم",
+          "aya_no": 8,
+          "page": 561
+        }
+      ]
+    },
+    {
+      "hizb_num": 57,
+      "juz": 29,
+      "hizb_in_juz": 1,
+      "start_sura": 67,
+      "start_sura_name": "المُلك",
+      "start_aya": 1,
+      "start_page": 562,
+      "quarters": [
+        {
+          "quarter_num": 225,
+          "juz": 29,
+          "hizb": 57,
+          "quarter_in_hizb": 1,
+          "sura_no": 67,
+          "sura_name": "المُلك",
+          "aya_no": 1,
+          "page": 562
+        },
+        {
+          "quarter_num": 226,
+          "juz": 29,
+          "hizb": 57,
+          "quarter_in_hizb": 2,
+          "sura_no": 68,
+          "sura_name": "القَلَم",
+          "aya_no": 1,
+          "page": 564
+        },
+        {
+          "quarter_num": 227,
+          "juz": 29,
+          "hizb": 57,
+          "quarter_in_hizb": 3,
+          "sura_no": 69,
+          "sura_name": "الحَاقة",
+          "aya_no": 1,
+          "page": 566
+        },
+        {
+          "quarter_num": 228,
+          "juz": 29,
+          "hizb": 57,
+          "quarter_in_hizb": 4,
+          "sura_no": 70,
+          "sura_name": "المَعَارج",
+          "aya_no": 19,
+          "page": 569
+        }
+      ]
+    },
+    {
+      "hizb_num": 58,
+      "juz": 29,
+      "hizb_in_juz": 2,
+      "start_sura": 72,
+      "start_sura_name": "الجِن",
+      "start_aya": 1,
+      "start_page": 572,
+      "quarters": [
+        {
+          "quarter_num": 229,
+          "juz": 29,
+          "hizb": 58,
+          "quarter_in_hizb": 1,
+          "sura_no": 72,
+          "sura_name": "الجِن",
+          "aya_no": 1,
+          "page": 572
+        },
+        {
+          "quarter_num": 230,
+          "juz": 29,
+          "hizb": 58,
+          "quarter_in_hizb": 2,
+          "sura_no": 73,
+          "sura_name": "المُزمل",
+          "aya_no": 20,
+          "page": 575
+        },
+        {
+          "quarter_num": 231,
+          "juz": 29,
+          "hizb": 58,
+          "quarter_in_hizb": 3,
+          "sura_no": 75,
+          "sura_name": "القِيَامة",
+          "aya_no": 1,
+          "page": 577
+        },
+        {
+          "quarter_num": 232,
+          "juz": 29,
+          "hizb": 58,
+          "quarter_in_hizb": 4,
+          "sura_no": 77,
+          "sura_name": "المُرسَلات",
+          "aya_no": 1,
+          "page": 580
+        }
+      ]
+    },
+    {
+      "hizb_num": 59,
+      "juz": 30,
+      "hizb_in_juz": 1,
+      "start_sura": 78,
+      "start_sura_name": "النَّبَإ",
+      "start_aya": 1,
+      "start_page": 582,
+      "quarters": [
+        {
+          "quarter_num": 233,
+          "juz": 30,
+          "hizb": 59,
+          "quarter_in_hizb": 1,
+          "sura_no": 78,
+          "sura_name": "النَّبَإ",
+          "aya_no": 1,
+          "page": 582
+        },
+        {
+          "quarter_num": 234,
+          "juz": 30,
+          "hizb": 59,
+          "quarter_in_hizb": 2,
+          "sura_no": 80,
+          "sura_name": "عَبَسَ",
+          "aya_no": 1,
+          "page": 585
+        },
+        {
+          "quarter_num": 235,
+          "juz": 30,
+          "hizb": 59,
+          "quarter_in_hizb": 3,
+          "sura_no": 82,
+          "sura_name": "الانفِطَار",
+          "aya_no": 1,
+          "page": 587
+        },
+        {
+          "quarter_num": 236,
+          "juz": 30,
+          "hizb": 59,
+          "quarter_in_hizb": 4,
+          "sura_no": 84,
+          "sura_name": "الانشِقَاق",
+          "aya_no": 1,
+          "page": 589
+        }
+      ]
+    },
+    {
+      "hizb_num": 60,
+      "juz": 30,
+      "hizb_in_juz": 2,
+      "start_sura": 87,
+      "start_sura_name": "الأعلى",
+      "start_aya": 1,
+      "start_page": 591,
+      "quarters": [
+        {
+          "quarter_num": 237,
+          "juz": 30,
+          "hizb": 60,
+          "quarter_in_hizb": 1,
+          "sura_no": 87,
+          "sura_name": "الأعلى",
+          "aya_no": 1,
+          "page": 591
+        },
+        {
+          "quarter_num": 238,
+          "juz": 30,
+          "hizb": 60,
+          "quarter_in_hizb": 2,
+          "sura_no": 90,
+          "sura_name": "البَلَد",
+          "aya_no": 1,
+          "page": 594
+        },
+        {
+          "quarter_num": 239,
+          "juz": 30,
+          "hizb": 60,
+          "quarter_in_hizb": 3,
+          "sura_no": 94,
+          "sura_name": "الشَّرح",
+          "aya_no": 1,
+          "page": 596
+        },
+        {
+          "quarter_num": 240,
+          "juz": 30,
+          "hizb": 60,
+          "quarter_in_hizb": 4,
+          "sura_no": 100,
+          "sura_name": "العَاديَات",
+          "aya_no": 1,
+          "page": 599
+        }
+      ]
+    }
+  ],
+  "quarters": [
+    {
+      "quarter_num": 1,
+      "juz": 1,
+      "hizb": 1,
+      "quarter_in_hizb": 1,
+      "sura_no": 1,
+      "sura_name": "الفَاتِحة",
+      "aya_no": 1,
+      "page": 1
+    },
+    {
+      "quarter_num": 2,
+      "juz": 1,
+      "hizb": 1,
+      "quarter_in_hizb": 2,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 26,
+      "page": 5
+    },
+    {
+      "quarter_num": 3,
+      "juz": 1,
+      "hizb": 1,
+      "quarter_in_hizb": 3,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 44,
+      "page": 7
+    },
+    {
+      "quarter_num": 4,
+      "juz": 1,
+      "hizb": 1,
+      "quarter_in_hizb": 4,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 60,
+      "page": 9
+    },
+    {
+      "quarter_num": 5,
+      "juz": 1,
+      "hizb": 2,
+      "quarter_in_hizb": 1,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 75,
+      "page": 11
+    },
+    {
+      "quarter_num": 6,
+      "juz": 1,
+      "hizb": 2,
+      "quarter_in_hizb": 2,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 92,
+      "page": 14
+    },
+    {
+      "quarter_num": 7,
+      "juz": 1,
+      "hizb": 2,
+      "quarter_in_hizb": 3,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 106,
+      "page": 17
+    },
+    {
+      "quarter_num": 8,
+      "juz": 1,
+      "hizb": 2,
+      "quarter_in_hizb": 4,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 124,
+      "page": 19
+    },
+    {
+      "quarter_num": 9,
+      "juz": 2,
+      "hizb": 3,
+      "quarter_in_hizb": 1,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 142,
+      "page": 22
+    },
+    {
+      "quarter_num": 10,
+      "juz": 2,
+      "hizb": 3,
+      "quarter_in_hizb": 2,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 158,
+      "page": 24
+    },
+    {
+      "quarter_num": 11,
+      "juz": 2,
+      "hizb": 3,
+      "quarter_in_hizb": 3,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 177,
+      "page": 27
+    },
+    {
+      "quarter_num": 12,
+      "juz": 2,
+      "hizb": 3,
+      "quarter_in_hizb": 4,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 189,
+      "page": 29
+    },
+    {
+      "quarter_num": 13,
+      "juz": 2,
+      "hizb": 4,
+      "quarter_in_hizb": 1,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 203,
+      "page": 32
+    },
+    {
+      "quarter_num": 14,
+      "juz": 2,
+      "hizb": 4,
+      "quarter_in_hizb": 2,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 219,
+      "page": 34
+    },
+    {
+      "quarter_num": 15,
+      "juz": 2,
+      "hizb": 4,
+      "quarter_in_hizb": 3,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 233,
+      "page": 37
+    },
+    {
+      "quarter_num": 16,
+      "juz": 2,
+      "hizb": 4,
+      "quarter_in_hizb": 4,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 243,
+      "page": 39
+    },
+    {
+      "quarter_num": 17,
+      "juz": 3,
+      "hizb": 5,
+      "quarter_in_hizb": 1,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 253,
+      "page": 42
+    },
+    {
+      "quarter_num": 18,
+      "juz": 3,
+      "hizb": 5,
+      "quarter_in_hizb": 2,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 263,
+      "page": 44
+    },
+    {
+      "quarter_num": 19,
+      "juz": 3,
+      "hizb": 5,
+      "quarter_in_hizb": 3,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 272,
+      "page": 46
+    },
+    {
+      "quarter_num": 20,
+      "juz": 3,
+      "hizb": 5,
+      "quarter_in_hizb": 4,
+      "sura_no": 2,
+      "sura_name": "البَقَرَة",
+      "aya_no": 283,
+      "page": 49
+    },
+    {
+      "quarter_num": 21,
+      "juz": 3,
+      "hizb": 6,
+      "quarter_in_hizb": 1,
+      "sura_no": 3,
+      "sura_name": "آل عِمران",
+      "aya_no": 15,
+      "page": 51
+    },
+    {
+      "quarter_num": 22,
+      "juz": 3,
+      "hizb": 6,
+      "quarter_in_hizb": 2,
+      "sura_no": 3,
+      "sura_name": "آل عِمران",
+      "aya_no": 33,
+      "page": 54
+    },
+    {
+      "quarter_num": 23,
+      "juz": 3,
+      "hizb": 6,
+      "quarter_in_hizb": 3,
+      "sura_no": 3,
+      "sura_name": "آل عِمران",
+      "aya_no": 52,
+      "page": 56
+    },
+    {
+      "quarter_num": 24,
+      "juz": 3,
+      "hizb": 6,
+      "quarter_in_hizb": 4,
+      "sura_no": 3,
+      "sura_name": "آل عِمران",
+      "aya_no": 75,
+      "page": 59
+    },
+    {
+      "quarter_num": 25,
+      "juz": 4,
+      "hizb": 7,
+      "quarter_in_hizb": 1,
+      "sura_no": 3,
+      "sura_name": "آل عِمران",
+      "aya_no": 93,
+      "page": 62
+    },
+    {
+      "quarter_num": 26,
+      "juz": 4,
+      "hizb": 7,
+      "quarter_in_hizb": 2,
+      "sura_no": 3,
+      "sura_name": "آل عِمران",
+      "aya_no": 113,
+      "page": 64
+    },
+    {
+      "quarter_num": 27,
+      "juz": 4,
+      "hizb": 7,
+      "quarter_in_hizb": 3,
+      "sura_no": 3,
+      "sura_name": "آل عِمران",
+      "aya_no": 133,
+      "page": 67
+    },
+    {
+      "quarter_num": 28,
+      "juz": 4,
+      "hizb": 7,
+      "quarter_in_hizb": 4,
+      "sura_no": 3,
+      "sura_name": "آل عِمران",
+      "aya_no": 153,
+      "page": 69
+    },
+    {
+      "quarter_num": 29,
+      "juz": 4,
+      "hizb": 8,
+      "quarter_in_hizb": 1,
+      "sura_no": 3,
+      "sura_name": "آل عِمران",
+      "aya_no": 171,
+      "page": 72
+    },
+    {
+      "quarter_num": 30,
+      "juz": 4,
+      "hizb": 8,
+      "quarter_in_hizb": 2,
+      "sura_no": 3,
+      "sura_name": "آل عِمران",
+      "aya_no": 186,
+      "page": 74
+    },
+    {
+      "quarter_num": 31,
+      "juz": 4,
+      "hizb": 8,
+      "quarter_in_hizb": 3,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 1,
+      "page": 77
+    },
+    {
+      "quarter_num": 32,
+      "juz": 4,
+      "hizb": 8,
+      "quarter_in_hizb": 4,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 12,
+      "page": 79
+    },
+    {
+      "quarter_num": 33,
+      "juz": 5,
+      "hizb": 9,
+      "quarter_in_hizb": 1,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 24,
+      "page": 82
+    },
+    {
+      "quarter_num": 34,
+      "juz": 5,
+      "hizb": 9,
+      "quarter_in_hizb": 2,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 36,
+      "page": 84
+    },
+    {
+      "quarter_num": 35,
+      "juz": 5,
+      "hizb": 9,
+      "quarter_in_hizb": 3,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 58,
+      "page": 87
+    },
+    {
+      "quarter_num": 36,
+      "juz": 5,
+      "hizb": 9,
+      "quarter_in_hizb": 4,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 74,
+      "page": 89
+    },
+    {
+      "quarter_num": 37,
+      "juz": 5,
+      "hizb": 10,
+      "quarter_in_hizb": 1,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 88,
+      "page": 92
+    },
+    {
+      "quarter_num": 38,
+      "juz": 5,
+      "hizb": 10,
+      "quarter_in_hizb": 2,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 100,
+      "page": 94
+    },
+    {
+      "quarter_num": 39,
+      "juz": 5,
+      "hizb": 10,
+      "quarter_in_hizb": 3,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 114,
+      "page": 97
+    },
+    {
+      "quarter_num": 40,
+      "juz": 5,
+      "hizb": 10,
+      "quarter_in_hizb": 4,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 135,
+      "page": 100
+    },
+    {
+      "quarter_num": 41,
+      "juz": 6,
+      "hizb": 11,
+      "quarter_in_hizb": 1,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 148,
+      "page": 102
+    },
+    {
+      "quarter_num": 42,
+      "juz": 6,
+      "hizb": 11,
+      "quarter_in_hizb": 2,
+      "sura_no": 4,
+      "sura_name": "النِّسَاء",
+      "aya_no": 163,
+      "page": 104
+    },
+    {
+      "quarter_num": 43,
+      "juz": 6,
+      "hizb": 11,
+      "quarter_in_hizb": 3,
+      "sura_no": 5,
+      "sura_name": "المَائدة",
+      "aya_no": 1,
+      "page": 106
+    },
+    {
+      "quarter_num": 44,
+      "juz": 6,
+      "hizb": 11,
+      "quarter_in_hizb": 4,
+      "sura_no": 5,
+      "sura_name": "المَائدة",
+      "aya_no": 12,
+      "page": 109
+    },
+    {
+      "quarter_num": 45,
+      "juz": 6,
+      "hizb": 12,
+      "quarter_in_hizb": 1,
+      "sura_no": 5,
+      "sura_name": "المَائدة",
+      "aya_no": 27,
+      "page": 112
+    },
+    {
+      "quarter_num": 46,
+      "juz": 6,
+      "hizb": 12,
+      "quarter_in_hizb": 2,
+      "sura_no": 5,
+      "sura_name": "المَائدة",
+      "aya_no": 41,
+      "page": 114
+    },
+    {
+      "quarter_num": 47,
+      "juz": 6,
+      "hizb": 12,
+      "quarter_in_hizb": 3,
+      "sura_no": 5,
+      "sura_name": "المَائدة",
+      "aya_no": 51,
+      "page": 117
+    },
+    {
+      "quarter_num": 48,
+      "juz": 6,
+      "hizb": 12,
+      "quarter_in_hizb": 4,
+      "sura_no": 5,
+      "sura_name": "المَائدة",
+      "aya_no": 67,
+      "page": 119
+    },
+    {
+      "quarter_num": 49,
+      "juz": 7,
+      "hizb": 13,
+      "quarter_in_hizb": 1,
+      "sura_no": 5,
+      "sura_name": "المَائدة",
+      "aya_no": 82,
+      "page": 121
+    },
+    {
+      "quarter_num": 50,
+      "juz": 7,
+      "hizb": 13,
+      "quarter_in_hizb": 2,
+      "sura_no": 5,
+      "sura_name": "المَائدة",
+      "aya_no": 97,
+      "page": 124
+    },
+    {
+      "quarter_num": 51,
+      "juz": 7,
+      "hizb": 13,
+      "quarter_in_hizb": 3,
+      "sura_no": 5,
+      "sura_name": "المَائدة",
+      "aya_no": 109,
+      "page": 126
+    },
+    {
+      "quarter_num": 52,
+      "juz": 7,
+      "hizb": 13,
+      "quarter_in_hizb": 4,
+      "sura_no": 6,
+      "sura_name": "الأنعَام",
+      "aya_no": 13,
+      "page": 129
+    },
+    {
+      "quarter_num": 53,
+      "juz": 7,
+      "hizb": 14,
+      "quarter_in_hizb": 1,
+      "sura_no": 6,
+      "sura_name": "الأنعَام",
+      "aya_no": 36,
+      "page": 132
+    },
+    {
+      "quarter_num": 54,
+      "juz": 7,
+      "hizb": 14,
+      "quarter_in_hizb": 2,
+      "sura_no": 6,
+      "sura_name": "الأنعَام",
+      "aya_no": 59,
+      "page": 134
+    },
+    {
+      "quarter_num": 55,
+      "juz": 7,
+      "hizb": 14,
+      "quarter_in_hizb": 3,
+      "sura_no": 6,
+      "sura_name": "الأنعَام",
+      "aya_no": 74,
+      "page": 137
+    },
+    {
+      "quarter_num": 56,
+      "juz": 7,
+      "hizb": 14,
+      "quarter_in_hizb": 4,
+      "sura_no": 6,
+      "sura_name": "الأنعَام",
+      "aya_no": 95,
+      "page": 140
+    },
+    {
+      "quarter_num": 57,
+      "juz": 8,
+      "hizb": 15,
+      "quarter_in_hizb": 1,
+      "sura_no": 6,
+      "sura_name": "الأنعَام",
+      "aya_no": 111,
+      "page": 142
+    },
+    {
+      "quarter_num": 58,
+      "juz": 8,
+      "hizb": 15,
+      "quarter_in_hizb": 2,
+      "sura_no": 6,
+      "sura_name": "الأنعَام",
+      "aya_no": 127,
+      "page": 144
+    },
+    {
+      "quarter_num": 59,
+      "juz": 8,
+      "hizb": 15,
+      "quarter_in_hizb": 3,
+      "sura_no": 6,
+      "sura_name": "الأنعَام",
+      "aya_no": 141,
+      "page": 146
+    },
+    {
+      "quarter_num": 60,
+      "juz": 8,
+      "hizb": 15,
+      "quarter_in_hizb": 4,
+      "sura_no": 6,
+      "sura_name": "الأنعَام",
+      "aya_no": 151,
+      "page": 148
+    },
+    {
+      "quarter_num": 61,
+      "juz": 8,
+      "hizb": 16,
+      "quarter_in_hizb": 1,
+      "sura_no": 7,
+      "sura_name": "الأعرَاف",
+      "aya_no": 1,
+      "page": 151
+    },
+    {
+      "quarter_num": 62,
+      "juz": 8,
+      "hizb": 16,
+      "quarter_in_hizb": 2,
+      "sura_no": 7,
+      "sura_name": "الأعرَاف",
+      "aya_no": 31,
+      "page": 154
+    },
+    {
+      "quarter_num": 63,
+      "juz": 8,
+      "hizb": 16,
+      "quarter_in_hizb": 3,
+      "sura_no": 7,
+      "sura_name": "الأعرَاف",
+      "aya_no": 47,
+      "page": 156
+    },
+    {
+      "quarter_num": 64,
+      "juz": 8,
+      "hizb": 16,
+      "quarter_in_hizb": 4,
+      "sura_no": 7,
+      "sura_name": "الأعرَاف",
+      "aya_no": 65,
+      "page": 158
+    },
+    {
+      "quarter_num": 65,
+      "juz": 9,
+      "hizb": 17,
+      "quarter_in_hizb": 1,
+      "sura_no": 7,
+      "sura_name": "الأعرَاف",
+      "aya_no": 88,
+      "page": 162
+    },
+    {
+      "quarter_num": 66,
+      "juz": 9,
+      "hizb": 17,
+      "quarter_in_hizb": 2,
+      "sura_no": 7,
+      "sura_name": "الأعرَاف",
+      "aya_no": 117,
+      "page": 164
+    },
+    {
+      "quarter_num": 67,
+      "juz": 9,
+      "hizb": 17,
+      "quarter_in_hizb": 3,
+      "sura_no": 7,
+      "sura_name": "الأعرَاف",
+      "aya_no": 142,
+      "page": 167
+    },
+    {
+      "quarter_num": 68,
+      "juz": 9,
+      "hizb": 17,
+      "quarter_in_hizb": 4,
+      "sura_no": 7,
+      "sura_name": "الأعرَاف",
+      "aya_no": 156,
+      "page": 170
+    },
+    {
+      "quarter_num": 69,
+      "juz": 9,
+      "hizb": 18,
+      "quarter_in_hizb": 1,
+      "sura_no": 7,
+      "sura_name": "الأعرَاف",
+      "aya_no": 171,
+      "page": 173
+    },
+    {
+      "quarter_num": 70,
+      "juz": 9,
+      "hizb": 18,
+      "quarter_in_hizb": 2,
+      "sura_no": 7,
+      "sura_name": "الأعرَاف",
+      "aya_no": 189,
+      "page": 175
+    },
+    {
+      "quarter_num": 71,
+      "juz": 9,
+      "hizb": 18,
+      "quarter_in_hizb": 3,
+      "sura_no": 8,
+      "sura_name": "الأنفَال",
+      "aya_no": 1,
+      "page": 177
+    },
+    {
+      "quarter_num": 72,
+      "juz": 9,
+      "hizb": 18,
+      "quarter_in_hizb": 4,
+      "sura_no": 8,
+      "sura_name": "الأنفَال",
+      "aya_no": 22,
+      "page": 179
+    },
+    {
+      "quarter_num": 73,
+      "juz": 10,
+      "hizb": 19,
+      "quarter_in_hizb": 1,
+      "sura_no": 8,
+      "sura_name": "الأنفَال",
+      "aya_no": 41,
+      "page": 182
+    },
+    {
+      "quarter_num": 74,
+      "juz": 10,
+      "hizb": 19,
+      "quarter_in_hizb": 2,
+      "sura_no": 8,
+      "sura_name": "الأنفَال",
+      "aya_no": 61,
+      "page": 184
+    },
+    {
+      "quarter_num": 75,
+      "juz": 10,
+      "hizb": 19,
+      "quarter_in_hizb": 3,
+      "sura_no": 9,
+      "sura_name": "التوبَة",
+      "aya_no": 1,
+      "page": 187
+    },
+    {
+      "quarter_num": 76,
+      "juz": 10,
+      "hizb": 19,
+      "quarter_in_hizb": 4,
+      "sura_no": 9,
+      "sura_name": "التوبَة",
+      "aya_no": 19,
+      "page": 189
+    },
+    {
+      "quarter_num": 77,
+      "juz": 10,
+      "hizb": 20,
+      "quarter_in_hizb": 1,
+      "sura_no": 9,
+      "sura_name": "التوبَة",
+      "aya_no": 34,
+      "page": 192
+    },
+    {
+      "quarter_num": 78,
+      "juz": 10,
+      "hizb": 20,
+      "quarter_in_hizb": 2,
+      "sura_no": 9,
+      "sura_name": "التوبَة",
+      "aya_no": 46,
+      "page": 194
+    },
+    {
+      "quarter_num": 79,
+      "juz": 10,
+      "hizb": 20,
+      "quarter_in_hizb": 3,
+      "sura_no": 9,
+      "sura_name": "التوبَة",
+      "aya_no": 60,
+      "page": 196
+    },
+    {
+      "quarter_num": 80,
+      "juz": 10,
+      "hizb": 20,
+      "quarter_in_hizb": 4,
+      "sura_no": 9,
+      "sura_name": "التوبَة",
+      "aya_no": 75,
+      "page": 199
+    },
+    {
+      "quarter_num": 81,
+      "juz": 11,
+      "hizb": 21,
+      "quarter_in_hizb": 1,
+      "sura_no": 9,
+      "sura_name": "التوبَة",
+      "aya_no": 94,
+      "page": 202
+    },
+    {
+      "quarter_num": 82,
+      "juz": 11,
+      "hizb": 21,
+      "quarter_in_hizb": 2,
+      "sura_no": 9,
+      "sura_name": "التوبَة",
+      "aya_no": 111,
+      "page": 204
+    },
+    {
+      "quarter_num": 83,
+      "juz": 11,
+      "hizb": 21,
+      "quarter_in_hizb": 3,
+      "sura_no": 9,
+      "sura_name": "التوبَة",
+      "aya_no": 122,
+      "page": 206
+    },
+    {
+      "quarter_num": 84,
+      "juz": 11,
+      "hizb": 21,
+      "quarter_in_hizb": 4,
+      "sura_no": 10,
+      "sura_name": "يُونس",
+      "aya_no": 11,
+      "page": 209
+    },
+    {
+      "quarter_num": 85,
+      "juz": 11,
+      "hizb": 22,
+      "quarter_in_hizb": 1,
+      "sura_no": 10,
+      "sura_name": "يُونس",
+      "aya_no": 26,
+      "page": 212
+    },
+    {
+      "quarter_num": 86,
+      "juz": 11,
+      "hizb": 22,
+      "quarter_in_hizb": 2,
+      "sura_no": 10,
+      "sura_name": "يُونس",
+      "aya_no": 53,
+      "page": 214
+    },
+    {
+      "quarter_num": 87,
+      "juz": 11,
+      "hizb": 22,
+      "quarter_in_hizb": 3,
+      "sura_no": 10,
+      "sura_name": "يُونس",
+      "aya_no": 71,
+      "page": 217
+    },
+    {
+      "quarter_num": 88,
+      "juz": 11,
+      "hizb": 22,
+      "quarter_in_hizb": 4,
+      "sura_no": 10,
+      "sura_name": "يُونس",
+      "aya_no": 90,
+      "page": 219
+    },
+    {
+      "quarter_num": 89,
+      "juz": 12,
+      "hizb": 23,
+      "quarter_in_hizb": 1,
+      "sura_no": 11,
+      "sura_name": "هُود",
+      "aya_no": 6,
+      "page": 222
+    },
+    {
+      "quarter_num": 90,
+      "juz": 12,
+      "hizb": 23,
+      "quarter_in_hizb": 2,
+      "sura_no": 11,
+      "sura_name": "هُود",
+      "aya_no": 24,
+      "page": 224
+    },
+    {
+      "quarter_num": 91,
+      "juz": 12,
+      "hizb": 23,
+      "quarter_in_hizb": 3,
+      "sura_no": 11,
+      "sura_name": "هُود",
+      "aya_no": 41,
+      "page": 226
+    },
+    {
+      "quarter_num": 92,
+      "juz": 12,
+      "hizb": 23,
+      "quarter_in_hizb": 4,
+      "sura_no": 11,
+      "sura_name": "هُود",
+      "aya_no": 61,
+      "page": 228
+    },
+    {
+      "quarter_num": 93,
+      "juz": 12,
+      "hizb": 24,
+      "quarter_in_hizb": 1,
+      "sura_no": 11,
+      "sura_name": "هُود",
+      "aya_no": 84,
+      "page": 231
+    },
+    {
+      "quarter_num": 94,
+      "juz": 12,
+      "hizb": 24,
+      "quarter_in_hizb": 2,
+      "sura_no": 11,
+      "sura_name": "هُود",
+      "aya_no": 108,
+      "page": 233
+    },
+    {
+      "quarter_num": 95,
+      "juz": 12,
+      "hizb": 24,
+      "quarter_in_hizb": 3,
+      "sura_no": 12,
+      "sura_name": "يُوسُف",
+      "aya_no": 7,
+      "page": 236
+    },
+    {
+      "quarter_num": 96,
+      "juz": 12,
+      "hizb": 24,
+      "quarter_in_hizb": 4,
+      "sura_no": 12,
+      "sura_name": "يُوسُف",
+      "aya_no": 30,
+      "page": 238
+    },
+    {
+      "quarter_num": 97,
+      "juz": 13,
+      "hizb": 25,
+      "quarter_in_hizb": 1,
+      "sura_no": 12,
+      "sura_name": "يُوسُف",
+      "aya_no": 53,
+      "page": 242
+    },
+    {
+      "quarter_num": 98,
+      "juz": 13,
+      "hizb": 25,
+      "quarter_in_hizb": 2,
+      "sura_no": 12,
+      "sura_name": "يُوسُف",
+      "aya_no": 77,
+      "page": 244
+    },
+    {
+      "quarter_num": 99,
+      "juz": 13,
+      "hizb": 25,
+      "quarter_in_hizb": 3,
+      "sura_no": 12,
+      "sura_name": "يُوسُف",
+      "aya_no": 101,
+      "page": 247
+    },
+    {
+      "quarter_num": 100,
+      "juz": 13,
+      "hizb": 25,
+      "quarter_in_hizb": 4,
+      "sura_no": 13,
+      "sura_name": "الرَّعد",
+      "aya_no": 5,
+      "page": 249
+    },
+    {
+      "quarter_num": 101,
+      "juz": 13,
+      "hizb": 26,
+      "quarter_in_hizb": 1,
+      "sura_no": 13,
+      "sura_name": "الرَّعد",
+      "aya_no": 19,
+      "page": 252
+    },
+    {
+      "quarter_num": 102,
+      "juz": 13,
+      "hizb": 26,
+      "quarter_in_hizb": 2,
+      "sura_no": 13,
+      "sura_name": "الرَّعد",
+      "aya_no": 35,
+      "page": 254
+    },
+    {
+      "quarter_num": 103,
+      "juz": 13,
+      "hizb": 26,
+      "quarter_in_hizb": 3,
+      "sura_no": 14,
+      "sura_name": "إبراهِيم",
+      "aya_no": 10,
+      "page": 256
+    },
+    {
+      "quarter_num": 104,
+      "juz": 13,
+      "hizb": 26,
+      "quarter_in_hizb": 4,
+      "sura_no": 14,
+      "sura_name": "إبراهِيم",
+      "aya_no": 28,
+      "page": 259
+    },
+    {
+      "quarter_num": 105,
+      "juz": 14,
+      "hizb": 27,
+      "quarter_in_hizb": 1,
+      "sura_no": 15,
+      "sura_name": "الحِجر",
+      "aya_no": 1,
+      "page": 262
+    },
+    {
+      "quarter_num": 106,
+      "juz": 14,
+      "hizb": 27,
+      "quarter_in_hizb": 2,
+      "sura_no": 15,
+      "sura_name": "الحِجر",
+      "aya_no": 50,
+      "page": 264
+    },
+    {
+      "quarter_num": 107,
+      "juz": 14,
+      "hizb": 27,
+      "quarter_in_hizb": 3,
+      "sura_no": 16,
+      "sura_name": "النَّحل",
+      "aya_no": 1,
+      "page": 267
+    },
+    {
+      "quarter_num": 108,
+      "juz": 14,
+      "hizb": 27,
+      "quarter_in_hizb": 4,
+      "sura_no": 16,
+      "sura_name": "النَّحل",
+      "aya_no": 30,
+      "page": 270
+    },
+    {
+      "quarter_num": 109,
+      "juz": 14,
+      "hizb": 28,
+      "quarter_in_hizb": 1,
+      "sura_no": 16,
+      "sura_name": "النَّحل",
+      "aya_no": 51,
+      "page": 272
+    },
+    {
+      "quarter_num": 110,
+      "juz": 14,
+      "hizb": 28,
+      "quarter_in_hizb": 2,
+      "sura_no": 16,
+      "sura_name": "النَّحل",
+      "aya_no": 75,
+      "page": 275
+    },
+    {
+      "quarter_num": 111,
+      "juz": 14,
+      "hizb": 28,
+      "quarter_in_hizb": 3,
+      "sura_no": 16,
+      "sura_name": "النَّحل",
+      "aya_no": 90,
+      "page": 277
+    },
+    {
+      "quarter_num": 112,
+      "juz": 14,
+      "hizb": 28,
+      "quarter_in_hizb": 4,
+      "sura_no": 16,
+      "sura_name": "النَّحل",
+      "aya_no": 111,
+      "page": 280
+    },
+    {
+      "quarter_num": 113,
+      "juz": 15,
+      "hizb": 29,
+      "quarter_in_hizb": 1,
+      "sura_no": 17,
+      "sura_name": "الإسرَاء",
+      "aya_no": 1,
+      "page": 282
+    },
+    {
+      "quarter_num": 114,
+      "juz": 15,
+      "hizb": 29,
+      "quarter_in_hizb": 2,
+      "sura_no": 17,
+      "sura_name": "الإسرَاء",
+      "aya_no": 23,
+      "page": 284
+    },
+    {
+      "quarter_num": 115,
+      "juz": 15,
+      "hizb": 29,
+      "quarter_in_hizb": 3,
+      "sura_no": 17,
+      "sura_name": "الإسرَاء",
+      "aya_no": 50,
+      "page": 287
+    },
+    {
+      "quarter_num": 116,
+      "juz": 15,
+      "hizb": 29,
+      "quarter_in_hizb": 4,
+      "sura_no": 17,
+      "sura_name": "الإسرَاء",
+      "aya_no": 70,
+      "page": 289
+    },
+    {
+      "quarter_num": 117,
+      "juz": 15,
+      "hizb": 30,
+      "quarter_in_hizb": 1,
+      "sura_no": 17,
+      "sura_name": "الإسرَاء",
+      "aya_no": 99,
+      "page": 292
+    },
+    {
+      "quarter_num": 118,
+      "juz": 15,
+      "hizb": 30,
+      "quarter_in_hizb": 2,
+      "sura_no": 18,
+      "sura_name": "الكَهف",
+      "aya_no": 17,
+      "page": 295
+    },
+    {
+      "quarter_num": 119,
+      "juz": 15,
+      "hizb": 30,
+      "quarter_in_hizb": 3,
+      "sura_no": 18,
+      "sura_name": "الكَهف",
+      "aya_no": 32,
+      "page": 297
+    },
+    {
+      "quarter_num": 120,
+      "juz": 15,
+      "hizb": 30,
+      "quarter_in_hizb": 4,
+      "sura_no": 18,
+      "sura_name": "الكَهف",
+      "aya_no": 51,
+      "page": 299
+    },
+    {
+      "quarter_num": 121,
+      "juz": 16,
+      "hizb": 31,
+      "quarter_in_hizb": 1,
+      "sura_no": 18,
+      "sura_name": "الكَهف",
+      "aya_no": 75,
+      "page": 302
+    },
+    {
+      "quarter_num": 122,
+      "juz": 16,
+      "hizb": 31,
+      "quarter_in_hizb": 2,
+      "sura_no": 18,
+      "sura_name": "الكَهف",
+      "aya_no": 99,
+      "page": 304
+    },
+    {
+      "quarter_num": 123,
+      "juz": 16,
+      "hizb": 31,
+      "quarter_in_hizb": 3,
+      "sura_no": 19,
+      "sura_name": "مَريَم",
+      "aya_no": 22,
+      "page": 306
+    },
+    {
+      "quarter_num": 124,
+      "juz": 16,
+      "hizb": 31,
+      "quarter_in_hizb": 4,
+      "sura_no": 19,
+      "sura_name": "مَريَم",
+      "aya_no": 59,
+      "page": 309
+    },
+    {
+      "quarter_num": 125,
+      "juz": 16,
+      "hizb": 32,
+      "quarter_in_hizb": 1,
+      "sura_no": 20,
+      "sura_name": "طه",
+      "aya_no": 1,
+      "page": 312
+    },
+    {
+      "quarter_num": 126,
+      "juz": 16,
+      "hizb": 32,
+      "quarter_in_hizb": 2,
+      "sura_no": 20,
+      "sura_name": "طه",
+      "aya_no": 55,
+      "page": 315
+    },
+    {
+      "quarter_num": 127,
+      "juz": 16,
+      "hizb": 32,
+      "quarter_in_hizb": 3,
+      "sura_no": 20,
+      "sura_name": "طه",
+      "aya_no": 83,
+      "page": 317
+    },
+    {
+      "quarter_num": 128,
+      "juz": 16,
+      "hizb": 32,
+      "quarter_in_hizb": 4,
+      "sura_no": 20,
+      "sura_name": "طه",
+      "aya_no": 111,
+      "page": 319
+    },
+    {
+      "quarter_num": 129,
+      "juz": 17,
+      "hizb": 33,
+      "quarter_in_hizb": 1,
+      "sura_no": 21,
+      "sura_name": "الأنبيَاء",
+      "aya_no": 1,
+      "page": 322
+    },
+    {
+      "quarter_num": 130,
+      "juz": 17,
+      "hizb": 33,
+      "quarter_in_hizb": 2,
+      "sura_no": 21,
+      "sura_name": "الأنبيَاء",
+      "aya_no": 29,
+      "page": 324
+    },
+    {
+      "quarter_num": 131,
+      "juz": 17,
+      "hizb": 33,
+      "quarter_in_hizb": 3,
+      "sura_no": 21,
+      "sura_name": "الأنبيَاء",
+      "aya_no": 51,
+      "page": 326
+    },
+    {
+      "quarter_num": 132,
+      "juz": 17,
+      "hizb": 33,
+      "quarter_in_hizb": 4,
+      "sura_no": 21,
+      "sura_name": "الأنبيَاء",
+      "aya_no": 83,
+      "page": 329
+    },
+    {
+      "quarter_num": 133,
+      "juz": 17,
+      "hizb": 34,
+      "quarter_in_hizb": 1,
+      "sura_no": 22,
+      "sura_name": "الحج",
+      "aya_no": 1,
+      "page": 332
+    },
+    {
+      "quarter_num": 134,
+      "juz": 17,
+      "hizb": 34,
+      "quarter_in_hizb": 2,
+      "sura_no": 22,
+      "sura_name": "الحج",
+      "aya_no": 19,
+      "page": 334
+    },
+    {
+      "quarter_num": 135,
+      "juz": 17,
+      "hizb": 34,
+      "quarter_in_hizb": 3,
+      "sura_no": 22,
+      "sura_name": "الحج",
+      "aya_no": 38,
+      "page": 336
+    },
+    {
+      "quarter_num": 136,
+      "juz": 17,
+      "hizb": 34,
+      "quarter_in_hizb": 4,
+      "sura_no": 22,
+      "sura_name": "الحج",
+      "aya_no": 60,
+      "page": 339
+    },
+    {
+      "quarter_num": 137,
+      "juz": 18,
+      "hizb": 35,
+      "quarter_in_hizb": 1,
+      "sura_no": 23,
+      "sura_name": "المؤمنُون",
+      "aya_no": 1,
+      "page": 342
+    },
+    {
+      "quarter_num": 138,
+      "juz": 18,
+      "hizb": 35,
+      "quarter_in_hizb": 2,
+      "sura_no": 23,
+      "sura_name": "المؤمنُون",
+      "aya_no": 36,
+      "page": 344
+    },
+    {
+      "quarter_num": 139,
+      "juz": 18,
+      "hizb": 35,
+      "quarter_in_hizb": 3,
+      "sura_no": 23,
+      "sura_name": "المؤمنُون",
+      "aya_no": 75,
+      "page": 347
+    },
+    {
+      "quarter_num": 140,
+      "juz": 18,
+      "hizb": 35,
+      "quarter_in_hizb": 4,
+      "sura_no": 24,
+      "sura_name": "النور",
+      "aya_no": 1,
+      "page": 350
+    },
+    {
+      "quarter_num": 141,
+      "juz": 18,
+      "hizb": 36,
+      "quarter_in_hizb": 1,
+      "sura_no": 24,
+      "sura_name": "النور",
+      "aya_no": 21,
+      "page": 352
+    },
+    {
+      "quarter_num": 142,
+      "juz": 18,
+      "hizb": 36,
+      "quarter_in_hizb": 2,
+      "sura_no": 24,
+      "sura_name": "النور",
+      "aya_no": 35,
+      "page": 354
+    },
+    {
+      "quarter_num": 143,
+      "juz": 18,
+      "hizb": 36,
+      "quarter_in_hizb": 3,
+      "sura_no": 24,
+      "sura_name": "النور",
+      "aya_no": 53,
+      "page": 356
+    },
+    {
+      "quarter_num": 144,
+      "juz": 18,
+      "hizb": 36,
+      "quarter_in_hizb": 4,
+      "sura_no": 25,
+      "sura_name": "الفُرقَان",
+      "aya_no": 1,
+      "page": 359
+    },
+    {
+      "quarter_num": 145,
+      "juz": 19,
+      "hizb": 37,
+      "quarter_in_hizb": 1,
+      "sura_no": 25,
+      "sura_name": "الفُرقَان",
+      "aya_no": 21,
+      "page": 362
+    },
+    {
+      "quarter_num": 146,
+      "juz": 19,
+      "hizb": 37,
+      "quarter_in_hizb": 2,
+      "sura_no": 25,
+      "sura_name": "الفُرقَان",
+      "aya_no": 53,
+      "page": 364
+    },
+    {
+      "quarter_num": 147,
+      "juz": 19,
+      "hizb": 37,
+      "quarter_in_hizb": 3,
+      "sura_no": 26,
+      "sura_name": "الشعراء",
+      "aya_no": 20,
+      "page": 368
+    },
+    {
+      "quarter_num": 148,
+      "juz": 19,
+      "hizb": 37,
+      "quarter_in_hizb": 4,
+      "sura_no": 26,
+      "sura_name": "الشعراء",
+      "aya_no": 111,
+      "page": 371
+    },
+    {
+      "quarter_num": 149,
+      "juz": 19,
+      "hizb": 38,
+      "quarter_in_hizb": 1,
+      "sura_no": 26,
+      "sura_name": "الشعراء",
+      "aya_no": 181,
+      "page": 374
+    },
+    {
+      "quarter_num": 150,
+      "juz": 19,
+      "hizb": 38,
+      "quarter_in_hizb": 2,
+      "sura_no": 27,
+      "sura_name": "النَّمل",
+      "aya_no": 15,
+      "page": 378
+    },
+    {
+      "quarter_num": 151,
+      "juz": 19,
+      "hizb": 38,
+      "quarter_in_hizb": 3,
+      "sura_no": 27,
+      "sura_name": "النَّمل",
+      "aya_no": 45,
+      "page": 381
+    },
+    {
+      "quarter_num": 152,
+      "juz": 19,
+      "hizb": 38,
+      "quarter_in_hizb": 4,
+      "sura_no": 27,
+      "sura_name": "النَّمل",
+      "aya_no": 60,
+      "page": 382
+    },
+    {
+      "quarter_num": 153,
+      "juz": 20,
+      "hizb": 39,
+      "quarter_in_hizb": 1,
+      "sura_no": 27,
+      "sura_name": "النَّمل",
+      "aya_no": 82,
+      "page": 384
+    },
+    {
+      "quarter_num": 154,
+      "juz": 20,
+      "hizb": 39,
+      "quarter_in_hizb": 2,
+      "sura_no": 28,
+      "sura_name": "القَصَص",
+      "aya_no": 14,
+      "page": 387
+    },
+    {
+      "quarter_num": 155,
+      "juz": 20,
+      "hizb": 39,
+      "quarter_in_hizb": 3,
+      "sura_no": 28,
+      "sura_name": "القَصَص",
+      "aya_no": 29,
+      "page": 389
+    },
+    {
+      "quarter_num": 156,
+      "juz": 20,
+      "hizb": 39,
+      "quarter_in_hizb": 4,
+      "sura_no": 28,
+      "sura_name": "القَصَص",
+      "aya_no": 51,
+      "page": 392
+    },
+    {
+      "quarter_num": 157,
+      "juz": 20,
+      "hizb": 40,
+      "quarter_in_hizb": 1,
+      "sura_no": 28,
+      "sura_name": "القَصَص",
+      "aya_no": 76,
+      "page": 394
+    },
+    {
+      "quarter_num": 158,
+      "juz": 20,
+      "hizb": 40,
+      "quarter_in_hizb": 2,
+      "sura_no": 29,
+      "sura_name": "العَنكبُوت",
+      "aya_no": 7,
+      "page": 397
+    },
+    {
+      "quarter_num": 159,
+      "juz": 20,
+      "hizb": 40,
+      "quarter_in_hizb": 3,
+      "sura_no": 29,
+      "sura_name": "العَنكبُوت",
+      "aya_no": 26,
+      "page": 399
+    },
+    {
+      "quarter_num": 160,
+      "juz": 20,
+      "hizb": 40,
+      "quarter_in_hizb": 4,
+      "sura_no": 29,
+      "sura_name": "العَنكبُوت",
+      "aya_no": 46,
+      "page": 402
+    },
+    {
+      "quarter_num": 161,
+      "juz": 21,
+      "hizb": 41,
+      "quarter_in_hizb": 1,
+      "sura_no": 29,
+      "sura_name": "العَنكبُوت",
+      "aya_no": 64,
+      "page": 404
+    },
+    {
+      "quarter_num": 162,
+      "juz": 21,
+      "hizb": 41,
+      "quarter_in_hizb": 2,
+      "sura_no": 30,
+      "sura_name": "الرُّوم",
+      "aya_no": 31,
+      "page": 407
+    },
+    {
+      "quarter_num": 163,
+      "juz": 21,
+      "hizb": 41,
+      "quarter_in_hizb": 3,
+      "sura_no": 31,
+      "sura_name": "لُقمَان",
+      "aya_no": 1,
+      "page": 411
+    },
+    {
+      "quarter_num": 164,
+      "juz": 21,
+      "hizb": 41,
+      "quarter_in_hizb": 4,
+      "sura_no": 31,
+      "sura_name": "لُقمَان",
+      "aya_no": 22,
+      "page": 413
+    },
+    {
+      "quarter_num": 165,
+      "juz": 21,
+      "hizb": 42,
+      "quarter_in_hizb": 1,
+      "sura_no": 32,
+      "sura_name": "السَّجدة",
+      "aya_no": 21,
+      "page": 417
+    },
+    {
+      "quarter_num": 166,
+      "juz": 21,
+      "hizb": 42,
+      "quarter_in_hizb": 2,
+      "sura_no": 33,
+      "sura_name": "الأحزَاب",
+      "aya_no": 18,
+      "page": 420
+    },
+    {
+      "quarter_num": 167,
+      "juz": 21,
+      "hizb": 42,
+      "quarter_in_hizb": 3,
+      "sura_no": 33,
+      "sura_name": "الأحزَاب",
+      "aya_no": 31,
+      "page": 422
+    },
+    {
+      "quarter_num": 168,
+      "juz": 21,
+      "hizb": 42,
+      "quarter_in_hizb": 4,
+      "sura_no": 33,
+      "sura_name": "الأحزَاب",
+      "aya_no": 51,
+      "page": 425
+    },
+    {
+      "quarter_num": 169,
+      "juz": 22,
+      "hizb": 43,
+      "quarter_in_hizb": 1,
+      "sura_no": 33,
+      "sura_name": "الأحزَاب",
+      "aya_no": 60,
+      "page": 426
+    },
+    {
+      "quarter_num": 170,
+      "juz": 22,
+      "hizb": 43,
+      "quarter_in_hizb": 2,
+      "sura_no": 34,
+      "sura_name": "سَبإ",
+      "aya_no": 10,
+      "page": 429
+    },
+    {
+      "quarter_num": 171,
+      "juz": 22,
+      "hizb": 43,
+      "quarter_in_hizb": 3,
+      "sura_no": 34,
+      "sura_name": "سَبإ",
+      "aya_no": 24,
+      "page": 431
+    },
+    {
+      "quarter_num": 172,
+      "juz": 22,
+      "hizb": 43,
+      "quarter_in_hizb": 4,
+      "sura_no": 34,
+      "sura_name": "سَبإ",
+      "aya_no": 46,
+      "page": 433
+    },
+    {
+      "quarter_num": 173,
+      "juz": 22,
+      "hizb": 44,
+      "quarter_in_hizb": 1,
+      "sura_no": 35,
+      "sura_name": "فَاطِر",
+      "aya_no": 15,
+      "page": 436
+    },
+    {
+      "quarter_num": 174,
+      "juz": 22,
+      "hizb": 44,
+      "quarter_in_hizb": 2,
+      "sura_no": 35,
+      "sura_name": "فَاطِر",
+      "aya_no": 41,
+      "page": 439
+    },
+    {
+      "quarter_num": 175,
+      "juz": 22,
+      "hizb": 44,
+      "quarter_in_hizb": 3,
+      "sura_no": 36,
+      "sura_name": "يسٓ",
+      "aya_no": 28,
+      "page": 442
+    },
+    {
+      "quarter_num": 176,
+      "juz": 22,
+      "hizb": 44,
+      "quarter_in_hizb": 4,
+      "sura_no": 36,
+      "sura_name": "يسٓ",
+      "aya_no": 60,
+      "page": 444
+    },
+    {
+      "quarter_num": 177,
+      "juz": 23,
+      "hizb": 45,
+      "quarter_in_hizb": 1,
+      "sura_no": 37,
+      "sura_name": "الصَّافَات",
+      "aya_no": 22,
+      "page": 446
+    },
+    {
+      "quarter_num": 178,
+      "juz": 23,
+      "hizb": 45,
+      "quarter_in_hizb": 2,
+      "sura_no": 37,
+      "sura_name": "الصَّافَات",
+      "aya_no": 83,
+      "page": 449
+    },
+    {
+      "quarter_num": 179,
+      "juz": 23,
+      "hizb": 45,
+      "quarter_in_hizb": 3,
+      "sura_no": 37,
+      "sura_name": "الصَّافَات",
+      "aya_no": 145,
+      "page": 451
+    },
+    {
+      "quarter_num": 180,
+      "juz": 23,
+      "hizb": 45,
+      "quarter_in_hizb": 4,
+      "sura_no": 38,
+      "sura_name": "صٓ",
+      "aya_no": 21,
+      "page": 454
+    },
+    {
+      "quarter_num": 181,
+      "juz": 23,
+      "hizb": 46,
+      "quarter_in_hizb": 1,
+      "sura_no": 38,
+      "sura_name": "صٓ",
+      "aya_no": 52,
+      "page": 456
+    },
+    {
+      "quarter_num": 182,
+      "juz": 23,
+      "hizb": 46,
+      "quarter_in_hizb": 2,
+      "sura_no": 39,
+      "sura_name": "الزُّمَر",
+      "aya_no": 8,
+      "page": 459
+    },
+    {
+      "quarter_num": 183,
+      "juz": 23,
+      "hizb": 46,
+      "quarter_in_hizb": 3,
+      "sura_no": 39,
+      "sura_name": "الزُّمَر",
+      "aya_no": 32,
+      "page": 462
+    },
+    {
+      "quarter_num": 184,
+      "juz": 23,
+      "hizb": 46,
+      "quarter_in_hizb": 4,
+      "sura_no": 39,
+      "sura_name": "الزُّمَر",
+      "aya_no": 53,
+      "page": 464
+    },
+    {
+      "quarter_num": 185,
+      "juz": 24,
+      "hizb": 47,
+      "quarter_in_hizb": 1,
+      "sura_no": 39,
+      "sura_name": "الزُّمَر",
+      "aya_no": 71,
+      "page": 466
+    },
+    {
+      "quarter_num": 186,
+      "juz": 24,
+      "hizb": 47,
+      "quarter_in_hizb": 2,
+      "sura_no": 40,
+      "sura_name": "غَافِر",
+      "aya_no": 21,
+      "page": 469
+    },
+    {
+      "quarter_num": 187,
+      "juz": 24,
+      "hizb": 47,
+      "quarter_in_hizb": 3,
+      "sura_no": 40,
+      "sura_name": "غَافِر",
+      "aya_no": 41,
+      "page": 472
+    },
+    {
+      "quarter_num": 188,
+      "juz": 24,
+      "hizb": 47,
+      "quarter_in_hizb": 4,
+      "sura_no": 40,
+      "sura_name": "غَافِر",
+      "aya_no": 66,
+      "page": 474
+    },
+    {
+      "quarter_num": 189,
+      "juz": 24,
+      "hizb": 48,
+      "quarter_in_hizb": 1,
+      "sura_no": 41,
+      "sura_name": "فُصِّلَت",
+      "aya_no": 9,
+      "page": 477
+    },
+    {
+      "quarter_num": 190,
+      "juz": 24,
+      "hizb": 48,
+      "quarter_in_hizb": 2,
+      "sura_no": 41,
+      "sura_name": "فُصِّلَت",
+      "aya_no": 25,
+      "page": 479
+    },
+    {
+      "quarter_num": 191,
+      "juz": 24,
+      "hizb": 48,
+      "quarter_in_hizb": 3,
+      "sura_no": 41,
+      "sura_name": "فُصِّلَت",
+      "aya_no": 47,
+      "page": 482
+    },
+    {
+      "quarter_num": 192,
+      "juz": 24,
+      "hizb": 48,
+      "quarter_in_hizb": 4,
+      "sura_no": 42,
+      "sura_name": "الشُّوري",
+      "aya_no": 13,
+      "page": 484
+    },
+    {
+      "quarter_num": 193,
+      "juz": 25,
+      "hizb": 49,
+      "quarter_in_hizb": 1,
+      "sura_no": 42,
+      "sura_name": "الشُّوري",
+      "aya_no": 27,
+      "page": 486
+    },
+    {
+      "quarter_num": 194,
+      "juz": 25,
+      "hizb": 49,
+      "quarter_in_hizb": 2,
+      "sura_no": 42,
+      "sura_name": "الشُّوري",
+      "aya_no": 51,
+      "page": 488
+    },
+    {
+      "quarter_num": 195,
+      "juz": 25,
+      "hizb": 49,
+      "quarter_in_hizb": 3,
+      "sura_no": 43,
+      "sura_name": "الزُّخرُف",
+      "aya_no": 24,
+      "page": 491
+    },
+    {
+      "quarter_num": 196,
+      "juz": 25,
+      "hizb": 49,
+      "quarter_in_hizb": 4,
+      "sura_no": 43,
+      "sura_name": "الزُّخرُف",
+      "aya_no": 57,
+      "page": 493
+    },
+    {
+      "quarter_num": 197,
+      "juz": 25,
+      "hizb": 50,
+      "quarter_in_hizb": 1,
+      "sura_no": 44,
+      "sura_name": "الدُّخان",
+      "aya_no": 17,
+      "page": 496
+    },
+    {
+      "quarter_num": 198,
+      "juz": 25,
+      "hizb": 50,
+      "quarter_in_hizb": 2,
+      "sura_no": 45,
+      "sura_name": "الجاثِية",
+      "aya_no": 12,
+      "page": 499
+    },
+    {
+      "quarter_num": 199,
+      "juz": 25,
+      "hizb": 50,
+      "quarter_in_hizb": 3,
+      "sura_no": 46,
+      "sura_name": "الأحقَاف",
+      "aya_no": 1,
+      "page": 502
+    },
+    {
+      "quarter_num": 200,
+      "juz": 25,
+      "hizb": 50,
+      "quarter_in_hizb": 4,
+      "sura_no": 46,
+      "sura_name": "الأحقَاف",
+      "aya_no": 21,
+      "page": 505
+    },
+    {
+      "quarter_num": 201,
+      "juz": 26,
+      "hizb": 51,
+      "quarter_in_hizb": 1,
+      "sura_no": 47,
+      "sura_name": "مُحمد",
+      "aya_no": 1,
+      "page": 507
+    },
+    {
+      "quarter_num": 202,
+      "juz": 26,
+      "hizb": 51,
+      "quarter_in_hizb": 2,
+      "sura_no": 47,
+      "sura_name": "مُحمد",
+      "aya_no": 20,
+      "page": 509
+    },
+    {
+      "quarter_num": 203,
+      "juz": 26,
+      "hizb": 51,
+      "quarter_in_hizb": 3,
+      "sura_no": 48,
+      "sura_name": "الفَتح",
+      "aya_no": 10,
+      "page": 512
+    },
+    {
+      "quarter_num": 204,
+      "juz": 26,
+      "hizb": 51,
+      "quarter_in_hizb": 4,
+      "sura_no": 48,
+      "sura_name": "الفَتح",
+      "aya_no": 29,
+      "page": 515
+    },
+    {
+      "quarter_num": 205,
+      "juz": 26,
+      "hizb": 52,
+      "quarter_in_hizb": 1,
+      "sura_no": 49,
+      "sura_name": "الحُجُرَات",
+      "aya_no": 14,
+      "page": 517
+    },
+    {
+      "quarter_num": 206,
+      "juz": 26,
+      "hizb": 52,
+      "quarter_in_hizb": 2,
+      "sura_no": 50,
+      "sura_name": "قٓ",
+      "aya_no": 27,
+      "page": 519
+    },
+    {
+      "quarter_num": 207,
+      "juz": 26,
+      "hizb": 52,
+      "quarter_in_hizb": 3,
+      "sura_no": 51,
+      "sura_name": "الذَّاريَات",
+      "aya_no": 31,
+      "page": 522
+    },
+    {
+      "quarter_num": 208,
+      "juz": 26,
+      "hizb": 52,
+      "quarter_in_hizb": 4,
+      "sura_no": 52,
+      "sura_name": "الطُّور",
+      "aya_no": 24,
+      "page": 524
+    },
+    {
+      "quarter_num": 209,
+      "juz": 27,
+      "hizb": 53,
+      "quarter_in_hizb": 1,
+      "sura_no": 53,
+      "sura_name": "النَّجم",
+      "aya_no": 27,
+      "page": 527
+    },
+    {
+      "quarter_num": 210,
+      "juz": 27,
+      "hizb": 53,
+      "quarter_in_hizb": 2,
+      "sura_no": 54,
+      "sura_name": "القَمَر",
+      "aya_no": 28,
+      "page": 530
+    },
+    {
+      "quarter_num": 211,
+      "juz": 27,
+      "hizb": 53,
+      "quarter_in_hizb": 3,
+      "sura_no": 55,
+      "sura_name": "الرَّحمٰن",
+      "aya_no": 26,
+      "page": 532
+    },
+    {
+      "quarter_num": 212,
+      "juz": 27,
+      "hizb": 53,
+      "quarter_in_hizb": 4,
+      "sura_no": 56,
+      "sura_name": "الوَاقِعة",
+      "aya_no": 17,
+      "page": 535
+    },
+    {
+      "quarter_num": 213,
+      "juz": 27,
+      "hizb": 54,
+      "quarter_in_hizb": 1,
+      "sura_no": 56,
+      "sura_name": "الوَاقِعة",
+      "aya_no": 75,
+      "page": 536
+    },
+    {
+      "quarter_num": 214,
+      "juz": 27,
+      "hizb": 54,
+      "quarter_in_hizb": 2,
+      "sura_no": 57,
+      "sura_name": "الحدِيد",
+      "aya_no": 16,
+      "page": 539
+    },
+    {
+      "quarter_num": 215,
+      "juz": 27,
+      "hizb": 54,
+      "quarter_in_hizb": 3,
+      "sura_no": 58,
+      "sura_name": "المُجَادلة",
+      "aya_no": 1,
+      "page": 542
+    },
+    {
+      "quarter_num": 216,
+      "juz": 27,
+      "hizb": 54,
+      "quarter_in_hizb": 4,
+      "sura_no": 58,
+      "sura_name": "المُجَادلة",
+      "aya_no": 14,
+      "page": 544
+    },
+    {
+      "quarter_num": 217,
+      "juz": 28,
+      "hizb": 55,
+      "quarter_in_hizb": 1,
+      "sura_no": 59,
+      "sura_name": "الحَشر",
+      "aya_no": 1,
+      "page": 545
+    },
+    {
+      "quarter_num": 218,
+      "juz": 28,
+      "hizb": 55,
+      "quarter_in_hizb": 2,
+      "sura_no": 59,
+      "sura_name": "الحَشر",
+      "aya_no": 11,
+      "page": 547
+    },
+    {
+      "quarter_num": 219,
+      "juz": 28,
+      "hizb": 55,
+      "quarter_in_hizb": 3,
+      "sura_no": 60,
+      "sura_name": "المُمتَحنَة",
+      "aya_no": 7,
+      "page": 550
+    },
+    {
+      "quarter_num": 220,
+      "juz": 28,
+      "hizb": 55,
+      "quarter_in_hizb": 4,
+      "sura_no": 61,
+      "sura_name": "الصَّف",
+      "aya_no": 6,
+      "page": 552
+    },
+    {
+      "quarter_num": 221,
+      "juz": 28,
+      "hizb": 56,
+      "quarter_in_hizb": 1,
+      "sura_no": 62,
+      "sura_name": "الجُمعَة",
+      "aya_no": 9,
+      "page": 554
+    },
+    {
+      "quarter_num": 222,
+      "juz": 28,
+      "hizb": 56,
+      "quarter_in_hizb": 2,
+      "sura_no": 64,
+      "sura_name": "التغَابُن",
+      "aya_no": 1,
+      "page": 556
+    },
+    {
+      "quarter_num": 223,
+      "juz": 28,
+      "hizb": 56,
+      "quarter_in_hizb": 3,
+      "sura_no": 65,
+      "sura_name": "الطَّلَاق",
+      "aya_no": 6,
+      "page": 559
+    },
+    {
+      "quarter_num": 224,
+      "juz": 28,
+      "hizb": 56,
+      "quarter_in_hizb": 4,
+      "sura_no": 66,
+      "sura_name": "التَّحرِيم",
+      "aya_no": 8,
+      "page": 561
+    },
+    {
+      "quarter_num": 225,
+      "juz": 29,
+      "hizb": 57,
+      "quarter_in_hizb": 1,
+      "sura_no": 67,
+      "sura_name": "المُلك",
+      "aya_no": 1,
+      "page": 562
+    },
+    {
+      "quarter_num": 226,
+      "juz": 29,
+      "hizb": 57,
+      "quarter_in_hizb": 2,
+      "sura_no": 68,
+      "sura_name": "القَلَم",
+      "aya_no": 1,
+      "page": 564
+    },
+    {
+      "quarter_num": 227,
+      "juz": 29,
+      "hizb": 57,
+      "quarter_in_hizb": 3,
+      "sura_no": 69,
+      "sura_name": "الحَاقة",
+      "aya_no": 1,
+      "page": 566
+    },
+    {
+      "quarter_num": 228,
+      "juz": 29,
+      "hizb": 57,
+      "quarter_in_hizb": 4,
+      "sura_no": 70,
+      "sura_name": "المَعَارج",
+      "aya_no": 19,
+      "page": 569
+    },
+    {
+      "quarter_num": 229,
+      "juz": 29,
+      "hizb": 58,
+      "quarter_in_hizb": 1,
+      "sura_no": 72,
+      "sura_name": "الجِن",
+      "aya_no": 1,
+      "page": 572
+    },
+    {
+      "quarter_num": 230,
+      "juz": 29,
+      "hizb": 58,
+      "quarter_in_hizb": 2,
+      "sura_no": 73,
+      "sura_name": "المُزمل",
+      "aya_no": 20,
+      "page": 575
+    },
+    {
+      "quarter_num": 231,
+      "juz": 29,
+      "hizb": 58,
+      "quarter_in_hizb": 3,
+      "sura_no": 75,
+      "sura_name": "القِيَامة",
+      "aya_no": 1,
+      "page": 577
+    },
+    {
+      "quarter_num": 232,
+      "juz": 29,
+      "hizb": 58,
+      "quarter_in_hizb": 4,
+      "sura_no": 77,
+      "sura_name": "المُرسَلات",
+      "aya_no": 1,
+      "page": 580
+    },
+    {
+      "quarter_num": 233,
+      "juz": 30,
+      "hizb": 59,
+      "quarter_in_hizb": 1,
+      "sura_no": 78,
+      "sura_name": "النَّبَإ",
+      "aya_no": 1,
+      "page": 582
+    },
+    {
+      "quarter_num": 234,
+      "juz": 30,
+      "hizb": 59,
+      "quarter_in_hizb": 2,
+      "sura_no": 80,
+      "sura_name": "عَبَسَ",
+      "aya_no": 1,
+      "page": 585
+    },
+    {
+      "quarter_num": 235,
+      "juz": 30,
+      "hizb": 59,
+      "quarter_in_hizb": 3,
+      "sura_no": 82,
+      "sura_name": "الانفِطَار",
+      "aya_no": 1,
+      "page": 587
+    },
+    {
+      "quarter_num": 236,
+      "juz": 30,
+      "hizb": 59,
+      "quarter_in_hizb": 4,
+      "sura_no": 84,
+      "sura_name": "الانشِقَاق",
+      "aya_no": 1,
+      "page": 589
+    },
+    {
+      "quarter_num": 237,
+      "juz": 30,
+      "hizb": 60,
+      "quarter_in_hizb": 1,
+      "sura_no": 87,
+      "sura_name": "الأعلى",
+      "aya_no": 1,
+      "page": 591
+    },
+    {
+      "quarter_num": 238,
+      "juz": 30,
+      "hizb": 60,
+      "quarter_in_hizb": 2,
+      "sura_no": 90,
+      "sura_name": "البَلَد",
+      "aya_no": 1,
+      "page": 594
+    },
+    {
+      "quarter_num": 239,
+      "juz": 30,
+      "hizb": 60,
+      "quarter_in_hizb": 3,
+      "sura_no": 94,
+      "sura_name": "الشَّرح",
+      "aya_no": 1,
+      "page": 596
+    },
+    {
+      "quarter_num": 240,
+      "juz": 30,
+      "hizb": 60,
+      "quarter_in_hizb": 4,
+      "sura_no": 100,
+      "sura_name": "العَاديَات",
+      "aya_no": 1,
+      "page": 599
+    }
+  ],
+  "total_ahzab": 60,
+  "total_quarters": 240
+}

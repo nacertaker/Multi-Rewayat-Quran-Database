@@ -1,0 +1,197 @@
+{
+  "collected_at": "2025-11-28T19:58:30.698811",
+  "reciters": [
+    {
+      "reciter_id": 1,
+      "reciter_name": "إبراهيم الأخضر",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6348,
+      "file": "data\\audio_recitations\\hafs\\1_1_إبراهيم_الأخضر.json"
+    },
+    {
+      "reciter_id": 5,
+      "reciter_name": "أحمد بن علي العجمي",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6350,
+      "file": "data\\audio_recitations\\hafs\\5_5_أحمد_بن_علي_العجمي.json"
+    },
+    {
+      "reciter_id": 9,
+      "reciter_name": "أحمد نعينع",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6350,
+      "file": "data\\audio_recitations\\hafs\\9_9_أحمد_نعينع.json"
+    },
+    {
+      "reciter_id": 10,
+      "reciter_name": "أكرم العلاقمي",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6350,
+      "file": "data\\audio_recitations\\hafs\\10_10_أكرم_العلاقمي.json"
+    },
+    {
+      "reciter_id": 31,
+      "reciter_name": "سعود الشريم",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6355,
+      "file": "data\\audio_recitations\\hafs\\31_31_سعود_الشريم.json"
+    },
+    {
+      "reciter_id": 32,
+      "reciter_name": "سهل ياسين",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6350,
+      "file": "data\\audio_recitations\\hafs\\32_32_سهل_ياسين.json"
+    },
+    {
+      "reciter_id": 51,
+      "reciter_name": "عبدالباسط عبدالصمد",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6349,
+      "file": "data\\audio_recitations\\hafs\\51_53_عبدالباسط_عبدالصمد.json"
+    },
+    {
+      "reciter_id": 51,
+      "reciter_name": "عبدالباسط عبدالصمد",
+      "moshaf_name": "ورش عن نافع - مرتل",
+      "riwayah": "warsh",
+      "total_ayat": 6349,
+      "file": "data\\audio_recitations\\warsh\\51_52_عبدالباسط_عبدالصمد.json"
+    },
+    {
+      "reciter_id": 60,
+      "reciter_name": "عبدالله بصفر",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6348,
+      "file": "data\\audio_recitations\\hafs\\60_60_عبدالله_بصفر.json"
+    },
+    {
+      "reciter_id": 62,
+      "reciter_name": "عبدالله عواد الجهني",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6339,
+      "file": "data\\audio_recitations\\hafs\\62_62_عبدالله_عواد_الجهني.json"
+    },
+    {
+      "reciter_id": 67,
+      "reciter_name": "عبدالمحسن القاسم",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6326,
+      "file": "data\\audio_recitations\\hafs\\67_67_عبدالمحسن_القاسم.json"
+    },
+    {
+      "reciter_id": 74,
+      "reciter_name": "علي بن عبدالرحمن الحذيفي",
+      "moshaf_name": "شعبة  عن عاصم - مرتل",
+      "riwayah": "shuba",
+      "total_ayat": 6237,
+      "file": "data\\audio_recitations\\shuba\\74_305_علي_بن_عبدالرحمن_الحذيفي.json"
+    },
+    {
+      "reciter_id": 74,
+      "reciter_name": "علي بن عبدالرحمن الحذيفي",
+      "moshaf_name": "قالون عن نافع - مرتل",
+      "riwayah": "qaloun",
+      "total_ayat": 6237,
+      "file": "data\\audio_recitations\\qaloun\\74_75_علي_بن_عبدالرحمن_الحذيفي.json"
+    },
+    {
+      "reciter_id": 74,
+      "reciter_name": "علي بن عبدالرحمن الحذيفي",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6237,
+      "file": "data\\audio_recitations\\hafs\\74_74_علي_بن_عبدالرحمن_الحذيفي.json"
+    },
+    {
+      "reciter_id": 77,
+      "reciter_name": "علي حجاج السويسي",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6350,
+      "file": "data\\audio_recitations\\hafs\\77_77_علي_حجاج_السويسي.json"
+    },
+    {
+      "reciter_id": 78,
+      "reciter_name": "عماد زهير حافظ",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6348,
+      "file": "data\\audio_recitations\\hafs\\78_78_عماد_زهير_حافظ.json"
+    },
+    {
+      "reciter_id": 106,
+      "reciter_name": "محمد الطبلاوي",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6350,
+      "file": "data\\audio_recitations\\hafs\\106_106_محمد_الطبلاوي.json"
+    },
+    {
+      "reciter_id": 112,
+      "reciter_name": "محمد صديق المنشاوي",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6349,
+      "file": "data\\audio_recitations\\hafs\\112_112_محمد_صديق_المنشاوي.json"
+    },
+    {
+      "reciter_id": 118,
+      "reciter_name": "محمود خليل الحصري",
+      "moshaf_name": "قالون عن نافع - مرتل",
+      "riwayah": "qaloun",
+      "total_ayat": 6349,
+      "file": "data\\audio_recitations\\qaloun\\118_270_محمود_خليل_الحصري.json"
+    },
+    {
+      "reciter_id": 118,
+      "reciter_name": "محمود خليل الحصري",
+      "moshaf_name": "الدوري عن أبي عمرو - مرتل",
+      "riwayah": "douri",
+      "total_ayat": 6349,
+      "file": "data\\audio_recitations\\douri\\118_269_محمود_خليل_الحصري.json"
+    },
+    {
+      "reciter_id": 118,
+      "reciter_name": "محمود خليل الحصري",
+      "moshaf_name": "ورش عن نافع - مرتل",
+      "riwayah": "warsh",
+      "total_ayat": 6349,
+      "file": "data\\audio_recitations\\warsh\\118_120_محمود_خليل_الحصري.json"
+    },
+    {
+      "reciter_id": 118,
+      "reciter_name": "محمود خليل الحصري",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6349,
+      "file": "data\\audio_recitations\\hafs\\118_118_محمود_خليل_الحصري.json"
+    },
+    {
+      "reciter_id": 159,
+      "reciter_name": "خالد المهنا",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6348,
+      "file": "data\\audio_recitations\\hafs\\159_159_خالد_المهنا.json"
+    },
+    {
+      "reciter_id": 256,
+      "reciter_name": "أحمد خليل شاهين",
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "riwayah": "hafs",
+      "total_ayat": 6348,
+      "file": "data\\audio_recitations\\hafs\\256_256_أحمد_خليل_شاهين.json"
+    }
+  ]
+}

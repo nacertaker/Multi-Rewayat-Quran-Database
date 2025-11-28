@@ -1,0 +1,13 @@
+{
+  "reciter_id": 51,
+  "reciter_name": "عبدالباسط عبدالصمد",
+  "moshaf_id": 51,
+  "moshaf_name": "المصحف المجود",
+  "server": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/",
+  "collected_at": "2025-11-28T20:50:23.036313",
+  "surahs": {},
+  "stats": {
+    "successful_surahs": 0,
+    "total_ayat": 0
+  }
+}

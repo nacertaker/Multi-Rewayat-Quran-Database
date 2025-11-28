@@ -1,0 +1,735 @@
+/* الخطوط العثمانية */
+@font-face {
+    font-family: 'Uthmanic_Hafs';
+    src: url('fonts/uthmanic_hafs_v20.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Uthmanic_Douri';
+    src: url('fonts/uthmanic_douri_v20.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Uthmanic_Warsh';
+    src: url('fonts/uthmanic_warsh_v21.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Uthmanic_Qaloun';
+    src: url('fonts/uthmanic_qaloun_v21.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Uthmanic_Shuba';
+    src: url('fonts/uthmanic_shuba_v20.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Uthmanic_Sousi';
+    src: url('fonts/uthmanic_sousi_v20.ttf') format('truetype');
+}
+
+/* المتغيرات */
+:root {
+    --primary-color: #1a5f4a;
+    --primary-dark: #0d3d2e;
+    --primary-light: #2d8a6a;
+    --gold: #c9a227;
+    --gold-light: #e6c65a;
+    --bg-color: #f5f0e6;
+    --bg-paper: #fffef7;
+    --text-color: #1a1a1a;
+    --text-light: #666;
+    --border-color: #d4c9b0;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    --radius: 12px;
+    --font-size-ayah: 28px;
+    --line-height: 2.2;
+}
+
+/* إعادة تعيين */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: linear-gradient(135deg, #e8e0d0 0%, #f5f0e6 50%, #e8e0d0 100%);
+    min-height: 100vh;
+    color: var(--text-color);
+}
+
+/* حاوية التطبيق */
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* الشريط العلوي */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+    color: white;
+    box-shadow: var(--shadow);
+}
+
+.header h1 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.header .subtitle {
+    font-size: 14px;
+    opacity: 0.8;
+    margin-right: 10px;
+}
+
+.header-center {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.select-riwayah {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 2px solid var(--gold);
+    border-radius: var(--radius);
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    cursor: pointer;
+    min-width: 200px;
+}
+
+.select-riwayah option {
+    background: var(--primary-dark);
+    color: white;
+}
+
+.header-left {
+    display: flex;
+    gap: 10px;
+}
+
+.btn-icon {
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn-icon:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: scale(1.1);
+}
+
+/* المحتوى الرئيسي */
+.main-content {
+    flex: 1;
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+
+/* الشريط الجانبي */
+.sidebar {
+    width: 300px;
+    background: white;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    transition: all 0.3s;
+}
+
+.sidebar.hidden {
+    display: none;
+}
+
+.sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: var(--primary-color);
+    color: white;
+}
+
+.sidebar-header h3 {
+    font-size: 18px;
+}
+
+.sidebar-content {
+    padding: 10px;
+    max-height: calc(100vh - 250px);
+    overflow-y: auto;
+}
+
+.sidebar-content::-webkit-scrollbar {
+    width: 6px;
+}
+
+.sidebar-content::-webkit-scrollbar-track {
+    background: var(--bg-color);
+}
+
+.sidebar-content::-webkit-scrollbar-thumb {
+    background: var(--primary-light);
+    border-radius: 3px;
+}
+
+.index-item {
+    padding: 12px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.index-item:last-child {
+    border-bottom: none;
+}
+
+.index-item:hover {
+    background: var(--bg-color);
+    transform: translateX(-3px);
+}
+
+.index-main {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.index-number {
+    width: 35px;
+    height: 35px;
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.index-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.index-name {
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--text-color);
+}
+
+.index-sub {
+    font-size: 12px;
+    color: var(--text-light);
+}
+
+.index-page {
+    font-size: 13px;
+    color: var(--primary-color);
+    font-weight: 500;
+    background: var(--bg-color);
+    padding: 4px 10px;
+    border-radius: 12px;
+}
+
+/* صفحة المصحف */
+.mushaf-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background: var(--bg-paper);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+}
+
+.page-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    background: linear-gradient(to bottom, var(--gold), var(--gold-light));
+    color: var(--primary-dark);
+    font-weight: 600;
+}
+
+.mushaf-content {
+    flex: 1;
+    padding: 30px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 600px;
+    background: 
+        linear-gradient(90deg, transparent 0%, rgba(0,0,0,0.02) 50%, transparent 100%),
+        var(--bg-paper);
+    border: 1px solid var(--border-color);
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.mushaf-content.hafs { font-family: 'Uthmanic_Hafs', serif; }
+.mushaf-content.douri { font-family: 'Uthmanic_Douri', serif; }
+.mushaf-content.warsh { font-family: 'Uthmanic_Warsh', serif; }
+.mushaf-content.qaloun { font-family: 'Uthmanic_Qaloun', serif; }
+.mushaf-content.shuba { font-family: 'Uthmanic_Shuba', serif; }
+.mushaf-content.sousi { font-family: 'Uthmanic_Sousi', serif; }
+
+/* الأسطر */
+.line {
+    font-size: var(--font-size-ayah);
+    line-height: var(--line-height);
+    text-align: center;
+    padding: 5px 0;
+    cursor: pointer;
+    transition: background 0.2s;
+    min-height: 50px;
+}
+
+.line:hover {
+    background: rgba(201, 162, 39, 0.1);
+    border-radius: 5px;
+}
+
+.line.playing {
+    background: linear-gradient(90deg, rgba(201, 162, 39, 0.4), rgba(201, 162, 39, 0.2), rgba(201, 162, 39, 0.4));
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(201, 162, 39, 0.3);
+    animation: pulse 2s ease-in-out infinite;
+    position: relative;
+}
+
+.line.playing::before {
+    content: '';
+    position: absolute;
+    right: -5px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 4px;
+    height: 70%;
+    background: var(--gold);
+    border-radius: 2px;
+}
+
+@keyframes pulse {
+    0%, 100% { 
+        background: linear-gradient(90deg, rgba(201, 162, 39, 0.4), rgba(201, 162, 39, 0.2), rgba(201, 162, 39, 0.4));
+    }
+    50% { 
+        background: linear-gradient(90deg, rgba(201, 162, 39, 0.25), rgba(201, 162, 39, 0.1), rgba(201, 162, 39, 0.25));
+    }
+}
+
+.line.header {
+    font-size: 24px;
+    color: var(--primary-color);
+    font-weight: bold;
+    padding: 10px 0;
+    border-bottom: 2px solid var(--gold);
+    margin-bottom: 10px;
+}
+
+.line.basmala {
+    font-size: 26px;
+    color: var(--primary-dark);
+    padding: 15px 0;
+}
+
+.line.empty {
+    min-height: 40px;
+}
+
+/* التنقل */
+.page-navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    background: var(--bg-color);
+}
+
+.btn-nav {
+    padding: 12px 25px;
+    border: 2px solid var(--primary-color);
+    border-radius: var(--radius);
+    background: white;
+    color: var(--primary-color);
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn-nav:hover {
+    background: var(--primary-color);
+    color: white;
+}
+
+.page-number {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+}
+
+.page-number input {
+    width: 60px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+/* لوحة المعلومات */
+.info-panel {
+    width: 350px;
+    background: white;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    transition: all 0.3s;
+}
+
+.info-panel.hidden {
+    display: none;
+}
+
+.panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+    background: var(--primary-color);
+}
+
+.panel-tabs {
+    display: flex;
+    gap: 5px;
+}
+
+.tab {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.tab.active {
+    background: var(--gold);
+    color: var(--primary-dark);
+}
+
+.panel-content {
+    padding: 20px;
+    max-height: calc(100vh - 300px);
+    overflow-y: auto;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.panel-content .hint {
+    color: var(--text-light);
+    text-align: center;
+    padding: 30px;
+}
+
+.panel-content .ayah-text {
+    font-family: 'Uthmanic_Hafs', serif;
+    font-size: 22px;
+    text-align: center;
+    padding: 15px;
+    background: var(--bg-color);
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.panel-content .tafseer-text,
+.panel-content .translation-text {
+    line-height: 2;
+}
+
+/* زر الإغلاق */
+.btn-close {
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-close:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+/* مشغل الصوت */
+.audio-player {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 15px 30px;
+    background: linear-gradient(135deg, var(--primary-dark), var(--primary-color));
+    color: white;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media (min-width: 900px) {
+    .audio-player {
+        flex-wrap: nowrap;
+    }
+}
+
+.player-info {
+    min-width: 150px;
+}
+
+.player-info span {
+    display: block;
+}
+
+.player-info span:first-child {
+    font-weight: 600;
+}
+
+.player-info span:last-child {
+    font-size: 12px;
+    opacity: 0.8;
+}
+
+.player-controls {
+    display: flex;
+    gap: 10px;
+}
+
+.btn-player {
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-player:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.btn-play {
+    width: 50px;
+    height: 50px;
+    background: var(--gold);
+    color: var(--primary-dark);
+}
+
+.player-progress {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.player-progress input[type="range"] {
+    flex: 1;
+    height: 6px;
+    border-radius: 3px;
+    background: rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+}
+
+.select-reciter {
+    padding: 10px 20px;
+    border: 2px solid var(--gold);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    min-width: 180px;
+}
+
+.select-reciter option {
+    background: var(--primary-dark);
+    color: white;
+}
+
+/* نافذة البحث */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.modal.hidden {
+    display: none;
+}
+
+.modal-content {
+    background: white;
+    border-radius: var(--radius);
+    width: 90%;
+    max-width: 600px;
+    max-height: 80vh;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: var(--primary-color);
+    color: white;
+}
+
+.search-box {
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.search-box input {
+    flex: 1;
+    padding: 12px 15px;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.search-box input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+}
+
+.btn-search {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    background: var(--primary-color);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.search-results {
+    padding: 15px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.search-result-item {
+    padding: 15px;
+    border-bottom: 1px solid var(--border-color);
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.search-result-item:hover {
+    background: var(--bg-color);
+}
+
+.search-result-item .surah-name {
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 5px;
+}
+
+.search-result-item .ayah-text {
+    font-family: 'Uthmanic_Hafs', serif;
+    font-size: 18px;
+}
+
+/* التحميل */
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 18px;
+    color: var(--text-light);
+}
+
+/* التجاوب */
+@media (max-width: 1200px) {
+    .sidebar, .info-panel {
+        position: fixed;
+        top: 0;
+        height: 100vh;
+        z-index: 100;
+    }
+    
+    .sidebar {
+        right: 0;
+    }
+    
+    .info-panel {
+        left: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        gap: 10px;
+        padding: 15px;
+    }
+    
+    .mushaf-content {
+        padding: 20px;
+        margin: 10px;
+    }
+    
+    .line {
+        font-size: 22px;
+    }
+    
+    .page-navigation {
+        flex-wrap: wrap;
+    }
+    
+    .audio-player {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+

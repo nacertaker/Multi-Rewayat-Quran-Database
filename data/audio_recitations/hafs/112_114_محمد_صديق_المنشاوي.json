@@ -1,0 +1,13 @@
+{
+  "reciter_id": 112,
+  "reciter_name": "محمد صديق المنشاوي",
+  "moshaf_id": 114,
+  "moshaf_name": "المصحف المعلم",
+  "server": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim/",
+  "collected_at": "2025-11-28T20:52:00.074433",
+  "surahs": {},
+  "stats": {
+    "successful_surahs": 0,
+    "total_ayat": 0
+  }
+}

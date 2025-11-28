@@ -1,0 +1,13 @@
+{
+  "reciter_id": 118,
+  "reciter_name": "محمود خليل الحصري",
+  "moshaf_id": 119,
+  "moshaf_name": "المصحف المجود",
+  "server": "https://server13.mp3quran.net/husr/Almusshaf-Al-Mojawwad/",
+  "collected_at": "2025-11-28T20:55:19.039405",
+  "surahs": {},
+  "stats": {
+    "successful_surahs": 0,
+    "total_ayat": 0
+  }
+}

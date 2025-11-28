@@ -1,0 +1,13 @@
+{
+  "reciter_id": 112,
+  "reciter_name": "محمد صديق المنشاوي",
+  "moshaf_id": 113,
+  "moshaf_name": "المصحف المجود",
+  "server": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mojawwad/",
+  "collected_at": "2025-11-28T20:53:44.040604",
+  "surahs": {},
+  "stats": {
+    "successful_surahs": 0,
+    "total_ayat": 0
+  }
+}

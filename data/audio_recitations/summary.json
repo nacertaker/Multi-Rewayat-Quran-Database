@@ -1,0 +1,63 @@
+{
+  "collected_at": "2025-11-28T19:51:49.153355",
+  "riwayat": {
+    "hafs": {
+      "name": "حفص عن عاصم",
+      "reciters": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "إبراهيم الأخضر",
+          "total_ayat": 6348,
+          "file": "data\\audio_recitations\\hafs\\1_إبراهيم_الأخضر.json"
+        }
+      ]
+    },
+    "warsh": {
+      "name": "ورش عن نافع",
+      "reciters": []
+    },
+    "qaloun": {
+      "name": "قالون عن نافع",
+      "reciters": [
+        {
+          "reciter_id": 74,
+          "reciter_name": "علي بن عبدالرحمن الحذيفي",
+          "total_ayat": 6237,
+          "file": "data\\audio_recitations\\qaloun\\74_علي_بن_عبدالرحمن_الحذيفي.json"
+        },
+        {
+          "reciter_id": 118,
+          "reciter_name": "محمود خليل الحصري",
+          "total_ayat": 6349,
+          "file": "data\\audio_recitations\\qaloun\\118_محمود_خليل_الحصري.json"
+        }
+      ]
+    },
+    "douri": {
+      "name": "الدوري عن أبي عمرو",
+      "reciters": [
+        {
+          "reciter_id": 118,
+          "reciter_name": "محمود خليل الحصري",
+          "total_ayat": 6349,
+          "file": "data\\audio_recitations\\douri\\118_محمود_خليل_الحصري.json"
+        }
+      ]
+    },
+    "shuba": {
+      "name": "شعبة عن عاصم",
+      "reciters": [
+        {
+          "reciter_id": 74,
+          "reciter_name": "علي بن عبدالرحمن الحذيفي",
+          "total_ayat": 6237,
+          "file": "data\\audio_recitations\\shuba\\74_علي_بن_عبدالرحمن_الحذيفي.json"
+        }
+      ]
+    },
+    "sousi": {
+      "name": "السوسي عن أبي عمرو",
+      "reciters": []
+    }
+  }
+}

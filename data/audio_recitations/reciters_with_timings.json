@@ -1,0 +1,434 @@
+{
+  "total": 28,
+  "reciters": [
+    {
+      "reciter_id": 1,
+      "reciter_name": "إبراهيم الأخضر",
+      "moshaf_id": 1,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server6.mp3quran.net/akdr/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 5,
+      "reciter_name": "أحمد بن علي العجمي",
+      "moshaf_id": 5,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server10.mp3quran.net/ajm/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 9,
+      "reciter_name": "أحمد نعينع",
+      "moshaf_id": 9,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server11.mp3quran.net/ahmad_nu/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 10,
+      "reciter_name": "أكرم العلاقمي",
+      "moshaf_id": 10,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server9.mp3quran.net/akrm/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 31,
+      "reciter_name": "سعود الشريم",
+      "moshaf_id": 31,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server7.mp3quran.net/shur/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 32,
+      "reciter_name": "سهل ياسين",
+      "moshaf_id": 32,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server6.mp3quran.net/shl/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 51,
+      "reciter_name": "عبدالباسط عبدالصمد",
+      "moshaf_id": 53,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server7.mp3quran.net/basit/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 51,
+      "reciter_name": "عبدالباسط عبدالصمد",
+      "moshaf_id": 52,
+      "moshaf_name": "ورش عن نافع - مرتل",
+      "server": "https://server7.mp3quran.net/basit/Rewayat-Warsh-A-n-Nafi/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 51,
+      "reciter_name": "عبدالباسط عبدالصمد",
+      "moshaf_id": 51,
+      "moshaf_name": "المصحف المجود - المصحف المجود",
+      "server": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 60,
+      "reciter_name": "عبدالله بصفر",
+      "moshaf_id": 60,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server6.mp3quran.net/bsfr/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 62,
+      "reciter_name": "عبدالله عواد الجهني",
+      "moshaf_id": 62,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server13.mp3quran.net/jhn/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 67,
+      "reciter_name": "عبدالمحسن القاسم",
+      "moshaf_id": 67,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server8.mp3quran.net/qasm/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 74,
+      "reciter_name": "علي بن عبدالرحمن الحذيفي",
+      "moshaf_id": 305,
+      "moshaf_name": "شعبة  عن عاصم - مرتل",
+      "server": "https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 74,
+      "reciter_name": "علي بن عبدالرحمن الحذيفي",
+      "moshaf_id": 75,
+      "moshaf_name": "قالون عن نافع - مرتل",
+      "server": "https://server9.mp3quran.net/huthifi_qalon/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 74,
+      "reciter_name": "علي بن عبدالرحمن الحذيفي",
+      "moshaf_id": 74,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server9.mp3quran.net/hthfi/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 77,
+      "reciter_name": "علي حجاج السويسي",
+      "moshaf_id": 77,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server9.mp3quran.net/hajjaj/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 78,
+      "reciter_name": "عماد زهير حافظ",
+      "moshaf_id": 78,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server6.mp3quran.net/hafz/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 106,
+      "reciter_name": "محمد الطبلاوي",
+      "moshaf_id": 106,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server12.mp3quran.net/tblawi/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 112,
+      "reciter_name": "محمد صديق المنشاوي",
+      "moshaf_id": 114,
+      "moshaf_name": "المصحف المعلم - المصحف المعلم",
+      "server": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 112,
+      "reciter_name": "محمد صديق المنشاوي",
+      "moshaf_id": 113,
+      "moshaf_name": "المصحف المجود - المصحف المجود",
+      "server": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mojawwad/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 112,
+      "reciter_name": "محمد صديق المنشاوي",
+      "moshaf_id": 112,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server10.mp3quran.net/minsh/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 118,
+      "reciter_name": "محمود خليل الحصري",
+      "moshaf_id": 270,
+      "moshaf_name": "قالون عن نافع - مرتل",
+      "server": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 118,
+      "reciter_name": "محمود خليل الحصري",
+      "moshaf_id": 269,
+      "moshaf_name": "الدوري عن أبي عمرو - مرتل",
+      "server": "https://server13.mp3quran.net/husr/Rewayat-Aldori-A-n-Abi-Amr/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 118,
+      "reciter_name": "محمود خليل الحصري",
+      "moshaf_id": 120,
+      "moshaf_name": "ورش عن نافع - مرتل",
+      "server": "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 118,
+      "reciter_name": "محمود خليل الحصري",
+      "moshaf_id": 119,
+      "moshaf_name": "المصحف المجود - المصحف المجود",
+      "server": "https://server13.mp3quran.net/husr/Almusshaf-Al-Mojawwad/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 118,
+      "reciter_name": "محمود خليل الحصري",
+      "moshaf_id": 118,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server13.mp3quran.net/husr/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 159,
+      "reciter_name": "خالد المهنا",
+      "moshaf_id": 159,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server11.mp3quran.net/mohna/",
+      "surah_total": 114
+    },
+    {
+      "reciter_id": 256,
+      "reciter_name": "أحمد خليل شاهين",
+      "moshaf_id": 256,
+      "moshaf_name": "حفص عن عاصم - مرتل",
+      "server": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem/",
+      "surah_total": 114
+    }
+  ],
+  "by_riwayah": {
+    "حفص": [
+      {
+        "reciter_id": 1,
+        "reciter_name": "إبراهيم الأخضر",
+        "moshaf_id": 1,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server6.mp3quran.net/akdr/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 5,
+        "reciter_name": "أحمد بن علي العجمي",
+        "moshaf_id": 5,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server10.mp3quran.net/ajm/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 9,
+        "reciter_name": "أحمد نعينع",
+        "moshaf_id": 9,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server11.mp3quran.net/ahmad_nu/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 10,
+        "reciter_name": "أكرم العلاقمي",
+        "moshaf_id": 10,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server9.mp3quran.net/akrm/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 31,
+        "reciter_name": "سعود الشريم",
+        "moshaf_id": 31,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server7.mp3quran.net/shur/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 32,
+        "reciter_name": "سهل ياسين",
+        "moshaf_id": 32,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server6.mp3quran.net/shl/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 51,
+        "reciter_name": "عبدالباسط عبدالصمد",
+        "moshaf_id": 53,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server7.mp3quran.net/basit/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 60,
+        "reciter_name": "عبدالله بصفر",
+        "moshaf_id": 60,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server6.mp3quran.net/bsfr/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 62,
+        "reciter_name": "عبدالله عواد الجهني",
+        "moshaf_id": 62,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server13.mp3quran.net/jhn/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 67,
+        "reciter_name": "عبدالمحسن القاسم",
+        "moshaf_id": 67,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server8.mp3quran.net/qasm/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 74,
+        "reciter_name": "علي بن عبدالرحمن الحذيفي",
+        "moshaf_id": 74,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server9.mp3quran.net/hthfi/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 77,
+        "reciter_name": "علي حجاج السويسي",
+        "moshaf_id": 77,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server9.mp3quran.net/hajjaj/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 78,
+        "reciter_name": "عماد زهير حافظ",
+        "moshaf_id": 78,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server6.mp3quran.net/hafz/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 106,
+        "reciter_name": "محمد الطبلاوي",
+        "moshaf_id": 106,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server12.mp3quran.net/tblawi/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 112,
+        "reciter_name": "محمد صديق المنشاوي",
+        "moshaf_id": 112,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server10.mp3quran.net/minsh/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 118,
+        "reciter_name": "محمود خليل الحصري",
+        "moshaf_id": 118,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server13.mp3quran.net/husr/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 159,
+        "reciter_name": "خالد المهنا",
+        "moshaf_id": 159,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server11.mp3quran.net/mohna/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 256,
+        "reciter_name": "أحمد خليل شاهين",
+        "moshaf_id": 256,
+        "moshaf_name": "حفص عن عاصم - مرتل",
+        "server": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem/",
+        "surah_total": 114
+      }
+    ],
+    "ورش": [
+      {
+        "reciter_id": 51,
+        "reciter_name": "عبدالباسط عبدالصمد",
+        "moshaf_id": 52,
+        "moshaf_name": "ورش عن نافع - مرتل",
+        "server": "https://server7.mp3quran.net/basit/Rewayat-Warsh-A-n-Nafi/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 118,
+        "reciter_name": "محمود خليل الحصري",
+        "moshaf_id": 120,
+        "moshaf_name": "ورش عن نافع - مرتل",
+        "server": "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/",
+        "surah_total": 114
+      }
+    ],
+    "قالون": [
+      {
+        "reciter_id": 74,
+        "reciter_name": "علي بن عبدالرحمن الحذيفي",
+        "moshaf_id": 75,
+        "moshaf_name": "قالون عن نافع - مرتل",
+        "server": "https://server9.mp3quran.net/huthifi_qalon/",
+        "surah_total": 114
+      },
+      {
+        "reciter_id": 118,
+        "reciter_name": "محمود خليل الحصري",
+        "moshaf_id": 270,
+        "moshaf_name": "قالون عن نافع - مرتل",
+        "server": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/",
+        "surah_total": 114
+      }
+    ],
+    "الدوري": [
+      {
+        "reciter_id": 118,
+        "reciter_name": "محمود خليل الحصري",
+        "moshaf_id": 269,
+        "moshaf_name": "الدوري عن أبي عمرو - مرتل",
+        "server": "https://server13.mp3quran.net/husr/Rewayat-Aldori-A-n-Abi-Amr/",
+        "surah_total": 114
+      }
+    ],
+    "شعبة": [
+      {
+        "reciter_id": 74,
+        "reciter_name": "علي بن عبدالرحمن الحذيفي",
+        "moshaf_id": 305,
+        "moshaf_name": "شعبة  عن عاصم - مرتل",
+        "server": "https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/",
+        "surah_total": 114
+      }
+    ],
+    "السوسي": []
+  }
+}

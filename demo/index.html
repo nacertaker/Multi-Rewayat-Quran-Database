@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>القرآن الكريم - متعدد الروايات</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- الشريط العلوي -->
+        <header class="header">
+            <div class="header-right">
+                <h1>القرآن الكريم</h1>
+                <span class="subtitle">متعدد الروايات</span>
+            </div>
+            <div class="header-center">
+                <select id="riwayah-select" class="select-riwayah">
+                    <option value="hafs">حفص عن عاصم</option>
+                    <option value="warsh">ورش عن نافع</option>
+                    <option value="qaloun">قالون عن نافع</option>
+                    <option value="douri">الدوري عن أبي عمرو</option>
+                    <option value="shuba">شعبة عن عاصم</option>
+                    <option value="sousi">السوسي عن أبي عمرو</option>
+                </select>
+            </div>
+            <div class="header-left">
+                <button id="btn-search" class="btn-icon" title="بحث">🔍</button>
+                <button id="btn-surahs" class="btn-icon" title="فهرس السور">📖</button>
+                <button id="btn-juzs" class="btn-icon" title="فهرس الأجزاء">📚</button>
+                <button id="btn-ahzab" class="btn-icon" title="فهرس الأحزاب">📑</button>
+            </div>
+        </header>
+
+        <!-- المحتوى الرئيسي -->
+        <main class="main-content">
+            <!-- الشريط الجانبي -->
+            <aside id="sidebar" class="sidebar hidden">
+                <div class="sidebar-header">
+                    <h3 id="sidebar-title">الفهرس</h3>
+                    <button id="btn-close-sidebar" class="btn-close">×</button>
+                </div>
+                <div id="sidebar-content" class="sidebar-content">
+                    <!-- محتوى ديناميكي -->
+                </div>
+            </aside>
+
+            <!-- صفحة المصحف -->
+            <div class="mushaf-container">
+                <div class="page-info">
+                    <span id="page-info-sura">سورة الفاتحة</span>
+                    <span id="page-info-juz">الجزء 1</span>
+                    <span id="page-info-hizb">الحزب 1</span>
+                </div>
+                
+                <div id="mushaf-content" class="mushaf-content">
+                    <!-- الأسطر ستُحمّل هنا -->
+                    <div class="loading">جاري التحميل...</div>
+                </div>
+
+                <div class="page-navigation">
+                    <button id="btn-prev" class="btn-nav">→ السابق</button>
+                    <div class="page-number">
+                        <input type="number" id="page-input" min="1" max="604" value="1">
+                        <span>/ <span id="total-pages">604</span></span>
+                    </div>
+                    <button id="btn-next" class="btn-nav">التالي ←</button>
+                </div>
+            </div>
+
+            <!-- لوحة التفسير/الترجمة -->
+            <aside id="info-panel" class="info-panel hidden">
+                <div class="panel-header">
+                    <div class="panel-tabs">
+                        <button id="tab-tafseer" class="tab active">التفسير</button>
+                        <button id="tab-translation" class="tab">الترجمة</button>
+                    </div>
+                    <button id="btn-close-panel" class="btn-close">×</button>
+                </div>
+                <div id="panel-content" class="panel-content">
+                    <p class="hint">اضغط على آية لعرض التفسير أو الترجمة</p>
+                </div>
+            </aside>
+        </main>
+
+        <!-- شريط التشغيل -->
+        <footer id="audio-player" class="audio-player">
+            <select id="reciter-select" class="select-reciter">
+                <option value="">🎧 اختر قارئ</option>
+            </select>
+            <div class="player-info">
+                <span id="player-reciter">اختر قارئ للاستماع</span>
+                <span id="player-surah"></span>
+            </div>
+            <div class="player-controls">
+                <button id="btn-prev-ayah" class="btn-player" title="الآية السابقة">⏮</button>
+                <button id="btn-play" class="btn-player btn-play" title="تشغيل/إيقاف">▶</button>
+                <button id="btn-next-ayah" class="btn-player" title="الآية التالية">⏭</button>
+            </div>
+            <div class="player-progress">
+                <span id="current-time">0:00</span>
+                <input type="range" id="progress-bar" min="0" max="100" value="0">
+                <span id="total-time">0:00</span>
+            </div>
+        </footer>
+    </div>
+
+    <!-- نافذة البحث -->
+    <div id="search-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>البحث في القرآن</h3>
+                <button class="btn-close" onclick="closeSearchModal()">×</button>
+            </div>
+            <div class="search-box">
+                <input type="text" id="search-input" placeholder="ابحث في القرآن...">
+                <button id="btn-do-search" class="btn-search">بحث</button>
+            </div>
+            <div id="search-results" class="search-results">
+                <!-- نتائج البحث -->
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
+

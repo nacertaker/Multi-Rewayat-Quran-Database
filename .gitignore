@@ -1,0 +1,50 @@
+# قاعدة البيانات
+*.db
+*.sqlite
+*.sqlite3
+
+# ملفات Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# ملفات IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ملفات نظام
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ملفات مؤقتة
+*.tmp
+*.log
+*.bak
+
+# ملفات كبيرة (البيانات المصدرية)
+# البيانات موجودة في قاعدة البيانات
+# Uthmanic*/
+# hafs_tafseerMouaser_v3/
+
+# ملفات CSV الكبيرة (موجودة في قاعدة البيانات)
+# english_saheeh.csv
+
+# ملفات JSON الكبيرة (موجودة في قاعدة البيانات)
+# data/audio_recitations/**/*.json
+# scripts/output/*.json
+
+# لكن نحتفظ بالفهارس الصغيرة
+!data/quran_index/*.json
+
